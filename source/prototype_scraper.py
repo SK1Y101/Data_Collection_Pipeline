@@ -31,10 +31,15 @@ class Scraper:
     
     # find an element using xpath details
     def find(self, tagName="*", attribute="id", value="", source=None):
-        # find the elements
-        elems = self.findAll(tagName, attribute, value, source)
-        # only return the first
-        return elems
+        # compile the xpath string
+        xpath="//{}[@{}='{}']".format(tagName, attribute, value)
+        # if a container element was not given, use the driver
+        if not source:
+            source = self.driver
+        # search for the element
+        elem = source.find_element(By.XPATH, xpath)
+        # and return it
+        return elem
     
     # find given html
     def findInHTML(self, element, htmlsearch=""):
@@ -92,12 +97,7 @@ def search_exoplanet(scraper, name):
 
 # main program loop
 def main():
-    # source location
-    # https://exoplanets.nasa.gov/discovery/exoplanet-catalog/
-    # examples of query:
-    #11 comae berenices b: https://exoplanets.nasa.gov/exoplanet-catalog/6988/11-comae-berenices-b/
-    #HAT-P-44 bhttps://exoplanets.nasa.gov/exoplanet-catalog/1260/hat-p-44-b/
-
+    # Try using it on the initial website!
     # create the scraper instance
     scraper = Scraper()
 
@@ -118,7 +118,7 @@ def main():
     # fetch a reference to all exoplanets in the table
     exoplanets = scraper.findAll("ul", "class", "exoplanet", results_table)
 
-    print(exoplanets)
+    print([exoplanet.text for exoplanet in exoplanets])
 
 # only execute if this is the top level code
 if __name__ == "__main__":
