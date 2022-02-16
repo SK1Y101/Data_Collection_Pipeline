@@ -4,10 +4,13 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.firefox import GeckoDriverManager
 
 from time import sleep as wait
 from random import random
+
+import uuid
 
 ## base scraper class
 class Scraper:
@@ -51,13 +54,6 @@ class Scraper:
         if len(links) <= 1:
             return links[0]
         return links
-    
-    # find given html
-    def findInHTML(self, element, htmlsearch=""):
-        # fetch the html of the element
-        html = self.elementHTML(element)
-        # and return the value found
-        return html.split(htmlsearch)[1].replace("'", '"').split('"')[1]
  
     # navigate to a webpage
     def navigate(self, url):
@@ -101,10 +97,75 @@ def search_exoplanet(scraper, name):
     # and return the link for this exoplanet
     return "https://exoplanets.nasa.gov/"+href
 
-# main program loop
-def main():
+# fetch all exoplanet links on the page
+def fetch_exoplanet_links(scraper):
+    print("Fetching exoplanet links")
     # empty dictionary that stores reference information
     refs = dict()
+    # look for how many pages of results there are
+    page_total = scraper.find("span", "class", "total_pages").text
+    # find a reference to the next page button to click when done
+    next_page = scraper.find("a", "rel", "next")
+
+    # now itterate on each page
+    for x in range(1):#int(page_total) - 1):
+        # compile a list of all exoplanets on the page
+        results_table = scraper.find("div", "id", "results")
+        # wait until the table loads, and fetch a reference to all exoplanets in the table
+        exoplanets = scraper.findAll("ul", "class", "exoplanet", results_table)
+        # and fetch the specific exoplanet reference
+        for exoplanet in exoplanets:
+            # the link
+            link = scraper.findLink(exoplanet)
+            # the name is the final part of the link that isn't empty
+            name = link.split("/")[-2]
+            # ad to our ref dict
+            refs[name] = {"link":"https://exoplanets.nasa.gov/"+link}
+        # go to the next page
+        next_page.click()
+        # wait for the javascript to finish
+        wait(1.5 + random())
+    print("All exoplanet pages scrpaed")
+    # and return the dict
+    return refs
+
+# locate all relevant information of an exoplanet on the page
+def exoplanet_info(scraper, link):
+    info = dict()
+    # go to the webpage
+    scraper.navigate(link)
+    # find the wysiwyd description
+    description = scraper.find("p", source=scraper.find("div", "class", "wysiwyg_content")).text
+    print(description)
+    # fetch the information grid for this planet
+    info_grid = scraper.find("table", "class", "information_grid")
+    # look through the table for the details
+    details = scraper.findAll("td", "class", "planet_fact")
+    # for each piece of information
+    for detail in details:
+        print(detail.get_attribute("innerHTML"))
+        name = scraper.find("div", "class", "value", detail)
+        print(name.text)
+    return dict()
+
+def generate_details(scraper, ref):
+    # blank output dictionary
+    details = dict()
+    # for every reference in the dictionary
+    for key in ref:
+        # fetch this planet reference
+        name, link = key, ref[key]["link"]
+        # use the name as an id, and generate a uuid from it
+        details[key] = {"id": name, "uuid": uuid.uuid4(),}
+        # fetch the details for this planet too
+        info = exoplanet_info(scraper, link)
+        # and combine the info with this planets details
+        details[key] = {**details[key], **info}
+    # return the completed details dictionary
+    return details
+
+# main program loop
+def main():
     # Try using it on the initial website!
     # create the scraper instance
     scraper = Scraper()
@@ -120,32 +181,14 @@ def main():
     select_func(max(options))
     # and click
     per_page.click()
-
-    # look for how many pages of results there are
-    page_total = scraper.find("span", "class", "total_pages").text
-    # find a reference to the next page button to click when done
-    next_page = scraper.find("a", "rel", "next")
-
-    # now itterate on each page
-    for x in range(int(page_total)):
-        # compile a list of all exoplanets on the page
-        results_table = scraper.find("div", "id", "results")
-        # fetch a reference to all exoplanets in the table
-        exoplanets = scraper.findAll("ul", "class", "exoplanet", results_table)
-        # and fetch the specific exoplanet reference
-        for exoplanet in exoplanets:
-            # the link
-            link = scraper.findLink(exoplanet)
-            # the name is the final part of the link that isn't empty
-            name = link.split("/")[-2]
-            # ad to our ref dict
-            refs[name] = {"link":link}
-        # wait for a to ensure the site loads, with randomness so the site doesn't think we're a bot
-        wait(.5 + random()*.5)
-        # go to the next page
-        next_page.click()
     
-    print(refs)
+    # fetch the references to the exoplanets
+    refs = fetch_exoplanet_links(scraper)
+    # generate the details for each planet
+    exoplanet_details = generate_details(scraper, refs)
+
+    # and close the scraping session
+    scraper.close()
 
 # only execute if this is the top level code
 if __name__ == "__main__":
