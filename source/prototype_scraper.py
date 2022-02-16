@@ -22,6 +22,9 @@ class Scraper:
     
     # find multiple elements that match an xpath thingy
     def findAll(self, tagName="*", attribute=None, value=None, source=None):
+        ''' Locate all child elements of the source that match the XPath attributes:
+            xpath = //tagName[@attribute=value]
+            The source will default to the page if a parent element is not given. '''
         # compile the xpath string
         xpath="//{}[@{}='{}']".format(tagName, attribute, value) if attribute else "//{}".format(tagName)
         # if a container element was not given, use the driver
@@ -34,6 +37,9 @@ class Scraper:
     
     # find an element using xpath details
     def find(self, tagName="*", attribute=None, value=None, source=None):
+        ''' Locate the first child element of the source that matches the XPath attributes:
+            xpath = //tagName[@attribute=value]
+            The source will default to the page if a parent element is not given. '''
         # compile the xpath string
         xpath="//{}[@{}='{}']".format(tagName, attribute, value) if attribute else "//{}".format(tagName)
         # if a container element was not given, use the driver
@@ -46,6 +52,7 @@ class Scraper:
     
     # return all links in an object
     def findLink(self, element):
+        ''' Locate all child elements that specifically refer to links. '''
         # fetch all references to "href"
         tags = element.get_attribute("innerHTML").split("href")
         # fetch all links in the text
@@ -57,6 +64,7 @@ class Scraper:
  
     # navigate to a webpage
     def navigate(self, url):
+        ''' Go to a specified url, with a random wait time to throw off bot detection. '''
         # go to the url
         self.driver.get(url)
         # wait for a random amount of time between 1 and 5 seconds so the site does not suspect we are a bot
@@ -64,6 +72,7 @@ class Scraper:
     
     # fetch all the options in a selection box
     def selectbox(self, element):
+        ''' Fetch the options given by a dropdown element, and return a function for selecting them. '''
         # fetch a reference to the selection box
         select = Select(element)
         # compile all of the options, and return a function to select one
@@ -71,6 +80,7 @@ class Scraper:
     
     # type after clicking on an element
     def typeBox(self, element, query=""):
+        ''' Type a query into an input box, with random keystroke times to circumvent any bot detection. '''
         # select the element
         element.click()
         # type the query with random keytype strokes and hit enter
@@ -80,10 +90,12 @@ class Scraper:
 
     # close the web page
     def close(self):
+        ''' Quit the scraping process. '''
         self.driver.quit()
 
 # search for a specific exoplanet using the scraper
 def search_exoplanet(scraper, name):
+    ''' Use the search feature to find the link for a specific exoplanet. '''
     # go to the webpage
     scraper.navigate("https://exoplanets.nasa.gov/discovery/exoplanet-catalog/")
     # type the name into the search box
@@ -99,6 +111,7 @@ def search_exoplanet(scraper, name):
 
 # fetch all exoplanet links on the page
 def fetch_exoplanet_links(scraper):
+    ''' Use the NASA Site to return a dictionary of all exoplanet links. '''
     print("Fetching exoplanet links")
     # empty dictionary that stores reference information
     refs = dict()
@@ -111,10 +124,8 @@ def fetch_exoplanet_links(scraper):
     for x in range(1):#int(page_total) - 1):
         # compile a list of all exoplanets on the page
         results_table = scraper.find("div", "id", "results")
-        # wait until the table loads, and fetch a reference to all exoplanets in the table
-        exoplanets = scraper.findAll("ul", "class", "exoplanet", results_table)
-        # and fetch the specific exoplanet reference
-        for exoplanet in exoplanets:
+        # fetch a reference to all exoplanets in the table
+        for exoplanet in scraper.findAll("ul", "class", "exoplanet", results_table):
             # the link
             link = scraper.findLink(exoplanet)
             # the name is the final part of the link that isn't empty
@@ -125,30 +136,30 @@ def fetch_exoplanet_links(scraper):
         next_page.click()
         # wait for the javascript to finish
         wait(1.5 + random())
-    print("All exoplanet pages scrpaed")
+    print("All exoplanet pages scraped")
     # and return the dict
     return refs
 
 # locate all relevant information of an exoplanet on the page
 def exoplanet_info(scraper, link):
+    ''' Fetch all the required information for a given exoplanet link page. '''
     info = dict()
     # go to the webpage
     scraper.navigate(link)
     # find the wysiwyd description
     description = scraper.find("p", source=scraper.find("div", "class", "wysiwyg_content")).text
-    print(description)
     # fetch the information grid for this planet
     info_grid = scraper.find("table", "class", "information_grid")
+    # fetch all table details
+    results = scraper.findAll("tr", "class", "fact_row")
     # look through the table for the details
-    details = scraper.findAll("td", "class", "planet_fact")
-    # for each piece of information
-    for detail in details:
-        print(detail.get_attribute("innerHTML"))
-        name = scraper.find("div", "class", "value", detail)
-        print(name.text)
+    for details in results:
+        print(details.get_attribute("innerHTML"))
+        print(scraper.findAll("div", "class", "value", details))
     return dict()
 
 def generate_details(scraper, ref):
+    ''' Convert a dictionary of links into a dictionary of exoplanet information. '''
     # blank output dictionary
     details = dict()
     # for every reference in the dictionary
@@ -166,6 +177,7 @@ def generate_details(scraper, ref):
 
 # main program loop
 def main():
+    ''' Main program loop, Will scrape for exoplanet information. '''
     # Try using it on the initial website!
     # create the scraper instance
     scraper = Scraper()
