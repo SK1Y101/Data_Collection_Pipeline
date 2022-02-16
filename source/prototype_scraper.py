@@ -18,9 +18,9 @@ class Scraper:
         self.actions = ActionChains(self.driver)
     
     # find multiple elements that match an xpath thingy
-    def findAll(self, tagName="*", attribute="id", value="", source=None):
+    def findAll(self, tagName="*", attribute=None, value=None, source=None):
         # compile the xpath string
-        xpath="//{}[@{}='{}']".format(tagName, attribute, value)
+        xpath="//{}[@{}='{}']".format(tagName, attribute, value) if attribute else "//{}".format(tagName)
         # if a container element was not given, use the driver
         if not source:
             source = self.driver
@@ -30,9 +30,9 @@ class Scraper:
         return elem
     
     # find an element using xpath details
-    def find(self, tagName="*", attribute="id", value="", source=None):
+    def find(self, tagName="*", attribute=None, value=None, source=None):
         # compile the xpath string
-        xpath="//{}[@{}='{}']".format(tagName, attribute, value)
+        xpath="//{}[@{}='{}']".format(tagName, attribute, value) if attribute else "//{}".format(tagName)
         # if a container element was not given, use the driver
         if not source:
             source = self.driver
@@ -40,6 +40,17 @@ class Scraper:
         elem = source.find_element(By.XPATH, xpath)
         # and return it
         return elem
+    
+    # return all links in an object
+    def findLink(self, element):
+        # fetch all references to "href"
+        tags = element.get_attribute("innerHTML").split("href")
+        # fetch all links in the text
+        links = [tag.replace("'", '"').split('"')[1] for tag in tags[1:]]
+        # return the links, either as a list if multiple or singular if not
+        if len(links) <= 1:
+            return links[0]
+        return links
     
     # find given html
     def findInHTML(self, element, htmlsearch=""):
@@ -54,11 +65,6 @@ class Scraper:
         self.driver.get(url)
         # wait for a random amount of time between 1 and 5 seconds so the site does not suspect we are a bot
         wait(random() * 4 + 1)
-    
-    # return the html of an element if that is useful
-    def elementHTML(self, element):
-        # return the HTML stuff
-        return element.get_attribute("innerHTML")
     
     # fetch all the options in a selection box
     def selectbox(self, element):
@@ -97,6 +103,8 @@ def search_exoplanet(scraper, name):
 
 # main program loop
 def main():
+    # empty dictionary that stores reference information
+    refs = dict()
     # Try using it on the initial website!
     # create the scraper instance
     scraper = Scraper()
@@ -113,12 +121,31 @@ def main():
     # and click
     per_page.click()
 
-    # compile a list of all exoplanets on the page
-    results_table = scraper.find("div", "id", "results")
-    # fetch a reference to all exoplanets in the table
-    exoplanets = scraper.findAll("ul", "class", "exoplanet", results_table)
+    # look for how many pages of results there are
+    page_total = scraper.find("span", "class", "total_pages").text
+    # find a reference to the next page button to click when done
+    next_page = scraper.find("a", "rel", "next")
 
-    print([exoplanet.text for exoplanet in exoplanets])
+    # now itterate on each page
+    for x in range(int(page_total)):
+        # compile a list of all exoplanets on the page
+        results_table = scraper.find("div", "id", "results")
+        # fetch a reference to all exoplanets in the table
+        exoplanets = scraper.findAll("ul", "class", "exoplanet", results_table)
+        # and fetch the specific exoplanet reference
+        for exoplanet in exoplanets:
+            # the link
+            link = scraper.findLink(exoplanet)
+            # the name is the final part of the link that isn't empty
+            name = link.split("/")[-2]
+            # ad to our ref dict
+            refs[name] = {"link":link}
+        # wait for a to ensure the site loads, with randomness so the site doesn't think we're a bot
+        wait(.5 + random()*.5)
+        # go to the next page
+        next_page.click()
+    
+    print(refs)
 
 # only execute if this is the top level code
 if __name__ == "__main__":
