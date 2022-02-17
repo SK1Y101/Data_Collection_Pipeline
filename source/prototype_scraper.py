@@ -98,16 +98,32 @@ class Scraper:
             wait(random()*0.1 + 0.01)
             element.send_keys(x)
     
+    # make a folder if it dosen't exist <<<--- This could probably be implemented better to be honest
+    def makeFolder(self, loc):
+        ''' Create any folders in "loc" that don't exist yet. '''
+        # remove the filename from loc if it was given
+        loc = os.path.split(loc)[0]
+        # if the folder dosent exist
+        if not os.path.exists(loc):
+            # split the filepath by directory
+            dirs = loc.split("/")
+            # itterate backwards over the directory
+            for x in range(len(dirs))[::-1]:
+                # if this directory exists, break here
+                if os.path.exists("/".join(dirs[:x])):
+                    break
+            # and now create all of the directories that didn't exist
+            for y in range(x, len(dirs)):
+                os.mkdir("/".join(dirs[:y+1]))
+
     # initialise the local storage location
     def localStorage(self, loc):
         ''' Point to a folder that the scrap[er will use to store/load data locally. '''
         # if the location was relative, prepend the current working directory
         if not os.path.isabs(loc):
             loc = (os.getcwd() + "/" + loc).replace("//", "/")
-        # if the directory doesnt exist
-        if not os.path.exists(loc):
-            # then create it
-            os.mkdir(loc)
+        # ensure the folder for this file exists
+        self.makeFolder(loc)
         # set to the location
         self.filedir = loc
     
@@ -143,6 +159,8 @@ class Scraper:
         if useLocalStorage:
             # ensure we don't have odouble slasshes by mistake
             fileName = (self.filedir + "/" + fileName).replace("//", "/")
+        # ensure the folder for this file exists
+        self.makeFolder(fileName)
         # open the file
         with open(fileName, "w") as f:
             # store in JSON with my prefered indentation
@@ -233,30 +251,26 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         ref: a dictionary of links to the relevant page.
         fileStore: the directory for which each exoplanet information will be saved to.
         stale_time: the time to consider this file stale, see "Scraper.loadJson" for details. '''
-    # blank output dictionary, and the previously generated details as a dict
-    details = dict()
     # for every reference in the dictionary
     for key in ref:
         # fetch this planet reference
         name, link = key, ref[key]["link"]
-        # use the name as an id, and generate a uuid from it
-        details[key] = {"Id": name, "Uuid": str(uuid.uuid4()),}
+        # use the name as an id, generate a uuid from it, and create the dictionary for this planet from that
+        thisplanet = {"Id": name, "Uuid": str(uuid.uuid4()), "Link": link}
         # check if this exoplanet has information already
-        data_loc = fileStore+"/"+name.replace(" ", "_")
+        data_loc = "{}/{}/details.json".format(fileStore, name.replace(" ", "_"))
         old_details = scraper.loadJSON(data_loc, stale_time)
         # if this exoplanet hasn't previously been searhed
-        if key not in old_details:
+        if not old_details:
             # fetch the details for this planet too
             info = exoplanet_info(scraper, link)
             # and combine the info with this planets details
-            details[key] = {**details[key], **info}
+            thisplanet = {**thisplanet, **info}
         # otherwise, use the previously generated details
         else:
-            details[key] = old_details
+            thisplanet = old_details
         # save the details <<<--- Probably modify this if it ends up being too slow
-        scraper.saveJSON(fileStore, details)
-    # return the completed details dictionary
-    return details
+        scraper.saveJSON(data_loc, thisplanet)
 
 # main program loop
 def main():
@@ -290,7 +304,7 @@ def main():
     scraper.saveJSON("exoplanet_links.json", refs)
     
     # generate the details for each planet, and pass in the local storage location
-    exoplanet_details = generate_details(scraper, refs, "exoplanet_details", 7)
+    generate_details(scraper, refs, "exoplanet_details", 7)
     
     # and close the scraping session
     scraper.close()

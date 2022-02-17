@@ -1,0 +1,13 @@
+{
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.01",
+    "Id": "corot-30-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7609/corot-30-b/",
+    "Mass": "2.9 Jupiters",
+    "Orbital Period": "9.1 days",
+    "Orbital Radius": "0.0844 AU",
+    "Planet Radius": "1.009 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ca42567d-f303-4cae-8be8-558e1ec99483"
+}

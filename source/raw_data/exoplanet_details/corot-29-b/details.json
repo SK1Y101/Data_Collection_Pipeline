@@ -1,0 +1,13 @@
+{
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.08",
+    "Id": "corot-29-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1340/corot-29-b/",
+    "Mass": "0.85 Jupiters",
+    "Orbital Period": "2.9 days",
+    "Orbital Radius": "0.0386 AU",
+    "Planet Radius": "0.9 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "07f22264-3d40-422d-b6ae-12e6ad735eaa"
+}

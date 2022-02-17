@@ -1,0 +1,13 @@
+{
+    "Detection Method": "Transit",
+    "Discovery Date": "2011",
+    "Eccentricity": "< 0.08",
+    "Id": "corot-18-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1332/corot-18-b/",
+    "Mass": "3.47 Jupiters",
+    "Orbital Period": "1.9 days",
+    "Orbital Radius": "0.0295 AU",
+    "Planet Radius": "1.31 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ac2a6a17-3da1-45b9-9b4b-cbe8b0843d77"
+}
