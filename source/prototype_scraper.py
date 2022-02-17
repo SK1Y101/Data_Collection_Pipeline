@@ -10,7 +10,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 from time import sleep as wait
 from random import random
 
-import uuid
+import uuid, json, os
 
 ## base scraper class
 class Scraper:
@@ -70,6 +70,11 @@ class Scraper:
         # wait for a random amount of time between 1 and 5 seconds so the site does not suspect we are a bot
         wait(random() * 4 + 1)
     
+    # scroll to a certain part of the page
+    def scroll(self, scroll_percent=0.1):
+        ''' Will scroll to a certain percentage of the site height. '''
+        self.driver.execute_script("window.scrollTo(0, {}*document.body.scrollHeight);".format(float(scroll_percent)))
+    
     # fetch all the options in a selection box
     def selectbox(self, element):
         ''' Fetch the options given by a dropdown element, and return a function for selecting them. '''
@@ -87,6 +92,31 @@ class Scraper:
         for x in query+Keys.ENTER:
             wait(random()*0.1 + 0.01)
             element.send_keys(x)
+    
+    # load data from a JSON file
+    def loadJSON(self, fileName, stale_time=7):
+        ''' Load data from a JSON File, returning it if not stale.
+            fileName: The filepath to the JSON file.
+            stale_time: The number of days this file should be younger than to not be considered stale. '''
+        # return nothing if the file doesnt exist
+        if not os.path.exists(fileName):
+            return None
+        # return nothing if the file is stale
+        if os.path.getmtime(fileName) > stale_time*86400:
+            return None
+        # otherwise, load the JSON as a dict and return it
+        with open(fileName, "r") as f:
+            data = json.load(f)
+        # and return the data
+        return data
+    
+    # save data to a json file
+    def saveJSON(self, fileName, data):
+        ''' Store data to a JSON file. '''
+        # open the file
+        with open(fileName, "w") as f:
+            # store in JSON
+            json.dump(data, f)
 
     # close the web page
     def close(self):
@@ -121,7 +151,7 @@ def fetch_exoplanet_links(scraper):
     next_page = scraper.find("a", "rel", "next")
 
     # now itterate on each page
-    for x in range(1):#int(page_total) - 1):
+    for x in range(int(page_total) - 1):
         # compile a list of all exoplanets on the page
         results_table = scraper.find("div", "id", "results")
         # fetch a reference to all exoplanets in the table
@@ -193,9 +223,15 @@ def main():
     select_func(max(options))
     # and click
     per_page.click()
+    # scroll down slightly
+    scraper.scroll(0.1)
     
-    # fetch the references to the exoplanets
-    refs = fetch_exoplanet_links(scraper)
+    # search for a locally stored links dictionary
+    refs = scraper.loadJSON("exoplanet_links.json", 7)
+    # otherwise, fetch manually
+    refs = refs if refs else fetch_exoplanet_links(scraper)
+    # store the links again
+    scraper.saveJSON("exoplanet_links.json", refs)
     # generate the details for each planet
     exoplanet_details = generate_details(scraper, refs)
 
