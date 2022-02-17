@@ -1,4 +1,5 @@
 # import required modules
+# Web scraping
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
@@ -7,10 +8,12 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.firefox import GeckoDriverManager
 
-from time import sleep as wait
+# Standard python
+import time, os, json, uuid
 from random import random
 
-import uuid, json, os
+# alse, because I prefer this function name
+wait = time.sleep
 
 ## base scraper class
 class Scraper:
@@ -102,7 +105,7 @@ class Scraper:
         if not os.path.exists(fileName):
             return None
         # return nothing if the file is stale
-        if os.path.getmtime(fileName) > stale_time*86400:
+        if (time.time() - os.path.getmtime(fileName)) > stale_time*86400:
             return None
         # otherwise, load the JSON as a dict and return it
         with open(fileName, "r") as f:
@@ -184,9 +187,18 @@ def exoplanet_info(scraper, link):
     results = scraper.findAll("tr", "class", "fact_row")
     # look through the table for the details
     for details in results:
-        print(details.get_attribute("innerHTML"))
-        print(scraper.findAll("div", "class", "value", details))
-    return dict()
+        # some fact rows have multiple facts
+        facts = scraper.findAll("div", "class", "value", details)
+        names = scraper.findAll("div", "class", "title", details)
+        # fetch the values, removing empty
+        facts = [fact.text for fact in facts if fact.text != ""]
+        names = [name.text for name in names if name.text != ""]
+        # zip the fact name, and the fact value together
+        for name, fact in zip(names, facts):
+            # and store them in our dictionary
+            info[name.title()] = fact.replace("\n", " ")
+    # return the planet information
+    return info
 
 def generate_details(scraper, ref):
     ''' Convert a dictionary of links into a dictionary of exoplanet information. '''
@@ -233,7 +245,10 @@ def main():
     # store the links again
     scraper.saveJSON("exoplanet_links.json", refs)
     # generate the details for each planet
-    exoplanet_details = generate_details(scraper, refs)
+    exoplanet_details = generate_details(scraper, refs["11-comae-berenices-b"])
+
+    # and show the details to me for debuging
+    print(exoplanet_details)
 
     # and close the scraping session
     scraper.close()
