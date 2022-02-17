@@ -11,6 +11,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 
 # Standard python
 import time, os, json, uuid
+from tqdm import tqdm, trange
 from random import random
 
 # alse, because I prefer this function name
@@ -199,7 +200,7 @@ def fetch_exoplanet_links(scraper):
     next_page = scraper.find("a", "rel", "next")
 
     # now itterate on each page
-    for x in range(int(page_total) - 1):
+    for x in trange(int(page_total) - 1):
         # compile a list of all exoplanets on the page
         results_table = scraper.find("div", "id", "results")
         # fetch a reference to all exoplanets in the table
@@ -251,10 +252,13 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         ref: a dictionary of links to the relevant page.
         fileStore: the directory for which each exoplanet information will be saved to.
         stale_time: the time to consider this file stale, see "Scraper.loadJson" for details. '''
+    # fetch a list of references to search
+    planets = list(ref.keys())
     # for every reference in the dictionary
-    for key in ref:
+    for x in trange(len(planets)):
         # fetch this planet reference
-        name, link = key, ref[key]["link"]
+        name = planets[x]
+        link = ref[name]["link"]
         # use the name as an id, generate a uuid from it, and create the dictionary for this planet from that
         thisplanet = {"Id": name, "Uuid": str(uuid.uuid4()), "Link": link}
         # check if this exoplanet has information already
