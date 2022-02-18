@@ -8,11 +8,13 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.firefox import GeckoDriverManager
+from selenium.webdriver.support import expected_conditions as EC
 
 # Standard python
 import time, os, json, uuid
-from tqdm import tqdm, trange
+from tqdm import trange
 from random import random
+from contextlib import contextmanager
 
 # alse, because I prefer this function name
 wait = time.sleep
@@ -67,6 +69,18 @@ class Scraper:
         if len(links) <= 1:
             return links[0]
         return links
+    
+    def waitUntilFound(self, tagName="*", attribute=None, value=None, source=None, timeout=10):
+        ''' Functionally equivalent to "Scraper.find", but will wait until an element is loaded before returning
+            timeout: The number of seconds to wait until the program will stop looking for an element. '''
+        # compile the xpath string
+        xpath="//{}[@{}='{}']".format(tagName, attribute, value) if attribute else "//{}".format(tagName)
+        # fetch the element with a wait timeout
+        elem = WebDriverWait(self.driver, timeout).until(
+            EC.presence_of_element_located((By.XPATH, xpath))
+        )
+        # and return the element
+        return elem
  
     # navigate to a webpage
     def navigate(self, url):
@@ -98,6 +112,32 @@ class Scraper:
         for x in query+Keys.ENTER:
             wait(random()*0.1 + 0.01)
             element.send_keys(x)
+
+    # load an iframe element
+    @contextmanager
+    def loadIframe(self, elemName, source=None, timeout=None):
+        ''' Load an iframe element, and close on completion. If a timeout is given, this function will wait for the element to load
+            elem: the iframe element.'''
+        # fetch the iframe
+        if timeout:
+            elem = self.waitUntilFound("iframe", "id", elemName, source, timeout)
+        else:
+            elem = self.find("iframe", "id", elemName, source)
+        # fetch the url of the iframe element
+        iframeUrl = elem.get_attribute("src")
+        try:
+            # open new tab
+            self.driver.execute_script("window.open('');")
+            # switch to new tab
+            self.driver.switch_to.window(self.driver.window_handles[-1])
+            # switch to the iframe url
+            self.driver.get(iframeUrl)
+            # also yield the frame if needed
+            yield iframeUrl
+        # if anything goes wrong, or we're done
+        finally:
+            # close the current window
+            self.driver.close()
     
     # make a folder if it dosen't exist <<<--- This could probably be implemented better to be honest
     def makeFolder(self, loc):
@@ -127,6 +167,19 @@ class Scraper:
         self.makeFolder(loc)
         # set to the location
         self.filedir = loc
+    
+    # take a screenshot of the page and save to a location
+    def screenshot(self, fileName, useLocalStorage=True):
+        ''' Take a screenshot of the current page.
+            location: the filepath to store the screenshot in. '''
+        # prepend if wanted
+        if useLocalStorage:
+            # ensure we don't have odouble slasshes by mistake
+            fileName = (self.filedir + "/" + fileName).replace("//", "/")
+        # ensure the folder for this file exists
+        self.makeFolder(fileName)
+        # save this screenshot to the correct location
+        self.driver.save_screenshot(fileName)
     
     # load data from a JSON file
     def loadJSON(self, fileName, stale_time=7, useLocalStorage=True):
@@ -195,12 +248,17 @@ def fetch_exoplanet_links(scraper):
     # empty dictionary that stores reference information
     refs = dict()
     # look for how many pages of results there are
-    page_total = scraper.find("span", "class", "total_pages").text
+    page_total = scraper.waitUntilFound("span", "class", "total_pages").text
     # find a reference to the next page button to click when done
     next_page = scraper.find("a", "rel", "next")
 
+    # show the current exoplanet index
+    def get_start():
+        return scraper.waitUntilFound("span", "class", "start_index").text
+    sidx = _sidx = get_start()
+
     # now itterate on each page
-    for x in trange(int(page_total) - 1):
+    for x in trange(1, int(page_total)):
         # compile a list of all exoplanets on the page
         results_table = scraper.find("div", "id", "results")
         # fetch a reference to all exoplanets in the table
@@ -213,8 +271,11 @@ def fetch_exoplanet_links(scraper):
             refs[name] = {"link":"https://exoplanets.nasa.gov/"+link}
         # go to the next page
         next_page.click()
-        # wait for the javascript to finish
-        wait(1.5 + random())
+        # wait until the start index increases
+        while sidx == _sidx:
+            wait(0.1)
+            _sidx = get_start()
+        sidx = _sidx
     print("All exoplanet pages scraped")
     # and return the dict
     return refs
@@ -227,8 +288,9 @@ def exoplanet_info(scraper, link):
     scraper.navigate(link)
     # find the wysiwyd description
     description = scraper.find("p", source=scraper.find("div", "class", "wysiwyg_content")).text
+    info["Description"] = description
     # fetch the information grid for this planet
-    info_grid = scraper.find("table", "class", "information_grid")
+    info_grid = scraper.waitUntilFound("table", "class", "information_grid")
     # fetch all table details
     results = scraper.findAll("tr", "class", "fact_row")
     # look through the table for the details
@@ -246,6 +308,55 @@ def exoplanet_info(scraper, link):
     # return the planet information
     return info
 
+# fetch exoplanet images
+def fetch_exoplanet_images(scraper, planet_dict, data_location):
+    ''' Navigate an exoplanet page and take screenshots of the interactive artists element as images.
+        planet_dict: the dictionary of planetary details to be saved, see "generate_details". '''
+    # blank image references dictionary
+    images = dict()
+    # ensure we are on the current webpage
+    scraper.navigate(planet_dict["Link"])
+    # switch to the iframe, with a timeout for loading
+    with scraper.loadIframe("exo_pioneer_module", timeout=10) as iframeUrl:
+        # store the ifram url in the image references
+        images["Link"] = iframeUrl
+        # fetch the dropdown section
+        planetDropdown = scraper.waitUntilFound("div", "id", "dropUpId")
+        # start the image id at zero
+        imageId = 0
+        # some planets will not have this comparison available
+        try:
+            # fetch the comparison dropdown
+            comparison = scraper.find("select", "class", "dropdownInfo")
+            # convert to a selection box
+            options, compare_func = scraper.selectbox(comparison)
+            # itterate on the options backwards (Jupiter, Earth, self)
+            for option in options:
+                # select this comparison
+                compare_func(option)
+                # wait a second for this to load
+                wait(2)
+                # local filepath for this image
+                imageLink = "{}/images/{}.png".format(data_location, imageId)
+                # take a screenshot of this option
+                scraper.screenshot(imageLink)
+                # and fetch the description for this image. (compare, compare to earth, compare to jupiter).
+                description = option.replace("COMPARE TO", "COMPARISON WITH") if option.contains("TO") else planet_dict["name"]
+                # store a reference to this image in the dict
+                images[str(imageId)] = {"Path": imageLink,
+                                        "Description": description.capitalize(),}
+                # increment the image id
+                imageId += 1
+        # if we had an error, move on
+        except:
+            # 
+            pass
+        wait(1)
+    # add the images to the dictionary
+    planet_dict["Images"] = images
+    # and return the dictionary
+    return planet_dict
+
 def generate_details(scraper, ref, fileStore="", stale_time=7):
     ''' Convert a dictionary of links into a dictionary of exoplanet information.
         scraper: an instance of the Scraper class to be used to fetch information.
@@ -259,11 +370,12 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         # fetch this planet reference
         name = planets[x]
         link = ref[name]["link"]
+        # get the folder for this exoplanet
+        data_loc = "{}/{}".format(fileStore, name.replace(" ", "_"))
         # use the name as an id, generate a uuid from it, and create the dictionary for this planet from that
         thisplanet = {"Id": name, "Uuid": str(uuid.uuid4()), "Link": link}
         # check if this exoplanet has information already
-        data_loc = "{}/{}/details.json".format(fileStore, name.replace(" ", "_"))
-        old_details = scraper.loadJSON(data_loc, stale_time)
+        old_details = scraper.loadJSON(data_loc+"/details.json", stale_time)
         # if this exoplanet hasn't previously been searhed
         if not old_details:
             # fetch the details for this planet too
@@ -273,8 +385,10 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         # otherwise, use the previously generated details
         else:
             thisplanet = old_details
+        # check for images and download if neccesary
+        thisplanet = fetch_exoplanet_images(scraper, thisplanet, data_loc)
         # save the details <<<--- Probably modify this if it ends up being too slow
-        scraper.saveJSON(data_loc, thisplanet)
+        scraper.saveJSON(data_loc+"/details.json", thisplanet)
 
 # main program loop
 def main():
