@@ -138,6 +138,8 @@ class Scraper:
         finally:
             # close the current window
             self.driver.close()
+            # and switch to the next oldest tab
+            self.driver.switch_to.window(self.driver.window_handles[-1])
     
     # make a folder if it dosen't exist <<<--- This could probably be implemented better to be honest
     def makeFolder(self, loc):
@@ -159,7 +161,7 @@ class Scraper:
 
     # initialise the local storage location
     def localStorage(self, loc):
-        ''' Point to a folder that the scrap[er will use to store/load data locally. '''
+        ''' Point to a folder that the scraper will use to store/load data locally. '''
         # if the location was relative, prepend the current working directory
         if not os.path.isabs(loc):
             loc = (os.getcwd() + "/" + loc).replace("//", "/")
@@ -181,6 +183,20 @@ class Scraper:
         # save this screenshot to the correct location
         self.driver.save_screenshot(fileName)
     
+    # check if a file exists
+    def checkForFile(self, fileName, stale_time=7):
+        ''' Check if a file exists, and whether it will be considered stale.
+            fileName: The filepath to the file.
+            stale_time: The number of days this file should be younger than to not be considered stale. '''
+        # return nothing if the file doesnt exist
+        if not os.path.exists(fileName):
+            return None
+        # return nothing if the file is stale
+        if (time.time() - os.path.getmtime(fileName)) > stale_time*86400:
+            return None
+        # otherwise, return true
+        return True
+    
     # load data from a JSON file
     def loadJSON(self, fileName, stale_time=7, useLocalStorage=True):
         ''' Load data from a JSON File, returning it if not stale.
@@ -191,11 +207,8 @@ class Scraper:
         if useLocalStorage:
             # ensure we don't have odouble slasshes by mistake
             fileName = (self.filedir + "/" + fileName).replace("//", "/")
-        # return nothing if the file doesnt exist
-        if not os.path.exists(fileName):
-            return None
-        # return nothing if the file is stale
-        if (time.time() - os.path.getmtime(fileName)) > stale_time*86400:
+        # check the file exists and isnt stale
+        if not self.checkForFile(fileName, stale_time):
             return None
         # otherwise, load the JSON as a dict and return it
         with open(fileName, "r") as f:
@@ -251,6 +264,8 @@ def fetch_exoplanet_links(scraper):
     page_total = scraper.waitUntilFound("span", "class", "total_pages").text
     # find a reference to the next page button to click when done
     next_page = scraper.find("a", "rel", "next")
+    # and the total number of exoplanets to look for
+    total_planets = scraper.waitUntilFound("span", "class", "total_results").text
 
     # show the current exoplanet index
     def get_start():
@@ -258,7 +273,7 @@ def fetch_exoplanet_links(scraper):
     sidx = _sidx = get_start()
 
     # now itterate on each page
-    for x in trange(1, int(page_total)):
+    for x in trange(int(page_total)):
         # compile a list of all exoplanets on the page
         results_table = scraper.find("div", "id", "results")
         # fetch a reference to all exoplanets in the table
@@ -271,6 +286,9 @@ def fetch_exoplanet_links(scraper):
             refs[name] = {"link":"https://exoplanets.nasa.gov/"+link}
         # go to the next page
         next_page.click()
+        # if we reached the end of the values, stop the loop
+        if scraper.waitUntilFound("span", "class", "end_index").text == total_planets:
+            continue
         # wait until the start index increases
         while sidx == _sidx:
             wait(0.1)
@@ -284,8 +302,6 @@ def fetch_exoplanet_links(scraper):
 def exoplanet_info(scraper, link):
     ''' Fetch all the required information for a given exoplanet link page. '''
     info = dict()
-    # go to the webpage
-    scraper.navigate(link)
     # find the wysiwyd description
     description = scraper.find("p", source=scraper.find("div", "class", "wysiwyg_content")).text
     info["Description"] = description
@@ -314,8 +330,6 @@ def fetch_exoplanet_images(scraper, planet_dict, data_location):
         planet_dict: the dictionary of planetary details to be saved, see "generate_details". '''
     # blank image references dictionary
     images = dict()
-    # ensure we are on the current webpage
-    scraper.navigate(planet_dict["Link"])
     # switch to the iframe, with a timeout for loading
     with scraper.loadIframe("exo_pioneer_module", timeout=10) as iframeUrl:
         # store the ifram url in the image references
@@ -324,36 +338,32 @@ def fetch_exoplanet_images(scraper, planet_dict, data_location):
         planetDropdown = scraper.waitUntilFound("div", "id", "dropUpId")
         # start the image id at zero
         imageId = 0
-        # some planets will not have this comparison available
-        try:
-            # fetch the comparison dropdown
-            comparison = scraper.find("select", "class", "dropdownInfo")
-            # convert to a selection box
-            options, compare_func = scraper.selectbox(comparison)
-            # itterate on the options backwards (Jupiter, Earth, self)
-            for option in options:
-                # select this comparison
-                compare_func(option)
-                # wait a second for this to load
-                wait(2)
-                # local filepath for this image
-                imageLink = "{}/images/{}.png".format(data_location, imageId)
-                # take a screenshot of this option
-                scraper.screenshot(imageLink)
-                # and fetch the description for this image. (compare, compare to earth, compare to jupiter).
-                description = option.replace("COMPARE TO", "COMPARISON WITH") if option.contains("TO") else planet_dict["name"]
-                # store a reference to this image in the dict
-                images[str(imageId)] = {"Path": imageLink,
-                                        "Description": description.capitalize(),}
-                # increment the image id
-                imageId += 1
-        # if we had an error, move on
-        except:
-            # 
-            pass
+        # fetch the comparison dropdown
+        comparison = scraper.waitUntilFound("select", "class", "dropdownInfo")
+        # convert to a selection box
+        options, select_option = scraper.selectbox(comparison)
+        # select an option, so that we load things
+        select_option(options[-2])
         wait(1)
+        # itterate on the options backwards (Jupiter, Earth, self)
+        for option in options[::-1]:
+            # select this comparison
+            select_option(option)
+            # wait for this to load
+            wait(1)
+            # local filepath for this image
+            imageLink = "{}/images/{}.png".format(data_location, imageId)
+            # take a screenshot of this option
+            scraper.screenshot(imageLink)
+            # and fetch the description for this image. (compare, compare to earth, compare to jupiter).
+            description = option.replace("COMPARE TO", "COMPARISON WITH") if "TO" in option else planet_dict["Name"]
+            # store a reference to this image in the dict
+            images[str(imageId)] = {"Path": imageLink,
+                                    "Description": description.capitalize(),}
+            # increment the image id
+            imageId += 1
     # add the images to the dictionary
-    planet_dict["Images"] = images
+    planet_dict["images"] = images
     # and return the dictionary
     return planet_dict
 
@@ -373,7 +383,9 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         # get the folder for this exoplanet
         data_loc = "{}/{}".format(fileStore, name.replace(" ", "_"))
         # use the name as an id, generate a uuid from it, and create the dictionary for this planet from that
-        thisplanet = {"Id": name, "Uuid": str(uuid.uuid4()), "Link": link}
+        thisplanet = {"Id": name, "Uuid": str(uuid.uuid4()), "Link": link, "Name": name,}
+        # navigate to the page
+        scraper.navigate(link)
         # check if this exoplanet has information already
         old_details = scraper.loadJSON(data_loc+"/details.json", stale_time)
         # if this exoplanet hasn't previously been searhed
@@ -385,10 +397,13 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         # otherwise, use the previously generated details
         else:
             thisplanet = old_details
-        # check for images and download if neccesary
-        thisplanet = fetch_exoplanet_images(scraper, thisplanet, data_loc)
+        # check for images
+        if not scraper.checkForFile(data_loc+"/images/0.png"):
+            # fetch them if it didn't work
+            thisplanet = fetch_exoplanet_images(scraper, thisplanet, data_loc)
         # save the details <<<--- Probably modify this if it ends up being too slow
         scraper.saveJSON(data_loc+"/details.json", thisplanet)
+        # wait for a small amount of time
 
 # main program loop
 def main():
@@ -411,6 +426,8 @@ def main():
     select_func(max(options))
     # and click
     per_page.click()
+    # wait for it to change
+    wait(1)
     # scroll down slightly
     scraper.scroll(0.1)
     
@@ -429,4 +446,5 @@ def main():
 
 # only execute if this is the top level code
 if __name__ == "__main__":
+    # execute
     main()
