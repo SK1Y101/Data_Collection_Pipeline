@@ -10,9 +10,9 @@ Exoplanet details
 │  ├ `raw_data/`<br>
 │  │  ├ `exoplanet_details/`<br>
 │  │  │  └ `A folder for each exoplanet, with the following format`<br>
-│  │  │     ├ `images/`<br>
-│  │  │     │  └ `Images aranged in numerical order`<br>
-│  │  │     └ `details.json`<br>
+│  │  │         ├ `images/`<br>
+│  │  │         │  └ `Images aranged in numerical order`<br>
+│  │  │         └ `details.json`<br>
 │  │  └ `exoplanet_links.json`<br>
 │  ├ `Scraper/`<br>
 │  │  └ `__init__.py`<br>
