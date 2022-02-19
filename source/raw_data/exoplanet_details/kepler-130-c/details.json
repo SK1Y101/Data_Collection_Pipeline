@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-130 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.75 Earths, it takes 27.5 days to complete one orbit of its star, and is 0.178 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "Id": "kepler-130-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5940/kepler-130-c/",
+    "Mass": "8.75 Earths",
+    "Name": "kepler-130-c",
+    "Orbital Period": "27.5 days",
+    "Orbital Radius": "0.178 AU",
+    "Planet Radius": "0.259 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "9b5381c2-cd95-4cf8-bae5-5f5e1a951ff5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-130-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-130-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-130-c",
+            "Path": "exoplanet_details/kepler-130-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-130_c"
+    }
+}

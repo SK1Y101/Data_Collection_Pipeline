@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-130 d is a super Earth exoplanet that orbits a G-type star. Its mass is 3.33 Earths, it takes 87.5 days to complete one orbit of its star, and is 0.377 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.8",
+    "Id": "kepler-130-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1544/kepler-130-d/",
+    "Mass": "3.33 Earths",
+    "Name": "kepler-130-d",
+    "Orbital Period": "87.5 days",
+    "Orbital Radius": "0.377 AU",
+    "Planet Radius": "1.64 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "41fa56e4-a52a-4b4d-a1ed-09d054d4db93",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-130-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-130-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-130-d",
+            "Path": "exoplanet_details/kepler-130-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-130_d"
+    }
+}

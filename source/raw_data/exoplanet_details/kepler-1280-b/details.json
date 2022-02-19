@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1280 b is a super Earth exoplanet that orbits an F-type star. Its mass is 4.16 Earths, it takes 66.6 days to complete one orbit of its star, and is 0.38 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1280-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4415/kepler-1280-b/",
+    "Mass": "4.16 Earths",
+    "Name": "kepler-1280-b",
+    "Orbital Period": "66.6 days",
+    "Orbital Radius": "0.38 AU",
+    "Planet Radius": "1.87 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "a466934d-1f4d-4535-a8fa-ef836244e8b9",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1280-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1280-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1280-b",
+            "Path": "exoplanet_details/kepler-1280-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1280_b"
+    }
+}
