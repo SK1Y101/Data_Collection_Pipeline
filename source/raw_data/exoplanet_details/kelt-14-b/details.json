@@ -1,0 +1,30 @@
+{
+    "Description": "KELT-14 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.284 Jupiters, it takes 1.7 days to complete one orbit of its star, and is 0.03005 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kelt-14-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1958/kelt-14-b/",
+    "Mass": "1.284 Jupiters",
+    "Name": "kelt-14-b",
+    "Orbital Period": "1.7 days",
+    "Orbital Radius": "0.03005 AU",
+    "Planet Radius": "1.743 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "9fcdc1a9-b3f5-4986-be34-3b6b6487bc59",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kelt-14-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kelt-14-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kelt-14-b",
+            "Path": "exoplanet_details/kelt-14-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/KELT-14_b"
+    }
+}

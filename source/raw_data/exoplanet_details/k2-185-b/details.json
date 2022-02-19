@@ -1,0 +1,30 @@
+{
+    "Description": "K2-185 b is a super Earth exoplanet that orbits a G-type star. Its mass is 1.6 Earths and it takes 10.6 days to complete one orbit of its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-185-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6206/k2-185-b/",
+    "Mass": "1.6 Earths",
+    "Name": "k2-185-b",
+    "Orbital Period": "10.6 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.15 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "022a0280-19dd-4c82-af3d-80630475c51a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-185-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-185-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-185-b",
+            "Path": "exoplanet_details/k2-185-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-185_b"
+    }
+}

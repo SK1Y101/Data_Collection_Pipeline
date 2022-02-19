@@ -1,0 +1,30 @@
+{
+    "Description": "K2-29 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.73 Jupiters, it takes 3.3 days to complete one orbit of its star, and is 0.04217 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.07",
+    "Id": "k2-29-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4335/k2-29-b/",
+    "Mass": "0.73 Jupiters",
+    "Name": "k2-29-b",
+    "Orbital Period": "3.3 days",
+    "Orbital Radius": "0.04217 AU",
+    "Planet Radius": "1.19 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "84edb7e9-74da-4b99-a2f7-48648dd14b46",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-29-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-29-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-29-b",
+            "Path": "exoplanet_details/k2-29-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-29_b"
+    }
+}

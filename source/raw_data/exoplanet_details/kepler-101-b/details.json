@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-101 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.16 Jupiters, it takes 3.5 days to complete one orbit of its star, and is 0.0474 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.09",
+    "Id": "kepler-101-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5839/kepler-101-b/",
+    "Mass": "0.16 Jupiters",
+    "Name": "kepler-101-b",
+    "Orbital Period": "3.5 days",
+    "Orbital Radius": "0.0474 AU",
+    "Planet Radius": "0.51 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "32568470-10fe-47e5-8a95-10db903fcd36",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-101-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-101-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-101-b",
+            "Path": "exoplanet_details/kepler-101-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-101_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "K2-219 c is a super Earth exoplanet that orbits a G-type star. Its mass is 2.66 Earths and it takes 6.7 days to complete one orbit of its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-219-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6265/k2-219-c/",
+    "Mass": "2.66 Earths",
+    "Name": "k2-219-c",
+    "Orbital Period": "6.7 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.438 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "c6bdce85-3493-4533-ac33-b5623b27d253",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-219-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-219-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-219-c",
+            "Path": "exoplanet_details/k2-219-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-219_c"
+    }
+}

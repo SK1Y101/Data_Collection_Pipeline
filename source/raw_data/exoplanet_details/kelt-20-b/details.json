@@ -1,0 +1,30 @@
+{
+    "Description": "KELT-20 b is a gas giant exoplanet that orbits an A-type star. Its mass is 3.382 Jupiters, it takes 3.5 days to complete one orbit of its star, and is 0.0542 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.0",
+    "Id": "kelt-20-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6066/kelt-20-b/",
+    "Mass": "3.382 Jupiters",
+    "Name": "kelt-20-b",
+    "Orbital Period": "3.5 days",
+    "Orbital Radius": "0.0542 AU",
+    "Planet Radius": "1.741 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "43ee4ab8-ab2b-44f8-884d-37324c8b398b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kelt-20-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kelt-20-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kelt-20-b",
+            "Path": "exoplanet_details/kelt-20-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/KELT-20_b"
+    }
+}

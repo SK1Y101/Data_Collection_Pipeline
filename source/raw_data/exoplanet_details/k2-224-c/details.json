@@ -1,0 +1,30 @@
+{
+    "Description": "K2-224 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.39 Earths, it takes 10.1 days to complete one orbit of its star, and is 0.0886 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-224-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6333/k2-224-c/",
+    "Mass": "6.39 Earths",
+    "Name": "k2-224-c",
+    "Orbital Period": "10.1 days",
+    "Orbital Radius": "0.0886 AU",
+    "Planet Radius": "0.215 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "a7ca049d-34cf-4419-88c7-c1090292bb9c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-224-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-224-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-224-c",
+            "Path": "exoplanet_details/k2-224-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-224_c"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "K2-87 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.141 Jupiters, it takes 9.7 days to complete one orbit of its star, and is 0.094 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "k2-87-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3362/k2-87-b/",
+    "Mass": "0.141 Jupiters",
+    "Name": "k2-87-b",
+    "Orbital Period": "9.7 days",
+    "Orbital Radius": "0.094 AU",
+    "Planet Radius": "0.678 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "57154f70-a262-4dc4-ae28-954f9afbda51",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-87-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-87-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-87-b",
+            "Path": "exoplanet_details/k2-87-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-87_b"
+    }
+}

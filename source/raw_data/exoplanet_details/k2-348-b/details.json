@@ -1,0 +1,30 @@
+{
+    "Description": "K2-348 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 10.7 Earths and it takes 4.7 days to complete one orbit of its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-348-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7954/k2-348-b/",
+    "Mass": "10.7 Earths",
+    "Name": "k2-348-b",
+    "Orbital Period": "4.7 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.291 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "128bde7b-bffd-4270-b814-32a02a72455b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-348-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-348-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-348-b",
+            "Path": "exoplanet_details/k2-348-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-348_b"
+    }
+}

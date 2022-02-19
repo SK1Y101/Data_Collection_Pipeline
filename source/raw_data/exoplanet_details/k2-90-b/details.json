@@ -1,0 +1,30 @@
+{
+    "Description": "K2-90 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.27 Earths, it takes 13.7 days to complete one orbit of its star, and is 0.096 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.07",
+    "Id": "k2-90-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3365/k2-90-b/",
+    "Mass": "7.27 Earths",
+    "Name": "k2-90-b",
+    "Orbital Period": "13.7 days",
+    "Orbital Radius": "0.096 AU",
+    "Planet Radius": "0.232 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "517cf67d-a21a-4303-94dd-45695191d13f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-90-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-90-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-90-b",
+            "Path": "exoplanet_details/k2-90-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-90_b"
+    }
+}

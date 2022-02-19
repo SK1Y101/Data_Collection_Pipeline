@@ -49,7 +49,7 @@ def fetch_exoplanet_links(scraper):
         # fetch a reference to all exoplanets in the table
         for exoplanet in scraper.findAll("ul", "class", "exoplanet", results_table):
             # the link
-            link = scraper.findLink(exoplanet)
+            link = scraper.findLink(exoplanet)[0]
             # the name is the final part of the link that isn't empty
             name = link.split("/")[-2]
             # ad to our ref dict

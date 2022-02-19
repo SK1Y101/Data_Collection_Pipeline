@@ -1,0 +1,30 @@
+{
+    "Description": "K2-27 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 30.9 Earths, it takes 6.8 days to complete one orbit of its star, and is 0.06702 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.25",
+    "Id": "k2-27-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4892/k2-27-b/",
+    "Mass": "30.9 Earths",
+    "Name": "k2-27-b",
+    "Orbital Period": "6.8 days",
+    "Orbital Radius": "0.06702 AU",
+    "Planet Radius": "0.4 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "52e8b30d-453f-4746-b5e6-b7849a950cd7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-27-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-27-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-27-b",
+            "Path": "exoplanet_details/k2-27-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-27_b"
+    }
+}

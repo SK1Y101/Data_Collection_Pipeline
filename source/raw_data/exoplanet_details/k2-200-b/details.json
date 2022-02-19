@@ -1,0 +1,30 @@
+{
+    "Description": "K2-200 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.43 Earths and it takes 2.8 days to complete one orbit of its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-200-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6229/k2-200-b/",
+    "Mass": "2.43 Earths",
+    "Name": "k2-200-b",
+    "Orbital Period": "2.8 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.364 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "7b13ca9d-ad5a-4f63-af5e-e678288f187f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-200-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-200-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-200-b",
+            "Path": "exoplanet_details/k2-200-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-200_b"
+    }
+}

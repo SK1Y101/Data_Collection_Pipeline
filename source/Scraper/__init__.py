@@ -64,8 +64,6 @@ class Scraper:
         # fetch all links in the text
         links = [tag.replace("'", '"').split('"')[1] for tag in tags[1:]]
         # return the links, either as a list if multiple or singular if not
-        if len(links) <= 1:
-            return links[0]
         return links
     
     def waitUntilFound(self, tagName="*", attribute=None, value=None, source=None, timeout=10):

@@ -1,0 +1,30 @@
+{
+    "Description": "KELT-4 A b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.902 Jupiters, it takes 3 days to complete one orbit of its star, and is 0.04317 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kelt-4-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7122/kelt-4-a-b/",
+    "Mass": "0.902 Jupiters",
+    "Name": "kelt-4-a-b",
+    "Orbital Period": "3 days",
+    "Orbital Radius": "0.04317 AU",
+    "Planet Radius": "1.699 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a5f4c111-3e29-4c75-8f70-3ce1e0bca701",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kelt-4-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kelt-4-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kelt-4-a-b",
+            "Path": "exoplanet_details/kelt-4-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/KELT-4_A_b"
+    }
+}

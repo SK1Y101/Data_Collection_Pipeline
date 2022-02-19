@@ -1,0 +1,30 @@
+{
+    "Description": "K2-45 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 36.4 Earths, it takes 1.7 days to complete one orbit of its star, and is 0.0224 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.1",
+    "Id": "k2-45-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3310/k2-45-b/",
+    "Mass": "36.4 Earths",
+    "Name": "k2-45-b",
+    "Orbital Period": "1.7 days",
+    "Orbital Radius": "0.0224 AU",
+    "Planet Radius": "0.599 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "76c39c2f-31c4-497a-93c4-cbe4d32559b7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-45-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-45-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-45-b",
+            "Path": "exoplanet_details/k2-45-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-45_b"
+    }
+}

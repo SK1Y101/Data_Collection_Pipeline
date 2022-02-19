@@ -1,0 +1,30 @@
+{
+    "Description": "K2-187 c is a super Earth exoplanet that orbits a G-type star. Its mass is 3.89 Earths, it takes 2.9 days to complete one orbit of its star, and is 0.0392 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-187-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6209/k2-187-c/",
+    "Mass": "3.89 Earths",
+    "Name": "k2-187-c",
+    "Orbital Period": "2.9 days",
+    "Orbital Radius": "0.0392 AU",
+    "Planet Radius": "1.8 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "51833121-f54c-403d-9465-201764f59582",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-187-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-187-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-187-c",
+            "Path": "exoplanet_details/k2-187-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-187_c"
+    }
+}

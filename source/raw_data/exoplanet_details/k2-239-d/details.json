@@ -1,0 +1,30 @@
+{
+    "Description": "K2-239 d is a super Earth exoplanet that orbits an M-type star. Its mass is 1.37 Earths, it takes 10.1 days to complete one orbit of its star, and is 0.0685 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-239-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6315/k2-239-d/",
+    "Mass": "1.37 Earths",
+    "Name": "k2-239-d",
+    "Orbital Period": "10.1 days",
+    "Orbital Radius": "0.0685 AU",
+    "Planet Radius": "1.1 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "80324040-4e6e-43d7-ba67-06dbc2ae43e8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-239-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-239-d/images/1.png"
+        },
+        "2": {
+            "Description": "K2-239-d",
+            "Path": "exoplanet_details/k2-239-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-239_d"
+    }
+}

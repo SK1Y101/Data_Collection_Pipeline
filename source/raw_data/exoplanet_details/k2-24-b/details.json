@@ -1,0 +1,30 @@
+{
+    "Description": "K2-24 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19 Earths, it takes 20.9 days to complete one orbit of its star, and is 0.154 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.06",
+    "Id": "k2-24-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4894/k2-24-b/",
+    "Mass": "19 Earths",
+    "Name": "k2-24-b",
+    "Orbital Period": "20.9 days",
+    "Orbital Radius": "0.154 AU",
+    "Planet Radius": "0.482 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "dab4b55d-4851-49aa-9edd-7d642ab0e1a6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-24-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-24-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-24-b",
+            "Path": "exoplanet_details/k2-24-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-24_b"
+    }
+}

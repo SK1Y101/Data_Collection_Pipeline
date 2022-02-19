@@ -1,0 +1,30 @@
+{
+    "Description": "K2-187 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.2 Earths, it takes 7.1 days to complete one orbit of its star, and is 0.072 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-187-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6210/k2-187-d/",
+    "Mass": "10.2 Earths",
+    "Name": "k2-187-d",
+    "Orbital Period": "7.1 days",
+    "Orbital Radius": "0.072 AU",
+    "Planet Radius": "0.283 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "42ae1c9a-65e0-47cd-98b3-c75f57a5878e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-187-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-187-d/images/1.png"
+        },
+        "2": {
+            "Description": "K2-187-d",
+            "Path": "exoplanet_details/k2-187-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-187_d"
+    }
+}

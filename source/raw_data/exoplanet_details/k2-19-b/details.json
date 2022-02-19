@@ -1,0 +1,30 @@
+{
+    "Description": "K2-19 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 32.4 Earths, it takes 7.9 days to complete one orbit of its star, and is 0.074 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.2",
+    "Id": "k2-19-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4759/k2-19-b/",
+    "Mass": "32.4 Earths",
+    "Name": "k2-19-b",
+    "Orbital Period": "7.9 days",
+    "Orbital Radius": "0.074 AU",
+    "Planet Radius": "0.624 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "37d1683b-785a-4104-a36a-4e9dc72b502f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-19-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-19-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-19-b",
+            "Path": "exoplanet_details/k2-19-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-19_b"
+    }
+}

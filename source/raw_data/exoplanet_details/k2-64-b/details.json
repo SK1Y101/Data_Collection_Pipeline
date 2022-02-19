@@ -1,0 +1,30 @@
+{
+    "Description": "K2-64 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.94 Earths, it takes 6.5 days to complete one orbit of its star, and is 0.0619 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "k2-64-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3332/k2-64-b/",
+    "Mass": "4.94 Earths",
+    "Name": "k2-64-b",
+    "Orbital Period": "6.5 days",
+    "Orbital Radius": "0.0619 AU",
+    "Planet Radius": "2.07 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "8e1da21a-f7a0-4ce4-9535-e15842e36332",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-64-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-64-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-64-b",
+            "Path": "exoplanet_details/k2-64-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-64_b"
+    }
+}

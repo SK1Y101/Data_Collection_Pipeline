@@ -1,0 +1,30 @@
+{
+    "Description": "Kappa Andromedae b is a gas giant exoplanet that orbits a B-type star. Its mass is 13.616 Jupiters, it takes 253.1 years to complete one orbit of its star, and is 55 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.0",
+    "Id": "kappa-andromedae-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7048/kappa-andromedae-b/",
+    "Mass": "13.616 Jupiters",
+    "Name": "kappa-andromedae-b",
+    "Orbital Period": "253.1 years",
+    "Orbital Radius": "55.0 AU",
+    "Planet Radius": "1.1 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "2aaa8754-fa23-48e4-ac3b-a94afd1edc05",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kappa-andromedae-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kappa-andromedae-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kappa-andromedae-b",
+            "Path": "exoplanet_details/kappa-andromedae-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/kap_And_b"
+    }
+}

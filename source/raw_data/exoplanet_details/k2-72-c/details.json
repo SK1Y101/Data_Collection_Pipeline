@@ -1,0 +1,30 @@
+{
+    "Description": "K2-72 c is a super Earth exoplanet that orbits an M-type star. Its mass is 1.65 Earths, it takes 15.2 days to complete one orbit of its star, and is 0.078 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.11",
+    "Id": "k2-72-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3341/k2-72-c/",
+    "Mass": "1.65 Earths",
+    "Name": "k2-72-c",
+    "Orbital Period": "15.2 days",
+    "Orbital Radius": "0.078 AU",
+    "Planet Radius": "1.16 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "b6f6a401-1f6b-4af7-8538-5016dd972d9e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-72-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-72-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-72-c",
+            "Path": "exoplanet_details/k2-72-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-72_c"
+    }
+}

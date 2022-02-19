@@ -1,0 +1,30 @@
+{
+    "Description": "K2-90 c is a super Earth exoplanet that orbits a K-type star. Its mass is 2.24 Earths, it takes 2.9 days to complete one orbit of its star, and is 0.035 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.19",
+    "Id": "k2-90-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3366/k2-90-c/",
+    "Mass": "2.24 Earths",
+    "Name": "k2-90-c",
+    "Orbital Period": "2.9 days",
+    "Orbital Radius": "0.035 AU",
+    "Planet Radius": "1.3 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "5dd583fb-990f-4971-9045-6c67769b3f93",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-90-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-90-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-90-c",
+            "Path": "exoplanet_details/k2-90-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-90_c"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "K2-198 c is a super Earth exoplanet that orbits a K-type star. Its mass is 2.61 Earths and it takes 3.4 days to complete one orbit of its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "k2-198-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7451/k2-198-c/",
+    "Mass": "2.61 Earths",
+    "Name": "k2-198-c",
+    "Orbital Period": "3.4 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.423 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "da0a2314-86a6-431b-b9a0-95ae17337a3a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-198-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-198-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-198-c",
+            "Path": "exoplanet_details/k2-198-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-198_c"
+    }
+}

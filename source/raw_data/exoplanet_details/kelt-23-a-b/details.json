@@ -1,0 +1,30 @@
+{
+    "Description": "KELT-23 A b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.938 Jupiters, it takes 2.3 days to complete one orbit of its star, and is 0.03302 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "kelt-23-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7418/kelt-23-a-b/",
+    "Mass": "0.938 Jupiters",
+    "Name": "kelt-23-a-b",
+    "Orbital Period": "2.3 days",
+    "Orbital Radius": "0.03302 AU",
+    "Planet Radius": "1.323 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b5b9d56e-0a37-4cad-bba3-a766d9c060af",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kelt-23-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kelt-23-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kelt-23-a-b",
+            "Path": "exoplanet_details/kelt-23-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/KELT-23_A_b"
+    }
+}

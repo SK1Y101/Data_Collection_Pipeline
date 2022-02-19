@@ -1,0 +1,30 @@
+{
+    "Description": "K2-190 c is a super Earth exoplanet that orbits a G-type star. Its mass is 1.34 Earths and it takes 21.6 days to complete one orbit of its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-190-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6217/k2-190-c/",
+    "Mass": "1.34 Earths",
+    "Name": "k2-190-c",
+    "Orbital Period": "21.6 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.093 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "fc952b13-8170-42a8-a257-c931cb3f3e74",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-190-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-190-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-190-c",
+            "Path": "exoplanet_details/k2-190-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-190_c"
+    }
+}

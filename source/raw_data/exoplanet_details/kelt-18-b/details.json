@@ -1,0 +1,30 @@
+{
+    "Description": "KELT-18 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.18 Jupiters, it takes 2.9 days to complete one orbit of its star, and is 0.0455 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.0",
+    "Id": "kelt-18-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3490/kelt-18-b/",
+    "Mass": "1.18 Jupiters",
+    "Name": "kelt-18-b",
+    "Orbital Period": "2.9 days",
+    "Orbital Radius": "0.0455 AU",
+    "Planet Radius": "1.57 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7390dff5-98db-4df3-93e3-68d5047ee954",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kelt-18-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kelt-18-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kelt-18-b",
+            "Path": "exoplanet_details/kelt-18-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/KELT-18_b"
+    }
+}

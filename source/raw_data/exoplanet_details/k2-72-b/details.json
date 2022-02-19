@@ -1,0 +1,30 @@
+{
+    "Description": "K2-72 b is a super Earth exoplanet that orbits an M-type star. Its mass is 1.28 Earths, it takes 5.6 days to complete one orbit of its star, and is 0.04 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.11",
+    "Id": "k2-72-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3340/k2-72-b/",
+    "Mass": "1.28 Earths",
+    "Name": "k2-72-b",
+    "Orbital Period": "5.6 days",
+    "Orbital Radius": "0.04 AU",
+    "Planet Radius": "1.08 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "ef5de6a5-6ec4-4372-9a41-818628dc8cdd",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-72-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-72-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-72-b",
+            "Path": "exoplanet_details/k2-72-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-72_b"
+    }
+}

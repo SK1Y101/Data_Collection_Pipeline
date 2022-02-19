@@ -27,11 +27,83 @@ scraper = Scraper()
 
 The scraper class exposes the following 17 public methods that can be used to build a scraper application
 
-### findAll
+## navigate
+```python
+Scraper.navigate(url)
+```
+
+The scraper will navigate to the desired url.
+
+The scraper will also hold code execution until the webpage has loaded, such that following code can execute properly.
+
+#### Example Usage
+Python
+```python
+scraper.navigate("www.google.com")
+```
+
+## close
+```python
+Scraper.close()
+```
+
+The scraper will close the current webpage. This behavior is usually used to shutdown the webdriver.
+
+#### Example Usage
+Python
+```python
+Scraper.navigate("www.google.com")
+Scraper.close()
+```
+
+## find
+```python
+Scraper.find(tagName="*", attribute=None, value=None, source=None)
+```
+
+The scraper will locate the first element that matches the xpath string `//tagName[@attribute=value]`
+
+tagName defines the HTML tag, ie: Div, Section, tr, ...
+
+attribute defines an HTML attribute, ie: id, class, height, ...
+
+
+if a source element is provided, the scraper will only search elements that are children of that element.
+
+If one is not provided (default behavior of the method), then the scraper will find the first match in the entire page
+
+#### Example Usage
+HTML
+```HTML
+<body>
+    <div id="test">
+        <div class="test_elements">
+            this is a test
+        </div>
+        <div class="test_elements">
+            this is also a test
+        </div>
+    </div>
+    <div class="test_elements">
+        this element is not a child of 'test'
+    </div>
+</body>
+```
+Python
+```python
+element = scraper.find("div", "class", "test_elements")
+
+print(element.text)
+```
+Output
+```
+this is a test
+```
+
+## findAll
 ```python
 Scraper.findAll(tagName="*", attribute=None, value=None, source=None)
 ```
-#### Explanation
 
 The scraper will locate all elements that match the xpath string `//tagName[@attribute=value]`, and return them as a list
 
@@ -75,40 +147,289 @@ this is also a test
 this element is not a child of 'test'
 ```
 
-### find
+
+## findLink
 ```python
-Scraper.find(self, tagName="*", attribute=None, value=None, source=None)
+Scraper.findLink(element)
 ```
 
-### findLink
+Will locate all links within an element, this includes links found in child elements, and the element itself.
+
+#### Example Usage
+HTML
+```HTML
+<body>
+    <a href="www.google.com">Google</a>
+    <div id="store_links">
+        <a href="https://github.com/SK1Y101/Data_Collection_Pipeline">This project!</a>
+        <a href="https://github.com/SK1Y101/Computer-Vision-Rock-Paper-Scissors">The previous project!</a>
+    </div>
+</body>
+```
+Python
 ```python
-Scraper.findLink(self, element)
+link_section = Scraper.find("div", "id", "store_links")
+
+links = Scraper.findLinks(link_section)
+
+for link in links:
+    print(link)
+```
+Output
+```
+https://github.com/SK1Y101/Data_Collection_Pipeline
+https://github.com/SK1Y101/Computer-Vision-Rock-Paper-Scissors
 ```
 
-### waitUntilFound
 
-### navigate
+## waitUntilFound
+```python
+CODE
+```
 
-### scroll
+EXPLAIN
 
-### selectbox
+#### Example Usage
+HTML
+```HTML
 
-### waitForSelectbox
+```
+Python
+```python
 
-### typeBox
+```
+Output
+```
 
-### loadIframe
+```
 
-### makeFolder
+## scroll
+```python
+CODE
+```
 
-### localStorage
+EXPLAIN
 
-### screenshot
+#### Example Usage
+HTML
+```HTML
 
-### checkForFile
+```
+Python
+```python
 
-### loadJSON
+```
+Output
+```
 
-### saveJSON
+```
 
-### close
+## selectbox
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## waitForSelectbox
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## typeBox
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## loadIframe
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## makeFolder
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## localStorage
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## screenshot
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## checkForFile
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## loadJSON
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## saveJSON
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```

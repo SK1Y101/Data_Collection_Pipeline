@@ -1,0 +1,30 @@
+{
+    "Description": "K2-32 e is a super Earth exoplanet that orbits a K-type star. Its mass is 2.1 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.04899 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.04",
+    "Id": "k2-32-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7410/k2-32-e/",
+    "Mass": "2.1 Earths",
+    "Name": "k2-32-e",
+    "Orbital Period": "4.3 days",
+    "Orbital Radius": "0.04899 AU",
+    "Planet Radius": "1.212 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "db9dc0c5-1a7d-4395-8ea8-7c9d6a8a2936",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-32-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-32-e/images/1.png"
+        },
+        "2": {
+            "Description": "K2-32-e",
+            "Path": "exoplanet_details/k2-32-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-32_e"
+    }
+}

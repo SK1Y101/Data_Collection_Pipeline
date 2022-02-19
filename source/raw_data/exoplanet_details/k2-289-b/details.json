@@ -1,0 +1,30 @@
+{
+    "Description": "K2-289 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.192 Jupiters, it takes 13.2 days to complete one orbit of its star, and is 0.107 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "k2-289-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6468/k2-289-b/",
+    "Mass": "0.192 Jupiters",
+    "Name": "k2-289-b",
+    "Orbital Period": "13.2 days",
+    "Orbital Radius": "0.107 AU",
+    "Planet Radius": "0.812 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6bae0d72-f1ba-4059-abef-22066afe89b7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-289-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-289-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-289-b",
+            "Path": "exoplanet_details/k2-289-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-289_b"
+    }
+}
