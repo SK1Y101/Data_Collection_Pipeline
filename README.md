@@ -2,7 +2,9 @@
 In this lab, you'll implement an industry grade data collection pipeline that runs scalably in the cloud.
 
 # Possible data sources
-Exoplanet details
+Used in this project: Exoplanet details from Nasa Exoplanet Catalogue
+
+Used in your project: Any website you want!
 
 # File structure
 `Repo/`<br>

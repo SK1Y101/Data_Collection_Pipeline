@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1437 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.45 Earths, it takes 10.9 days to complete one orbit of its star, and is 0.0951 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1437-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2305/kepler-1437-b/",
+    "Mass": "2.45 Earths",
+    "Name": "kepler-1437-b",
+    "Orbital Period": "10.9 days",
+    "Orbital Radius": "0.0951 AU",
+    "Planet Radius": "1.37 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "5edc3802-6847-4b8b-94e3-b145b77c3365",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1437-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1437-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1437-b",
+            "Path": "exoplanet_details/kepler-1437-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1437_b"
+    }
+}

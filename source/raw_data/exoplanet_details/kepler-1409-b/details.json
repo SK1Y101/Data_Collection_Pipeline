@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1409 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.12 Earths, it takes 0.8 days to complete one orbit of its star, and is 0.0152 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1409-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2856/kepler-1409-b/",
+    "Mass": "1.12 Earths",
+    "Name": "kepler-1409-b",
+    "Orbital Period": "0.8 days",
+    "Orbital Radius": "0.0152 AU",
+    "Planet Radius": "1.04 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "1a698d14-709c-4446-9743-cc45153f54d4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1409-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1409-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1409-b",
+            "Path": "exoplanet_details/kepler-1409-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1409_b"
+    }
+}

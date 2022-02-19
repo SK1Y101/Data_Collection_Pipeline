@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-143 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 11.3 Earths, it takes 27.1 days to complete one orbit of its star, and is 0.181 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "Id": "kepler-143-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1644/kepler-143-c/",
+    "Mass": "11.3 Earths",
+    "Name": "kepler-143-c",
+    "Orbital Period": "27.1 days",
+    "Orbital Radius": "0.181 AU",
+    "Planet Radius": "0.301 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "dd8590b2-d904-4178-bc39-ea9ced9d9b0a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-143-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-143-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-143-c",
+            "Path": "exoplanet_details/kepler-143-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-143_c"
+    }
+}

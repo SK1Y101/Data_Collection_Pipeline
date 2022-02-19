@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1411 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.35 Earths, it takes 86.1 days to complete one orbit of its star, and is 0.4001 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1411-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2858/kepler-1411-b/",
+    "Mass": "8.35 Earths",
+    "Name": "kepler-1411-b",
+    "Orbital Period": "86.1 days",
+    "Orbital Radius": "0.4001 AU",
+    "Planet Radius": "0.252 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "acbe7d49-0185-4321-920a-84b475c77d76",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1411-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1411-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1411-b",
+            "Path": "exoplanet_details/kepler-1411-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1411_b"
+    }
+}
