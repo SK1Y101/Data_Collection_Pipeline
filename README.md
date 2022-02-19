@@ -5,20 +5,20 @@ In this lab, you'll implement an industry grade data collection pipeline that ru
 Exoplanet details
 
 # File structure
-`Repo/`
-├─ `source/`
-│  ├─ `raw_data/`
-│  │  ├─ `exoplanet_details/`
-│  │  │  └─ `A folder for each exoplanet, with the following format`
-│  │  │     ├─ `images/`
-│  │  │     │  └─ `Images aranged in numerical order`
-│  │  │     └─ `details.json`
-│  │  └─ `exoplanet_links.json`
-│  ├─ `Scraper/`
-│  │  └─ `__init__.py`
-│  └─ `scrape_for_exoplanets.py`
-├─ `.gitignore`
-└─ `README.md`
+`Repo/`<br>
+├─ `source/`<br>
+│  ├─ `raw_data/`<br>
+│  │  ├─ `exoplanet_details/`<br>
+│  │  │  └─ `A folder for each exoplanet, with the following format`<br>
+│  │  │     ├─ `images/`<br>
+│  │  │     │  └─ `Images aranged in numerical order`<br>
+│  │  │     └─ `details.json`<br>
+│  │  └─ `exoplanet_links.json`<br>
+│  ├─ `Scraper/`<br>
+│  │  └─ `__init__.py`<br>
+│  └─ `scrape_for_exoplanets.py`<br>
+├─ `.gitignore`<br>
+└─ `README.md`<br>
 
 # Usage
 Contained within `source/Scraper` is the scraper class, which can be imported and used with:
@@ -55,6 +55,9 @@ HTML
             this is also a test
         </div>
     </div>
+    <div class="test_elements">
+        this element is not a child of 'test'
+    </div>
 </body>
 ```
 Python
@@ -68,6 +71,7 @@ Output
 ```
 this is a test
 this is also a test
+this element is not a child of 'test'
 ```
 
 ### find
