@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-44 c is a gas giant exoplanet that orbits a K-type star. Its mass is 4 Jupiters, it takes 2.4 years to complete one orbit of its star, and is 1.752 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.49",
+    "Id": "hat-p-44-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1261/hat-p-44-c/",
+    "Mass": "4 Jupiters",
+    "Name": "hat-p-44-c",
+    "Orbital Period": "2.4 years",
+    "Orbital Radius": "1.752 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "09f524f2-960c-4a67-b005-d025730680c0",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-44-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-44-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-44-c",
+            "Path": "exoplanet_details/hat-p-44-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-44_c"
+    }
+}

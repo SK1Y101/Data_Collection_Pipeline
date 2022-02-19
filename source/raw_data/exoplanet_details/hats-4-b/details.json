@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-4 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.323 Jupiters, it takes 2.5 days to complete one orbit of its star, and is 0.0362 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.01",
+    "Id": "hats-4-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/260/hats-4-b/",
+    "Mass": "1.323 Jupiters",
+    "Name": "hats-4-b",
+    "Orbital Period": "2.5 days",
+    "Orbital Radius": "0.0362 AU",
+    "Planet Radius": "1.02 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7bf0d54a-3b34-4730-af99-15f27228cf37",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-4-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-4-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-4-b",
+            "Path": "exoplanet_details/hats-4-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-4_b"
+    }
+}

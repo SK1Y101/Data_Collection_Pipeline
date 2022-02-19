@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 160.2 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 10.2 Earths, it takes 5.2 days to complete one orbit of its star, and is 0.053 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.06",
+    "Id": "gj-1602-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7486/gj-1602-b/",
+    "Mass": "10.2 Earths",
+    "Name": "gj-1602-b",
+    "Orbital Period": "5.2 days",
+    "Orbital Radius": "0.053 AU",
+    "Planet Radius": "0.283 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "f087212f-ec72-4ad5-88b0-e2d326dd14b1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-1602-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-1602-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-1602-b",
+            "Path": "exoplanet_details/gj-1602-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_160.2_b"
+    }
+}

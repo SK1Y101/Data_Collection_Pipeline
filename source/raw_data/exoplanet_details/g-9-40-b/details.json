@@ -1,0 +1,30 @@
+{
+    "Description": "G 9-40 b is a super Earth exoplanet that orbits an M-type star. Its mass is 4.76 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.0385 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "g-9-40-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7545/g-9-40-b/",
+    "Mass": "4.76 Earths",
+    "Name": "g-9-40-b",
+    "Orbital Period": "5.7 days",
+    "Orbital Radius": "0.0385 AU",
+    "Planet Radius": "2.025 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "fb3adee5-d1dd-4b84-8e2e-9864524dc037",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/g-9-40-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/g-9-40-b/images/1.png"
+        },
+        "2": {
+            "Description": "G-9-40-b",
+            "Path": "exoplanet_details/g-9-40-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/G_9-40_b"
+    }
+}

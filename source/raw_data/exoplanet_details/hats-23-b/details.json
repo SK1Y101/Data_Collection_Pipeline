@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-23 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.47 Jupiters, it takes 2.2 days to complete one orbit of its star, and is 0.03397 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "< 0.114",
+    "Id": "hats-23-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3468/hats-23-b/",
+    "Mass": "1.47 Jupiters",
+    "Name": "hats-23-b",
+    "Orbital Period": "2.2 days",
+    "Orbital Radius": "0.03397 AU",
+    "Planet Radius": "1.86 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d615d881-7378-4e16-a8a5-ce46daa7939b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-23-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-23-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-23-b",
+            "Path": "exoplanet_details/hats-23-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-23_b"
+    }
+}

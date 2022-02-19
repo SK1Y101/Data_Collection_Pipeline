@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-43 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.662 Jupiters, it takes 3.3 days to complete one orbit of its star, and is 0.0444 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2012",
+    "Eccentricity": "< 0.21",
+    "Id": "hat-p-43-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1259/hat-p-43-b/",
+    "Mass": "0.662 Jupiters",
+    "Name": "hat-p-43-b",
+    "Orbital Period": "3.3 days",
+    "Orbital Radius": "0.0444 AU",
+    "Planet Radius": "1.216 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a28018a3-e288-46c6-9d34-b8c15881bbff",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-43-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-43-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-43-b",
+            "Path": "exoplanet_details/hat-p-43-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-43_b"
+    }
+}

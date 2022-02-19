@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 414 A c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.16937 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 1.4 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.11",
+    "Id": "gj-414-a-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7839/gj-414-a-c/",
+    "Mass": "0.16937 Jupiters",
+    "Name": "gj-414-a-c",
+    "Orbital Period": "2.1 years",
+    "Orbital Radius": "1.4 AU",
+    "Planet Radius": "0.749 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "4be2e7b3-a37a-4cf4-80b4-c151cfa188c9",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-414-a-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-414-a-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-414-a-c",
+            "Path": "exoplanet_details/gj-414-a-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_414_A_c"
+    }
+}

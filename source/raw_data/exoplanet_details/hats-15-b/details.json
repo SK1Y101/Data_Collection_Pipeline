@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-15 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.17 Jupiters, it takes 1.7 days to complete one orbit of its star, and is 0.02712 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "< 0.126",
+    "Id": "hats-15-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3285/hats-15-b/",
+    "Mass": "2.17 Jupiters",
+    "Name": "hats-15-b",
+    "Orbital Period": "1.7 days",
+    "Orbital Radius": "0.02712 AU",
+    "Planet Radius": "1.105 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a20a68d4-0903-4a0a-84f4-1fe65103d980",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-15-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-15-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-15-b",
+            "Path": "exoplanet_details/hats-15-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-15_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "BD+15 2375 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.061 Jupiters, it takes 153.2 days to complete one orbit of its star, and is 0.576 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "bd15-2375-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7025/bd15-2375-b/",
+    "Mass": "1.061 Jupiters",
+    "Name": "bd15-2375-b",
+    "Orbital Period": "153.2 days",
+    "Orbital Radius": "0.576 AU",
+    "Planet Radius": "1.23 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "0d4a7f6a-8b5a-4ce7-9440-754910ffffc7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/bd15-2375-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/bd15-2375-b/images/1.png"
+        },
+        "2": {
+            "Description": "Bd15-2375-b",
+            "Path": "exoplanet_details/bd15-2375-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/BD+15_2375_b"
+    }
+}

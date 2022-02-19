@@ -1,0 +1,30 @@
+{
+    "Description": "51 Pegasi b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.46 Jupiters, it takes 4.2 days to complete one orbit of its star, and is 0.0527 AU from its star. Its discovery was announced in 1995.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "1995",
+    "Eccentricity": "0.01",
+    "Id": "51-pegasi-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7001/51-pegasi-b/",
+    "Mass": "0.46 Jupiters",
+    "Name": "51-pegasi-b",
+    "Orbital Period": "4.2 days",
+    "Orbital Radius": "0.0527 AU",
+    "Planet Radius": "1.27 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7863f807-aaae-4993-85a1-1d6a3e9db46f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/51-pegasi-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/51-pegasi-b/images/1.png"
+        },
+        "2": {
+            "Description": "51-pegasi-b",
+            "Path": "exoplanet_details/51-pegasi-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/51_Peg_b"
+    }
+}

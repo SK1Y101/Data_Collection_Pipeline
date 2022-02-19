@@ -1,0 +1,30 @@
+{
+    "Description": "CoRoT-27 b is a gas giant exoplanet that orbits a G-type star. Its mass is 10.39 Jupiters, it takes 3.6 days to complete one orbit of its star, and is 0.0476 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "< 0.065",
+    "Id": "corot-27-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1338/corot-27-b/",
+    "Mass": "10.39 Jupiters",
+    "Name": "corot-27-b",
+    "Orbital Period": "3.6 days",
+    "Orbital Radius": "0.0476 AU",
+    "Planet Radius": "1.007 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ceecb8fc-1b3e-477d-a652-8cb0eed21533",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/corot-27-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/corot-27-b/images/1.png"
+        },
+        "2": {
+            "Description": "Corot-27-b",
+            "Path": "exoplanet_details/corot-27-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/CoRoT-27_b"
+    }
+}

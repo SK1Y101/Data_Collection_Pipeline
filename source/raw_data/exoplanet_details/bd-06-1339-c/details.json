@@ -1,0 +1,30 @@
+{
+    "Description": "BD-06 1339 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.17 Jupiters, it takes 125.9 days to complete one orbit of its star, and is 0.435 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.31",
+    "Id": "bd-06-1339-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7074/bd-06-1339-c/",
+    "Mass": "0.17 Jupiters",
+    "Name": "bd-06-1339-c",
+    "Orbital Period": "125.9 days",
+    "Orbital Radius": "0.435 AU",
+    "Planet Radius": "0.747 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "e0a6307d-aeaa-4e3f-b215-10877f54f83c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/bd-06-1339-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/bd-06-1339-c/images/1.png"
+        },
+        "2": {
+            "Description": "Bd-06-1339-c",
+            "Path": "exoplanet_details/bd-06-1339-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/BD-06_1339_c"
+    }
+}

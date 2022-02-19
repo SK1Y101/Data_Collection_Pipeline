@@ -87,8 +87,8 @@ class Scraper:
         ''' Go to a specified url, with a random wait time to throw off bot detection. '''
         # go to the url
         self.driver.get(url)
-        # wait for a random amount of time between 1 and 5 seconds so the site does not suspect we are a bot
-        wait(random() * 4 + 1)
+        # wait for a bit for the page contents to load
+        wait(0.5)
     
     # scroll to a certain part of the page
     def scroll(self, scroll_percent=0.1):
@@ -102,6 +102,34 @@ class Scraper:
         select = Select(element)
         # compile all of the options, and return a function to select one
         return [o.text for o in select.options], select.select_by_visible_text
+    
+    # locate a selection box
+    def waitForSelectbox(self, attribute=None, value=None, source=None):
+        # error counter
+        error = 0
+        # try to fetch the selection box three times
+        while error < 3:
+            try:
+                # try to find the element
+                selectElem = self.waitUntilFound("select", attribute, value, source)
+                # convert to a selection box
+                options, select_option = self.selectbox(selectElem)
+                # select an option, so that we load things
+                try:
+                    select_option(options[-2])
+                except:
+                    select_option(options[0])
+                # if nothing failed, return the elements
+                return options, select_option
+            # if we encountered a problem
+            except Exception as e:
+                # increment the error counter
+                error+=1
+                # and have a small delay before trying again
+                wait(0.1)
+        # raise the exception that occured
+        raise e
+
     
     # type after clicking on an element
     def typeBox(self, element, query=""):
@@ -131,7 +159,7 @@ class Scraper:
             # switch to new tab
             self.driver.switch_to.window(self.driver.window_handles[-1])
             # switch to the iframe url
-            self.driver.get(iframeUrl)
+            self.navigate(iframeUrl)
             # also yield the frame if needed
             yield iframeUrl
         # if anything goes wrong, or we're done
@@ -173,7 +201,8 @@ class Scraper:
     # take a screenshot of the page and save to a location
     def screenshot(self, fileName, useLocalStorage=True):
         ''' Take a screenshot of the current page.
-            location: the filepath to store the screenshot in. '''
+            location: the filepath to store the screenshot in.
+            useLocalStorage: Will prepend the local storage directory to the filename if set to true. '''
         # prepend if wanted
         if useLocalStorage:
             # ensure we don't have odouble slasshes by mistake
@@ -184,10 +213,15 @@ class Scraper:
         self.driver.save_screenshot(fileName)
     
     # check if a file exists
-    def checkForFile(self, fileName, stale_time=7):
+    def checkForFile(self, fileName, stale_time=7, useLocalStorage=True):
         ''' Check if a file exists, and whether it will be considered stale.
             fileName: The filepath to the file.
-            stale_time: The number of days this file should be younger than to not be considered stale. '''
+            stale_time: The number of days this file should be younger than to not be considered stale.
+            useLocalStorage: Will prepend the local storage directory to the filename if set to true. '''
+        # prepend if wanted
+        if useLocalStorage:
+            # ensure we don't have odouble slasshes by mistake
+            fileName = (self.filedir + "/" + fileName).replace("//", "/")
         # return nothing if the file doesnt exist
         if not os.path.exists(fileName):
             return None
@@ -203,13 +237,13 @@ class Scraper:
             fileName: The filepath to the JSON file.
             stale_time: The number of days this file should be younger than to not be considered stale.
             useLocalStorage: Will prepend the local storage directory to the filename if set to true. '''
+        # check the file exists and isnt stale
+        if not self.checkForFile(fileName, stale_time, useLocalStorage):
+            return None
         # prepend if wanted
         if useLocalStorage:
             # ensure we don't have odouble slasshes by mistake
             fileName = (self.filedir + "/" + fileName).replace("//", "/")
-        # check the file exists and isnt stale
-        if not self.checkForFile(fileName, stale_time):
-            return None
         # otherwise, load the JSON as a dict and return it
         with open(fileName, "r") as f:
             data = json.load(f)
@@ -244,7 +278,7 @@ def search_exoplanet(scraper, name):
     # go to the webpage
     scraper.navigate("https://exoplanets.nasa.gov/discovery/exoplanet-catalog/")
     # type the name into the search box
-    search_box = scraper.find("input", "id", "desktop_search_field")
+    search_box = scraper.waitUntilFound("input", "id", "desktop_search_field")
     # type the exoplanet name
     scraper.typeBox(search_box, name)
     # search for the exoplanet link
@@ -339,11 +373,8 @@ def fetch_exoplanet_images(scraper, planet_dict, data_location):
         # start the image id at zero
         imageId = 0
         # fetch the comparison dropdown
-        comparison = scraper.waitUntilFound("select", "class", "dropdownInfo")
-        # convert to a selection box
-        options, select_option = scraper.selectbox(comparison)
-        # select an option, so that we load things
-        select_option(options[-2])
+        options, select_option = scraper.waitForSelectbox("class", "dropdownInfo")
+        # give it a second to load the image
         wait(1)
         # itterate on the options backwards (Jupiter, Earth, self)
         for option in options[::-1]:
@@ -382,14 +413,14 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         link = ref[name]["link"]
         # get the folder for this exoplanet
         data_loc = "{}/{}".format(fileStore, name.replace(" ", "_"))
-        # use the name as an id, generate a uuid from it, and create the dictionary for this planet from that
-        thisplanet = {"Id": name, "Uuid": str(uuid.uuid4()), "Link": link, "Name": name,}
-        # navigate to the page
-        scraper.navigate(link)
         # check if this exoplanet has information already
         old_details = scraper.loadJSON(data_loc+"/details.json", stale_time)
         # if this exoplanet hasn't previously been searhed
         if not old_details:
+            # use the name as an id, generate a uuid from it, and create the dictionary for this planet from that
+            thisplanet = {"Id": name, "Uuid": str(uuid.uuid4()), "Link": link, "Name": name,}
+            # navigate to the page
+            scraper.navigate(link)
             # fetch the details for this planet too
             info = exoplanet_info(scraper, link)
             # and combine the info with this planets details
@@ -419,7 +450,7 @@ def main():
     scraper.navigate("https://exoplanets.nasa.gov/discovery/exoplanet-catalog/")
 
     # expand the exoplanets table to the maximum
-    per_page = scraper.find("select", "id", "per_page")
+    per_page = scraper.waitUntilFound("select", "id", "per_page")
     # fetch the selection box
     options, select_func = scraper.selectbox(per_page)
     # select the max

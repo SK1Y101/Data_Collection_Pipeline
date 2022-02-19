@@ -1,0 +1,30 @@
+{
+    "Description": "HD 108236 f is a super Earth exoplanet that orbits a G-type star. Its mass is 4.72 Earths, it takes 29.5 days to complete one orbit of its star, and is 0.1758 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.05",
+    "Id": "hd-108236-f",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7806/hd-108236-f/",
+    "Mass": "4.72 Earths",
+    "Name": "hd-108236-f",
+    "Orbital Period": "29.5 days",
+    "Orbital Radius": "0.1758 AU",
+    "Planet Radius": "2.017 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "335f607f-961e-4061-9aa5-4887b7bc65d4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-108236-f/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-108236-f/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-108236-f",
+            "Path": "exoplanet_details/hd-108236-f/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_108236_f"
+    }
+}

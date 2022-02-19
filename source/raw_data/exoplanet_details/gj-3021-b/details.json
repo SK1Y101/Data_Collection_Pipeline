@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 3021 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.37 Jupiters, it takes 133.7 days to complete one orbit of its star, and is 0.49 AU from its star. Its discovery was announced in 2000.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2000",
+    "Eccentricity": "0.51",
+    "Id": "gj-3021-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6558/gj-3021-b/",
+    "Mass": "3.37 Jupiters",
+    "Name": "gj-3021-b",
+    "Orbital Period": "133.7 days",
+    "Orbital Radius": "0.49 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b45b6111-4d54-46a9-9700-2c8d9318001a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-3021-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-3021-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-3021-b",
+            "Path": "exoplanet_details/gj-3021-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_3021_b"
+    }
+}

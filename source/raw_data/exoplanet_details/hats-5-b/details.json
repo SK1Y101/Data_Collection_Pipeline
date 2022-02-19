@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-5 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.237 Jupiters, it takes 4.8 days to complete one orbit of its star, and is 0.0542 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.02",
+    "Id": "hats-5-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1267/hats-5-b/",
+    "Mass": "0.237 Jupiters",
+    "Name": "hats-5-b",
+    "Orbital Period": "4.8 days",
+    "Orbital Radius": "0.0542 AU",
+    "Planet Radius": "0.912 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "98adf521-b3f0-43de-bb96-7e1f2872c8ad",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-5-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-5-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-5-b",
+            "Path": "exoplanet_details/hats-5-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-5_b"
+    }
+}

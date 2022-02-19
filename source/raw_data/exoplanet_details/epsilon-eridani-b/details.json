@@ -1,0 +1,30 @@
+{
+    "Description": "Epsilon Eridani b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.78 Jupiters, it takes 7.4 years to complete one orbit of its star, and is 3.5 AU from its star. Its discovery was announced in 2000.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2000",
+    "Eccentricity": "0.07",
+    "Id": "epsilon-eridani-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7042/epsilon-eridani-b/",
+    "Mass": "0.78 Jupiters",
+    "Name": "epsilon-eridani-b",
+    "Orbital Period": "7.4 years",
+    "Orbital Radius": "3.5 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "cf52d494-8aab-47ad-82c0-e9941400f88e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epsilon-eridani-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epsilon-eridani-b/images/1.png"
+        },
+        "2": {
+            "Description": "Epsilon-eridani-b",
+            "Path": "exoplanet_details/epsilon-eridani-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/eps_Eri_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-57 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.147 Jupiters, it takes 2.4 days to complete one orbit of its star, and is 0.03493 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "< 0.028",
+    "Id": "hats-57-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7459/hats-57-b/",
+    "Mass": "3.147 Jupiters",
+    "Name": "hats-57-b",
+    "Orbital Period": "2.4 days",
+    "Orbital Radius": "0.03493 AU",
+    "Planet Radius": "1.139 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "518c7dc9-0281-4c2b-b5d7-b3306e0faa42",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-57-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-57-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-57-b",
+            "Path": "exoplanet_details/hats-57-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-57_b"
+    }
+}

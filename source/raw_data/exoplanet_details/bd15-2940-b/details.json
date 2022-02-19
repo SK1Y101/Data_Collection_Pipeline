@@ -1,0 +1,30 @@
+{
+    "Description": "BD+15 2940 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.11 Jupiters, it takes 137.5 days to complete one orbit of its star, and is 0.539 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.26",
+    "Id": "bd15-2940-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7076/bd15-2940-b/",
+    "Mass": "1.11 Jupiters",
+    "Name": "bd15-2940-b",
+    "Orbital Period": "137.5 days",
+    "Orbital Radius": "0.539 AU",
+    "Planet Radius": "1.23 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "1cf656f1-7151-4408-8bc4-8494db72afca",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/bd15-2940-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/bd15-2940-b/images/1.png"
+        },
+        "2": {
+            "Description": "Bd15-2940-b",
+            "Path": "exoplanet_details/bd15-2940-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/BD+15_2940_b"
+    }
+}

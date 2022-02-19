@@ -1,0 +1,30 @@
+{
+    "Description": "BD+55 362 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.72 Jupiters, it takes 265.6 days to complete one orbit of its star, and is 0.78 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.27",
+    "Id": "bd55-362-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7873/bd55-362-b/",
+    "Mass": "0.72 Jupiters",
+    "Name": "bd55-362-b",
+    "Orbital Period": "265.6 days",
+    "Orbital Radius": "0.78 AU",
+    "Planet Radius": "1.25 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8907a668-5f40-4ff3-b319-4543ff6f4787",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/bd55-362-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/bd55-362-b/images/1.png"
+        },
+        "2": {
+            "Description": "Bd55-362-b",
+            "Path": "exoplanet_details/bd55-362-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/BD+55_362_b"
+    }
+}

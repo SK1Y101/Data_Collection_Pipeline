@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-52 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.818 Jupiters, it takes 2.8 days to complete one orbit of its star, and is 0.03694 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "< 0.047",
+    "Id": "hat-p-52-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4253/hat-p-52-b/",
+    "Mass": "0.818 Jupiters",
+    "Name": "hat-p-52-b",
+    "Orbital Period": "2.8 days",
+    "Orbital Radius": "0.03694 AU",
+    "Planet Radius": "1.009 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "98ec21c8-3dd4-466b-b5b4-ec01268f0fac",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-52-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-52-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-52-b",
+            "Path": "exoplanet_details/hat-p-52-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-52_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-35 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.056 Jupiters, it takes 3.6 days to complete one orbit of its star, and is 0.04978 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2011",
+    "Eccentricity": "< 0.02",
+    "Id": "hat-p-35-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/257/hat-p-35-b/",
+    "Mass": "1.056 Jupiters",
+    "Name": "hat-p-35-b",
+    "Orbital Period": "3.6 days",
+    "Orbital Radius": "0.04978 AU",
+    "Planet Radius": "1.332 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ebf785e1-8b63-433f-9fb5-e9d930ddf7e9",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-35-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-35-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-35-b",
+            "Path": "exoplanet_details/hat-p-35-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-35_b"
+    }
+}

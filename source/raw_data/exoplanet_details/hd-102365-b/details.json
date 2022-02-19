@@ -1,0 +1,30 @@
+{
+    "Description": "HD 102365 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 16 Earths, it takes 122.1 days to complete one orbit of its star, and is 0.46 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.34",
+    "Id": "hd-102365-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6720/hd-102365-b/",
+    "Mass": "16 Earths",
+    "Name": "hd-102365-b",
+    "Orbital Period": "122.1 days",
+    "Orbital Radius": "0.46 AU",
+    "Planet Radius": "0.369 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "0dc8d208-3ade-4161-b9a3-82a70b28af58",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-102365-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-102365-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-102365-b",
+            "Path": "exoplanet_details/hd-102365-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_102365_b"
+    }
+}

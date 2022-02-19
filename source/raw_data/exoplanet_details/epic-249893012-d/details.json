@@ -1,0 +1,30 @@
+{
+    "Description": "EPIC 249893012 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.18 Earths, it takes 35.7 days to complete one orbit of its star, and is 0.22 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.15",
+    "Id": "epic-249893012-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7590/epic-249893012-d/",
+    "Mass": "10.18 Earths",
+    "Name": "epic-249893012-d",
+    "Orbital Period": "35.7 days",
+    "Orbital Radius": "0.22 AU",
+    "Planet Radius": "0.352 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "e3bd56b6-6d9a-496c-aacb-878461720f37",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-249893012-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-249893012-d/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-249893012-d",
+            "Path": "exoplanet_details/epic-249893012-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_249893012_d"
+    }
+}

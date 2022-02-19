@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-74 A b is a gas giant exoplanet that orbits an M-type star. Its mass is 1.46 Jupiters, it takes 1.7 days to complete one orbit of its star, and is 0.02384 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "< 0.044",
+    "Id": "hats-74-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8354/hats-74-a-b/",
+    "Mass": "1.46 Jupiters",
+    "Name": "hats-74-a-b",
+    "Orbital Period": "1.7 days",
+    "Orbital Radius": "0.02384 AU",
+    "Planet Radius": "1.032 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6163075a-0e69-4df3-8900-e077033e9701",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-74-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-74-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-74-a-b",
+            "Path": "exoplanet_details/hats-74-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-74_A_b"
+    }
+}

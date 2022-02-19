@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 1151 b is a super Earth exoplanet that orbits an M-type star. Its mass is 2.5 Earths, it takes 2 days to complete one orbit of its star, and is 0.01735 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "Id": "gj-1151-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7844/gj-1151-b/",
+    "Mass": "2.5 Earths",
+    "Name": "gj-1151-b",
+    "Orbital Period": "2 days",
+    "Orbital Radius": "0.01735 AU",
+    "Planet Radius": "1.39 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "66a0f2b0-d696-4e4f-8a14-d4a6f24a9dae",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-1151-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-1151-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-1151-b",
+            "Path": "exoplanet_details/gj-1151-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_1151_b"
+    }
+}

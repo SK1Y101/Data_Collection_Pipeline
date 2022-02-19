@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 3293 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 23.54 Earths, it takes 30.6 days to complete one orbit of its star, and is 0.14339 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.06",
+    "Id": "gj-3293-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6559/gj-3293-b/",
+    "Mass": "23.54 Earths",
+    "Name": "gj-3293-b",
+    "Orbital Period": "30.6 days",
+    "Orbital Radius": "0.14339 AU",
+    "Planet Radius": "0.463 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "caf0a589-f9c9-4a51-aeff-4875b6b58c46",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-3293-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-3293-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-3293-b",
+            "Path": "exoplanet_details/gj-3293-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_3293_b"
+    }
+}

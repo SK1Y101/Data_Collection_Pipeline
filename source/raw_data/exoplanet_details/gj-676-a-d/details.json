@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 676 A d is a super Earth exoplanet that orbits a K-type star. Its mass is 4.4 Earths, it takes 3.6 days to complete one orbit of its star, and is 0.0413 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.26",
+    "Id": "gj-676-a-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6547/gj-676-a-d/",
+    "Mass": "4.4 Earths",
+    "Name": "gj-676-a-d",
+    "Orbital Period": "3.6 days",
+    "Orbital Radius": "0.0413 AU",
+    "Planet Radius": "1.93 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "499eb4df-f05a-449e-a8a6-d1753a8ae149",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-676-a-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-676-a-d/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-676-a-d",
+            "Path": "exoplanet_details/gj-676-a-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_676_A_d"
+    }
+}

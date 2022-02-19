@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 251 b is a super Earth exoplanet that orbits an M-type star. Its mass is 4 Earths, it takes 14.2 days to complete one orbit of its star, and is 0.0818 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.1",
+    "Id": "gj-251-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7830/gj-251-b/",
+    "Mass": "4 Earths",
+    "Name": "gj-251-b",
+    "Orbital Period": "14.2 days",
+    "Orbital Radius": "0.0818 AU",
+    "Planet Radius": "1.83 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "f7bd3969-b7e9-4d09-a098-e7394e4da24b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-251-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-251-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-251-b",
+            "Path": "exoplanet_details/gj-251-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_251_b"
+    }
+}

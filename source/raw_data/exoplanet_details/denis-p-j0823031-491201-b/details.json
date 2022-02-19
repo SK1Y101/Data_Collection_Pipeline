@@ -1,0 +1,30 @@
+{
+    "Description": "DENIS-P J082303.1-491201 b is a gas giant exoplanet that orbits an unknown-type star. Its mass is 28.5 Jupiters, it takes 246.4 days to complete one orbit of its star, and is 0.36 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Astrometry",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.35",
+    "Id": "denis-p-j0823031-491201-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6569/denis-p-j0823031-491201-b/",
+    "Mass": "28.5 Jupiters",
+    "Name": "denis-p-j0823031-491201-b",
+    "Orbital Period": "246.4 days",
+    "Orbital Radius": "0.36 AU",
+    "Planet Radius": "1.06 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "bb72dce9-1eb8-4b29-931a-4b109249d7f5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/denis-p-j0823031-491201-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/denis-p-j0823031-491201-b/images/1.png"
+        },
+        "2": {
+            "Description": "Denis-p-j0823031-491201-b",
+            "Path": "exoplanet_details/denis-p-j0823031-491201-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/DENIS-P_J082303.1-491201_b"
+    }
+}

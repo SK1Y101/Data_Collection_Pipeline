@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-51 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.768 Jupiters, it takes 3.3 days to complete one orbit of its star, and is 0.04639 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "< 0.33",
+    "Id": "hats-51-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6139/hats-51-b/",
+    "Mass": "0.768 Jupiters",
+    "Name": "hats-51-b",
+    "Orbital Period": "3.3 days",
+    "Orbital Radius": "0.04639 AU",
+    "Planet Radius": "1.41 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "75a954bf-a6dc-44e6-94b3-1a11e3f9ea31",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-51-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-51-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-51-b",
+            "Path": "exoplanet_details/hats-51-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-51_b"
+    }
+}

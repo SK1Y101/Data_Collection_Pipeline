@@ -1,0 +1,30 @@
+{
+    "Description": "CoRoT-30 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.9 Jupiters, it takes 9.1 days to complete one orbit of its star, and is 0.0844 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.01",
+    "Id": "corot-30-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7609/corot-30-b/",
+    "Mass": "2.9 Jupiters",
+    "Name": "corot-30-b",
+    "Orbital Period": "9.1 days",
+    "Orbital Radius": "0.0844 AU",
+    "Planet Radius": "1.009 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "993e654a-10a9-415a-8154-09c7903a2b43",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/corot-30-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/corot-30-b/images/1.png"
+        },
+        "2": {
+            "Description": "Corot-30-b",
+            "Path": "exoplanet_details/corot-30-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/CoRoT-30_b"
+    }
+}

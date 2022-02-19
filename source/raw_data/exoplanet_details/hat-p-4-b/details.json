@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-4 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.671 Jupiters, it takes 3.1 days to complete one orbit of its star, and is 0.04438 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.0",
+    "Id": "hat-p-4-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/258/hat-p-4-b/",
+    "Mass": "0.671 Jupiters",
+    "Name": "hat-p-4-b",
+    "Orbital Period": "3.1 days",
+    "Orbital Radius": "0.04438 AU",
+    "Planet Radius": "1.274 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "fad83127-8a3e-4034-ab8d-9eec26bc716d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-4-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-4-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-4-b",
+            "Path": "exoplanet_details/hat-p-4-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-4_b"
+    }
+}

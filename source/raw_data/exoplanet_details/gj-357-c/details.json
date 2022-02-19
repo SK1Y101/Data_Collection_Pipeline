@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 357 c is a super Earth exoplanet that orbits an M-type star. Its mass is 3.4 Earths, it takes 9.1 days to complete one orbit of its star, and is 0.061 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "gj-357-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7447/gj-357-c/",
+    "Mass": "3.4 Earths",
+    "Name": "gj-357-c",
+    "Orbital Period": "9.1 days",
+    "Orbital Radius": "0.061 AU",
+    "Planet Radius": "1.66 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "aceabd5f-98e4-4b2b-b2f1-ebcc384bd7bf",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-357-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-357-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-357-c",
+            "Path": "exoplanet_details/gj-357-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_357_c"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 106906 b is a gas giant exoplanet that orbits an F-type star. Its mass is 11 Jupiters, it takes 13538.6 years to complete one orbit of its star, and is 650 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.0",
+    "Id": "hd-106906-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6731/hd-106906-b/",
+    "Mass": "11 Jupiters",
+    "Name": "hd-106906-b",
+    "Orbital Period": "13538.6 years",
+    "Orbital Radius": "650.0 AU",
+    "Planet Radius": "1.11 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "e2d94d53-0949-4b36-bce6-91e891e08701",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-106906-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-106906-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-106906-b",
+            "Path": "exoplanet_details/hd-106906-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_106906_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "Gamma Cephei b is a gas giant exoplanet that orbits a K-type star. Its mass is 9.4 Jupiters, it takes 2.5 years to complete one orbit of its star, and is 2.05 AU from its star. Its discovery was announced in 2003.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2003",
+    "Eccentricity": "0.05",
+    "Id": "gamma-cephei-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7046/gamma-cephei-b/",
+    "Mass": "9.4 Jupiters",
+    "Name": "gamma-cephei-b",
+    "Orbital Period": "2.5 years",
+    "Orbital Radius": "2.05 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b25558b8-b267-41e5-a091-8f0a4e85e434",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gamma-cephei-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gamma-cephei-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gamma-cephei-b",
+            "Path": "exoplanet_details/gamma-cephei-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/gam_Cep_b"
+    }
+}

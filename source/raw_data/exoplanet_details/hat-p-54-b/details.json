@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-54 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.76 Jupiters, it takes 3.8 days to complete one orbit of its star, and is 0.04117 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "< 0.074",
+    "Id": "hat-p-54-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1264/hat-p-54-b/",
+    "Mass": "0.76 Jupiters",
+    "Name": "hat-p-54-b",
+    "Orbital Period": "3.8 days",
+    "Orbital Radius": "0.04117 AU",
+    "Planet Radius": "0.944 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f709567e-d6e5-4783-836a-f863378f9580",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-54-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-54-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-54-b",
+            "Path": "exoplanet_details/hat-p-54-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-54_b"
+    }
+}

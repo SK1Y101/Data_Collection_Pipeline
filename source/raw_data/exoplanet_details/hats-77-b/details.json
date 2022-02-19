@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-77 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.374 Jupiters, it takes 3.1 days to complete one orbit of its star, and is 0.03607 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "< 0.045",
+    "Id": "hats-77-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8357/hats-77-b/",
+    "Mass": "1.374 Jupiters",
+    "Name": "hats-77-b",
+    "Orbital Period": "3.1 days",
+    "Orbital Radius": "0.03607 AU",
+    "Planet Radius": "1.165 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "79448740-d507-4b7b-acfc-395dc6e2f4cb",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-77-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-77-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-77-b",
+            "Path": "exoplanet_details/hats-77-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-77_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 9827 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.91 Earths, it takes 1.2 days to complete one orbit of its star, and is 0.0188 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.0",
+    "Id": "gj-9827-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7190/gj-9827-b/",
+    "Mass": "4.91 Earths",
+    "Name": "gj-9827-b",
+    "Orbital Period": "1.2 days",
+    "Orbital Radius": "0.0188 AU",
+    "Planet Radius": "1.577 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "f27ccadc-a9dc-482c-8c01-4067a8bbadb5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-9827-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-9827-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-9827-b",
+            "Path": "exoplanet_details/gj-9827-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_9827_b"
+    }
+}

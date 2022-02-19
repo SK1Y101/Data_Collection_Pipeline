@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 682 b is a super Earth exoplanet that orbits an M-type star. Its mass is 4.4 Earths, it takes 17.5 days to complete one orbit of its star, and is 0.08 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.08",
+    "Id": "gj-682-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7495/gj-682-b/",
+    "Mass": "4.4 Earths",
+    "Name": "gj-682-b",
+    "Orbital Period": "17.5 days",
+    "Orbital Radius": "0.08 AU",
+    "Planet Radius": "1.93 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "7530b2fb-777e-45e2-b20e-cfffbc058ecc",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-682-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-682-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-682-b",
+            "Path": "exoplanet_details/gj-682-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_682_b"
+    }
+}
