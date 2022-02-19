@@ -1,0 +1,30 @@
+{
+    "Description": "K2-125 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 5.39 Earths, it takes 21.8 days to complete one orbit of its star, and is 0.121 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.08",
+    "Id": "k2-125-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6031/k2-125-b/",
+    "Mass": "5.39 Earths",
+    "Name": "k2-125-b",
+    "Orbital Period": "21.8 days",
+    "Orbital Radius": "0.121 AU",
+    "Planet Radius": "2.18 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "612ca596-c7eb-49c9-a168-c659114e6f7d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-125-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-125-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-125-b",
+            "Path": "exoplanet_details/k2-125-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-125_b"
+    }
+}

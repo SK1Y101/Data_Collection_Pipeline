@@ -11,5 +11,20 @@
     "Orbital Radius": "1.29 AU",
     "Planet Radius": "1.18 x Jupiter (estimate)",
     "Planet Type": "Gas Giant",
-    "Uuid": "27332710-e57b-48ba-90b9-699e15e65280"
+    "Uuid": "27332710-e57b-48ba-90b9-699e15e65280",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-154857-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-154857-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-154857-b",
+            "Path": "exoplanet_details/hd-154857-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_154857_b"
+    }
 }

@@ -1,0 +1,30 @@
+{
+    "Description": "HR 8799 e is a gas giant exoplanet that orbits an F-type star. Its mass is 10 Jupiters, it takes 57 years to complete one orbit of its star, and is 16.4 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.15",
+    "Id": "hr-8799-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6917/hr-8799-e/",
+    "Mass": "10 Jupiters",
+    "Name": "hr-8799-e",
+    "Orbital Period": "57 years",
+    "Orbital Radius": "16.4 AU",
+    "Planet Radius": "1.17 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "5eeb760e-95ae-47e3-be30-f808eb55d17e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hr-8799-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hr-8799-e/images/1.png"
+        },
+        "2": {
+            "Description": "Hr-8799-e",
+            "Path": "exoplanet_details/hr-8799-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HR_8799_e"
+    }
+}

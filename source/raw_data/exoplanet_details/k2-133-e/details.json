@@ -1,0 +1,30 @@
+{
+    "Description": "K2-133 e is a super Earth exoplanet that orbits an M-type star. Its mass is 3.64 Earths, it takes 26.6 days to complete one orbit of its star, and is 0.1346 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "k2-133-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7388/k2-133-e/",
+    "Mass": "3.64 Earths",
+    "Name": "k2-133-e",
+    "Orbital Period": "26.6 days",
+    "Orbital Radius": "0.1346 AU",
+    "Planet Radius": "1.73 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "f9a6032f-f2c1-40d4-a5b0-22140890bae4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-133-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-133-e/images/1.png"
+        },
+        "2": {
+            "Description": "K2-133-e",
+            "Path": "exoplanet_details/k2-133-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-133_e"
+    }
+}

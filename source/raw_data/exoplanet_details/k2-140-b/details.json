@@ -1,0 +1,30 @@
+{
+    "Description": "K2-140 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.93 Jupiters, it takes 6.6 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.0",
+    "Id": "k2-140-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6142/k2-140-b/",
+    "Mass": "0.93 Jupiters",
+    "Name": "k2-140-b",
+    "Orbital Period": "6.6 days",
+    "Orbital Radius": "0.068 AU",
+    "Planet Radius": "1.21 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "2c764ed7-e968-4f7e-866a-5edada127759",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-140-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-140-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-140-b",
+            "Path": "exoplanet_details/k2-140-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-140_b"
+    }
+}

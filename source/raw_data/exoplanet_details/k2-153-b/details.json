@@ -1,0 +1,30 @@
+{
+    "Description": "K2-153 b is a super Earth exoplanet that orbits an M-type star. Its mass is 4.66 Earths, it takes 7.5 days to complete one orbit of its star, and is 0.0614 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-153-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6165/k2-153-b/",
+    "Mass": "4.66 Earths",
+    "Name": "k2-153-b",
+    "Orbital Period": "7.5 days",
+    "Orbital Radius": "0.0614 AU",
+    "Planet Radius": "2.0 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "27ef0694-5b61-44cd-bbe7-997e2d098ca2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-153-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-153-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-153-b",
+            "Path": "exoplanet_details/k2-153-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-153_b"
+    }
+}

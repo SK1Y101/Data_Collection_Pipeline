@@ -1,0 +1,30 @@
+{
+    "Description": "HW Virginis b is a gas giant exoplanet that orbits an A-type star. Its mass is 14.48228 Jupiters, it takes 12.7 years to complete one orbit of its star, and is 4.69 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Eclipse Timing Variations",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.4",
+    "Id": "hw-virginis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7507/hw-virginis-b/",
+    "Mass": "14.48228 Jupiters",
+    "Name": "hw-virginis-b",
+    "Orbital Period": "12.7 years",
+    "Orbital Radius": "4.69 AU",
+    "Planet Radius": "1.09 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "55ed605e-efc5-4c53-9207-e640ce14eef4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hw-virginis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hw-virginis-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hw-virginis-b",
+            "Path": "exoplanet_details/hw-virginis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HW_Vir_b"
+    }
+}
