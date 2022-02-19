@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1303 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.6 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.0751 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1303-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4438/kepler-1303-b/",
+    "Mass": "2.6 Earths",
+    "Name": "kepler-1303-b",
+    "Orbital Period": "7.6 days",
+    "Orbital Radius": "0.0751 AU",
+    "Planet Radius": "1.42 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "d1e296ad-bcd8-4c02-b608-f230b705998c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1303-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1303-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1303-b",
+            "Path": "exoplanet_details/kepler-1303-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1303_b"
+    }
+}

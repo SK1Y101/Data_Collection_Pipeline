@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-136 b is a super Earth exoplanet that orbits an F-type star. Its mass is 19.8 Earths, it takes 11.6 days to complete one orbit of its star, and is 0.106 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "Id": "kepler-136-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1553/kepler-136-b/",
+    "Mass": "19.8 Earths",
+    "Name": "kepler-136-b",
+    "Orbital Period": "11.6 days",
+    "Orbital Radius": "0.106 AU",
+    "Planet Radius": "2.05 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "3503d25b-025d-43a2-b73b-3a65dc243108",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-136-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-136-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-136-b",
+            "Path": "exoplanet_details/kepler-136-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-136_b"
+    }
+}

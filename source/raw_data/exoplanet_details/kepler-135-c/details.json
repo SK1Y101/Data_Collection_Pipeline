@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-135 c is a super Earth exoplanet that orbits an F-type star. Its mass is 1.65 Earths, it takes 11.4 days to complete one orbit of its star, and is 0.103 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "Id": "kepler-135-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1552/kepler-135-c/",
+    "Mass": "1.65 Earths",
+    "Name": "kepler-135-c",
+    "Orbital Period": "11.4 days",
+    "Orbital Radius": "0.103 AU",
+    "Planet Radius": "1.16 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "2c0be6fd-ce01-4eb1-9634-8ba18906dd82",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-135-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-135-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-135-c",
+            "Path": "exoplanet_details/kepler-135-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-135_c"
+    }
+}

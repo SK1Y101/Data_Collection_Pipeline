@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1387 b is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.749 Earths, it takes 2.3 days to complete one orbit of its star, and is 0.031 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1387-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2802/kepler-1387-b/",
+    "Mass": "0.749 Earths",
+    "Name": "kepler-1387-b",
+    "Orbital Period": "2.3 days",
+    "Orbital Radius": "0.031 AU",
+    "Planet Radius": "0.93 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "3c223ea5-7777-490e-b4d9-9e3400c73a46",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1387-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1387-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1387-b",
+            "Path": "exoplanet_details/kepler-1387-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1387_b"
+    }
+}

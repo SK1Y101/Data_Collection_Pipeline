@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1359 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.4 Earths, it takes 59.5 days to complete one orbit of its star, and is 0.2769 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1359-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2739/kepler-1359-b/",
+    "Mass": "8.4 Earths",
+    "Name": "kepler-1359-b",
+    "Orbital Period": "59.5 days",
+    "Orbital Radius": "0.2769 AU",
+    "Planet Radius": "0.252 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "684257cf-6514-4eb1-8171-43ab8ae2400c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1359-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1359-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1359-b",
+            "Path": "exoplanet_details/kepler-1359-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1359_b"
+    }
+}

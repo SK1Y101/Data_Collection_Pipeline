@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1374 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.86 Earths, it takes 10.7 days to complete one orbit of its star, and is 0.0918 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1374-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2789/kepler-1374-b/",
+    "Mass": "5.86 Earths",
+    "Name": "kepler-1374-b",
+    "Orbital Period": "10.7 days",
+    "Orbital Radius": "0.0918 AU",
+    "Planet Radius": "0.204 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d1454a9c-7240-4d10-9b08-970854ef1958",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1374-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1374-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1374-b",
+            "Path": "exoplanet_details/kepler-1374-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1374_b"
+    }
+}

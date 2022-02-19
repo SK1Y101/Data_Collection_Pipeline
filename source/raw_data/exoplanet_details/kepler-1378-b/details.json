@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1378 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.48 Earths, it takes 12 days to complete one orbit of its star, and is 0.0885 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1378-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2793/kepler-1378-b/",
+    "Mass": "5.48 Earths",
+    "Name": "kepler-1378-b",
+    "Orbital Period": "12 days",
+    "Orbital Radius": "0.0885 AU",
+    "Planet Radius": "2.2 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d71a021f-7e3a-4e34-9434-f1713dfa55a2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1378-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1378-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1378-b",
+            "Path": "exoplanet_details/kepler-1378-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1378_b"
+    }
+}

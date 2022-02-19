@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1329 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.35 Earths, it takes 9.3 days to complete one orbit of its star, and is 0.0747 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1329-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4464/kepler-1329-b/",
+    "Mass": "5.35 Earths",
+    "Name": "kepler-1329-b",
+    "Orbital Period": "9.3 days",
+    "Orbital Radius": "0.0747 AU",
+    "Planet Radius": "2.17 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "b67106aa-a1f2-498a-ab6d-1c0b54d272d8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1329-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1329-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1329-b",
+            "Path": "exoplanet_details/kepler-1329-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1329_b"
+    }
+}
