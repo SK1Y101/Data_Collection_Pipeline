@@ -6,19 +6,19 @@ Exoplanet details
 
 # File structure
 `Repo/`<br>
-├─ `source/`<br>
-│  ├─ `raw_data/`<br>
-│  │  ├─ `exoplanet_details/`<br>
-│  │  │  └─ `A folder for each exoplanet, with the following format`<br>
-│  │  │     ├─ `images/`<br>
-│  │  │     │  └─ `Images aranged in numerical order`<br>
-│  │  │     └─ `details.json`<br>
-│  │  └─ `exoplanet_links.json`<br>
-│  ├─ `Scraper/`<br>
-│  │  └─ `__init__.py`<br>
-│  └─ `scrape_for_exoplanets.py`<br>
-├─ `.gitignore`<br>
-└─ `README.md`<br>
+├ `source/`<br>
+│  ├ `raw_data/`<br>
+│  │  ├ `exoplanet_details/`<br>
+│  │  │  └ `A folder for each exoplanet, with the following format`<br>
+│  │  │     ├ `images/`<br>
+│  │  │     │  └ `Images aranged in numerical order`<br>
+│  │  │     └ `details.json`<br>
+│  │  └ `exoplanet_links.json`<br>
+│  ├ `Scraper/`<br>
+│  │  └ `__init__.py`<br>
+│  └ `scrape_for_exoplanets.py`<br>
+├ `.gitignore`<br>
+└ `README.md`<br>
 
 # Usage
 Contained within `source/Scraper` is the scraper class, which can be imported and used with:
