@@ -1,0 +1,30 @@
+{
+    "Description": "HD 218566 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.2 Jupiters, it takes 225.7 days to complete one orbit of its star, and is 0.69 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.3",
+    "Id": "hd-218566-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6836/hd-218566-b/",
+    "Mass": "0.2 Jupiters",
+    "Name": "hd-218566-b",
+    "Orbital Period": "225.7 days",
+    "Orbital Radius": "0.69 AU",
+    "Planet Radius": "0.832 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "adfff690-d579-412d-966d-36d6f67b0dcc",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-218566-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-218566-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-218566-b",
+            "Path": "exoplanet_details/hd-218566-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_218566_b"
+    }
+}

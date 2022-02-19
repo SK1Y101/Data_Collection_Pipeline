@@ -1,0 +1,30 @@
+{
+    "Description": "HD 219134 g is a Neptune-like exoplanet that orbits a K-type star. Its mass is 10.80622 Earths, it takes 94.2 days to complete one orbit of its star, and is 0.3753 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.0",
+    "Id": "hd-219134-g",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7088/hd-219134-g/",
+    "Mass": "10.80622 Earths",
+    "Name": "hd-219134-g",
+    "Orbital Period": "94.2 days",
+    "Orbital Radius": "0.3753 AU",
+    "Planet Radius": "0.293 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "c66f72a7-885a-4e36-8208-9d05b31dc56c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-219134-g/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-219134-g/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-219134-g",
+            "Path": "exoplanet_details/hd-219134-g/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_219134_g"
+    }
+}

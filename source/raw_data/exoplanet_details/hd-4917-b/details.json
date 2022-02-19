@@ -1,0 +1,30 @@
+{
+    "Description": "HD 4917 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.615 Jupiters, it takes 400.5 days to complete one orbit of its star, and is 1.167 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.07",
+    "Id": "hd-4917-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7359/hd-4917-b/",
+    "Mass": "1.615 Jupiters",
+    "Name": "hd-4917-b",
+    "Orbital Period": "400.5 days",
+    "Orbital Radius": "1.167 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "0d879cd4-9185-4d8b-81c5-774751289012",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-4917-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-4917-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-4917-b",
+            "Path": "exoplanet_details/hd-4917-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_4917_b"
+    }
+}

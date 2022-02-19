@@ -1,0 +1,30 @@
+{
+    "Description": "HD 72659 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.85 Jupiters, it takes 10 years to complete one orbit of its star, and is 4.75 AU from its star. Its discovery was announced in 2002.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2002",
+    "Eccentricity": "0.22",
+    "Id": "hd-72659-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6669/hd-72659-b/",
+    "Mass": "3.85 Jupiters",
+    "Name": "hd-72659-b",
+    "Orbital Period": "10 years",
+    "Orbital Radius": "4.75 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b9be70c6-e76d-44bf-96b5-59ba39ae4828",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-72659-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-72659-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-72659-b",
+            "Path": "exoplanet_details/hd-72659-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_72659_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.0",
+    "Id": "hd-189733-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6876/hd-189733-b/",
+    "Mass": "1.13 Jupiters",
+    "Name": "hd-189733-b",
+    "Orbital Period": "2.2 days",
+    "Orbital Radius": "0.03126 AU",
+    "Planet Radius": "1.13 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d3ac3bcc-e0e4-4feb-a37f-fc0f2e06b521",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-189733-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-189733-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-189733-b",
+            "Path": "exoplanet_details/hd-189733-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_189733_b"
+    }
+}

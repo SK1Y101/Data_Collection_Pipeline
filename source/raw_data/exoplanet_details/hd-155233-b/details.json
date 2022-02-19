@@ -1,0 +1,30 @@
+{
+    "Description": "HD 155233 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.6 Jupiters, it takes 2.2 years to complete one orbit of its star, and is 2 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.04",
+    "Id": "hd-155233-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7101/hd-155233-b/",
+    "Mass": "2.6 Jupiters",
+    "Name": "hd-155233-b",
+    "Orbital Period": "2.2 years",
+    "Orbital Radius": "2.0 AU",
+    "Planet Radius": "1.18 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "e5fb3ebc-f218-4b5d-8153-b0ab51686bd6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-155233-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-155233-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-155233-b",
+            "Path": "exoplanet_details/hd-155233-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_155233_b"
+    }
+}

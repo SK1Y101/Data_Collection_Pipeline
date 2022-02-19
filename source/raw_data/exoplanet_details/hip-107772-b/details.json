@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 107772 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 12.9 Earths, it takes 55.2 days to complete one orbit of its star, and is 0.243 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.18",
+    "Id": "hip-107772-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7677/hip-107772-b/",
+    "Mass": "12.9 Earths",
+    "Name": "hip-107772-b",
+    "Orbital Period": "55.2 days",
+    "Orbital Radius": "0.243 AU",
+    "Planet Radius": "0.325 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "bee1b951-a7fe-4c94-9bd1-bee327721813",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-107772-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-107772-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-107772-b",
+            "Path": "exoplanet_details/hip-107772-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_107772_b"
+    }
+}

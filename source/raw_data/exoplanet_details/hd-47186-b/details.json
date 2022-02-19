@@ -1,0 +1,30 @@
+{
+    "Description": "HD 47186 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 22.2481 Earths, it takes 4.1 days to complete one orbit of its star, and is 0.05 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.04",
+    "Id": "hd-47186-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6644/hd-47186-b/",
+    "Mass": "22.2481 Earths",
+    "Name": "hd-47186-b",
+    "Orbital Period": "4.1 days",
+    "Orbital Radius": "0.05 AU",
+    "Planet Radius": "0.448 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "aaa7c57f-a3c0-4ad6-89f5-333c53b40bfc",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-47186-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-47186-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-47186-b",
+            "Path": "exoplanet_details/hd-47186-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_47186_b"
+    }
+}

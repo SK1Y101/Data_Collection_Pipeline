@@ -1,0 +1,30 @@
+{
+    "Description": "HD 330075 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.48 Jupiters, it takes 3.4 days to complete one orbit of its star, and is 0.04 AU from its star. Its discovery was announced in 2004.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2004",
+    "Eccentricity": "0.0",
+    "Id": "hd-330075-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6854/hd-330075-b/",
+    "Mass": "0.48 Jupiters",
+    "Name": "hd-330075-b",
+    "Orbital Period": "3.4 days",
+    "Orbital Radius": "0.04 AU",
+    "Planet Radius": "1.27 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b9fb8e07-d65b-4874-840e-6f3ebcdec26e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-330075-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-330075-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-330075-b",
+            "Path": "exoplanet_details/hd-330075-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_330075_b"
+    }
+}

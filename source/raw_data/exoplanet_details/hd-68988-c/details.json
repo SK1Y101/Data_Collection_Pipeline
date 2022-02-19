@@ -1,0 +1,30 @@
+{
+    "Description": "HD 68988 c is a gas giant exoplanet that orbits a G-type star. Its mass is 15 Jupiters, it takes 43.8 years to complete one orbit of its star, and is 13.2 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.45",
+    "Id": "hd-68988-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7889/hd-68988-c/",
+    "Mass": "15 Jupiters",
+    "Name": "hd-68988-c",
+    "Orbital Period": "43.8 years",
+    "Orbital Radius": "13.2 AU",
+    "Planet Radius": "1.09 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "78b4adbe-f888-496c-b234-2d699ef137d9",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-68988-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-68988-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-68988-c",
+            "Path": "exoplanet_details/hd-68988-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_68988_c"
+    }
+}

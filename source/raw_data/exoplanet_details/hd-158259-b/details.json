@@ -1,0 +1,30 @@
+{
+    "Description": "HD 158259 b is a super Earth exoplanet that orbits a G-type star. Its mass is 2.22 Earths and it takes 2.2 days to complete one orbit of its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "Id": "hd-158259-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7611/hd-158259-b/",
+    "Mass": "2.22 Earths",
+    "Name": "hd-158259-b",
+    "Orbital Period": "2.2 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.214 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "f4cb9e55-867c-4f2b-8775-eece305b78c0",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-158259-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-158259-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-158259-b",
+            "Path": "exoplanet_details/hd-158259-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_158259_b"
+    }
+}

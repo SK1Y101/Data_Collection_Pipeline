@@ -1,0 +1,30 @@
+{
+    "Description": "HD 148427 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.3 Jupiters, it takes 331.5 days to complete one orbit of its star, and is 1.04 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.16",
+    "Id": "hd-148427-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6938/hd-148427-b/",
+    "Mass": "1.3 Jupiters",
+    "Name": "hd-148427-b",
+    "Orbital Period": "331.5 days",
+    "Orbital Radius": "1.04 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a0b3037b-cdc8-4dcd-9e90-f35dae733158",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-148427-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-148427-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-148427-b",
+            "Path": "exoplanet_details/hd-148427-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_148427_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 73526 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.08 Jupiters, it takes 188.3 days to complete one orbit of its star, and is 0.65 AU from its star. Its discovery was announced in 2002.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2002",
+    "Eccentricity": "0.19",
+    "Id": "hd-73526-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6671/hd-73526-b/",
+    "Mass": "3.08 Jupiters",
+    "Name": "hd-73526-b",
+    "Orbital Period": "188.3 days",
+    "Orbital Radius": "0.65 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "be6f2a50-7fd3-4e31-abce-c3b604ea7f87",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-73526-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-73526-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-73526-b",
+            "Path": "exoplanet_details/hd-73526-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_73526_b"
+    }
+}

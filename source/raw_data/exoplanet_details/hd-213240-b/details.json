@@ -1,0 +1,30 @@
+{
+    "Description": "HD 213240 b is a gas giant exoplanet that orbits a G-type star. Its mass is 5.58 Jupiters, it takes 2.4 years to complete one orbit of its star, and is 1.89 AU from its star. Its discovery was announced in 2001.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2001",
+    "Eccentricity": "0.42",
+    "Id": "hd-213240-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6826/hd-213240-b/",
+    "Mass": "5.58 Jupiters",
+    "Name": "hd-213240-b",
+    "Orbital Period": "2.4 years",
+    "Orbital Radius": "1.89 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "9fe4d1dc-6716-4654-a5ac-370fc446e10f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-213240-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-213240-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-213240-b",
+            "Path": "exoplanet_details/hd-213240-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_213240_b"
+    }
+}

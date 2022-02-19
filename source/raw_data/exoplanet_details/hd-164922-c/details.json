@@ -1,0 +1,30 @@
+{
+    "Description": "HD 164922 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13 Earths, it takes 75.7 days to complete one orbit of its star, and is 0.341 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.12",
+    "Id": "hd-164922-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7245/hd-164922-c/",
+    "Mass": "13 Earths",
+    "Name": "hd-164922-c",
+    "Orbital Period": "75.7 days",
+    "Orbital Radius": "0.341 AU",
+    "Planet Radius": "0.327 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "6ef3c92d-d378-4c5d-873d-b87b19695f21",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-164922-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-164922-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-164922-c",
+            "Path": "exoplanet_details/hd-164922-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_164922_c"
+    }
+}

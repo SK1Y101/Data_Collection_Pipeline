@@ -1,0 +1,30 @@
+{
+    "Description": "HD 63454 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.25 Jupiters, it takes 2.8 days to complete one orbit of its star, and is 0.04 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.0",
+    "Id": "hd-63454-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6655/hd-63454-b/",
+    "Mass": "0.25 Jupiters",
+    "Name": "hd-63454-b",
+    "Orbital Period": "2.8 days",
+    "Orbital Radius": "0.04 AU",
+    "Planet Radius": "1.098 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "5a4d9205-0730-486f-af08-9adac15bcf31",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-63454-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-63454-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-63454-b",
+            "Path": "exoplanet_details/hd-63454-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_63454_b"
+    }
+}

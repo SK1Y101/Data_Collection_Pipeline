@@ -1,0 +1,30 @@
+{
+    "Description": "HD 27894 d is a gas giant exoplanet that orbits a K-type star. Its mass is 5.415 Jupiters, it takes 14.2 years to complete one orbit of its star, and is 5.448 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.39",
+    "Id": "hd-27894-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7218/hd-27894-d/",
+    "Mass": "5.415 Jupiters",
+    "Name": "hd-27894-d",
+    "Orbital Period": "14.2 years",
+    "Orbital Radius": "5.448 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "dc4c36ad-c76b-45fb-9eb4-6e2f3f3cda5f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-27894-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-27894-d/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-27894-d",
+            "Path": "exoplanet_details/hd-27894-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_27894_d"
+    }
+}

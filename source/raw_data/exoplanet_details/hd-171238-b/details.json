@@ -1,0 +1,30 @@
+{
+    "Description": "HD 171238 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.72 Jupiters, it takes 4.2 years to complete one orbit of its star, and is 2.57 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.23",
+    "Id": "hd-171238-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6979/hd-171238-b/",
+    "Mass": "2.72 Jupiters",
+    "Name": "hd-171238-b",
+    "Orbital Period": "4.2 years",
+    "Orbital Radius": "2.57 AU",
+    "Planet Radius": "1.18 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "32bf3207-4043-4f31-8862-842f09495a64",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-171238-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-171238-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-171238-b",
+            "Path": "exoplanet_details/hd-171238-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_171238_b"
+    }
+}

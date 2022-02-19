@@ -1,0 +1,30 @@
+{
+    "Description": "HD 125612 d is a gas giant exoplanet that orbits a G-type star. Its mass is 7.28 Jupiters, it takes 7.8 years to complete one orbit of its star, and is 4.06 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.12",
+    "Id": "hd-125612-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6760/hd-125612-d/",
+    "Mass": "7.28 Jupiters",
+    "Name": "hd-125612-d",
+    "Orbital Period": "7.8 years",
+    "Orbital Radius": "4.06 AU",
+    "Planet Radius": "1.13 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "62cfb46c-54a3-47e4-8320-ac7282b36ec8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-125612-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-125612-d/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-125612-d",
+            "Path": "exoplanet_details/hd-125612-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_125612_d"
+    }
+}

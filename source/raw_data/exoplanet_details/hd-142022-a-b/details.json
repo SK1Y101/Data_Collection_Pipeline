@@ -1,0 +1,30 @@
+{
+    "Description": "HD 142022 A b is a gas giant exoplanet that orbits a G-type star. Its mass is 4.44 Jupiters, it takes 5.3 years to complete one orbit of its star, and is 2.93 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.53",
+    "Id": "hd-142022-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6931/hd-142022-a-b/",
+    "Mass": "4.44 Jupiters",
+    "Name": "hd-142022-a-b",
+    "Orbital Period": "5.3 years",
+    "Orbital Radius": "2.93 AU",
+    "Planet Radius": "1.15 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "fd9e8135-a4a5-49d6-8849-27ffe8d3a5d1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-142022-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-142022-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-142022-a-b",
+            "Path": "exoplanet_details/hd-142022-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_142022_A_b"
+    }
+}

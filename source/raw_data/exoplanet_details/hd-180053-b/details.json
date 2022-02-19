@@ -1,0 +1,30 @@
+{
+    "Description": "HD 180053 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.194 Jupiters, it takes 213.7 days to complete one orbit of its star, and is 0.843 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.08",
+    "Id": "hd-180053-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7358/hd-180053-b/",
+    "Mass": "2.194 Jupiters",
+    "Name": "hd-180053-b",
+    "Orbital Period": "213.7 days",
+    "Orbital Radius": "0.843 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d4b63685-3295-498c-abd6-b49d88b55a40",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-180053-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-180053-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-180053-b",
+            "Path": "exoplanet_details/hd-180053-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_180053_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 207897 b is a super Earth exoplanet that orbits a K-type star. Its mass is 14.4 Earths, it takes 16.2 days to complete one orbit of its star, and is 0.1163 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.05",
+    "Id": "hd-207897-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8046/hd-207897-b/",
+    "Mass": "14.4 Earths",
+    "Name": "hd-207897-b",
+    "Orbital Period": "16.2 days",
+    "Orbital Radius": "0.1163 AU",
+    "Planet Radius": "0.223 x Jupiter",
+    "Planet Type": "Super Earth",
+    "Uuid": "e0fe34c9-8d76-4e62-bb67-ffeb3be05a17",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-207897-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-207897-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-207897-b",
+            "Path": "exoplanet_details/hd-207897-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_207897_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 16175 b is a gas giant exoplanet that orbits a G-type star. Its mass is 5.1 Jupiters, it takes 2.7 years to complete one orbit of its star, and is 2.12 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.6",
+    "Id": "hd-16175-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6586/hd-16175-b/",
+    "Mass": "5.1 Jupiters",
+    "Name": "hd-16175-b",
+    "Orbital Period": "2.7 years",
+    "Orbital Radius": "2.12 AU",
+    "Planet Radius": "1.15 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "94864a92-3bfc-4e54-824e-bf80ea97e6be",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-16175-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-16175-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-16175-b",
+            "Path": "exoplanet_details/hd-16175-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_16175_b"
+    }
+}

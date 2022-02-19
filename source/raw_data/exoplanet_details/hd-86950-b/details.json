@@ -1,0 +1,30 @@
+{
+    "Description": "HD 86950 b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.6 Jupiters, it takes 3.5 years to complete one orbit of its star, and is 2.72 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.17",
+    "Id": "hd-86950-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7248/hd-86950-b/",
+    "Mass": "3.6 Jupiters",
+    "Name": "hd-86950-b",
+    "Orbital Period": "3.5 years",
+    "Orbital Radius": "2.72 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "0322f0e4-c24a-4d64-9ce9-ec8a0b8d6c88",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-86950-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-86950-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-86950-b",
+            "Path": "exoplanet_details/hd-86950-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_86950_b"
+    }
+}

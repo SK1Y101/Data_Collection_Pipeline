@@ -1,0 +1,30 @@
+{
+    "Description": "HD 22496 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.57 Earths, it takes 5.1 days to complete one orbit of its star, and is 0.051 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "Id": "hd-22496-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7990/hd-22496-b/",
+    "Mass": "5.57 Earths",
+    "Name": "hd-22496-b",
+    "Orbital Period": "5.1 days",
+    "Orbital Radius": "0.051 AU",
+    "Planet Radius": "2.22 x Earth (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "e7a08e2c-c324-45b5-b3a5-5d38544b4dce",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-22496-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-22496-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-22496-b",
+            "Path": "exoplanet_details/hd-22496-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_22496_b"
+    }
+}

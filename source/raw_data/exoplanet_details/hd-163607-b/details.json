@@ -1,0 +1,30 @@
+{
+    "Description": "HD 163607 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.7836 Jupiters, it takes 75.2 days to complete one orbit of its star, and is 0.362 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.74",
+    "Id": "hd-163607-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6965/hd-163607-b/",
+    "Mass": "0.7836 Jupiters",
+    "Name": "hd-163607-b",
+    "Orbital Period": "75.2 days",
+    "Orbital Radius": "0.362 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d77b69b3-9c9f-42de-9862-776e57f37909",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-163607-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-163607-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-163607-b",
+            "Path": "exoplanet_details/hd-163607-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_163607_b"
+    }
+}

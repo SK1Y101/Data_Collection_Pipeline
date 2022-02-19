@@ -1,0 +1,30 @@
+{
+    "Description": "HD 121504 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.51 Jupiters, it takes 63.3 days to complete one orbit of its star, and is 0.33 AU from its star. Its discovery was announced in 2003.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2003",
+    "Eccentricity": "0.03",
+    "Id": "hd-121504-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6757/hd-121504-b/",
+    "Mass": "1.51 Jupiters",
+    "Name": "hd-121504-b",
+    "Orbital Period": "63.3 days",
+    "Orbital Radius": "0.33 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6cb0681a-7205-450d-b554-9764f0fedc62",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-121504-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-121504-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-121504-b",
+            "Path": "exoplanet_details/hd-121504-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_121504_b"
+    }
+}

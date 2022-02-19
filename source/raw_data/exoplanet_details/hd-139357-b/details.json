@@ -1,0 +1,30 @@
+{
+    "Description": "HD 139357 b is a gas giant exoplanet that orbits a K-type star. Its mass is 9.76 Jupiters, it takes 3.1 years to complete one orbit of its star, and is 2.36 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.1",
+    "Id": "hd-139357-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6924/hd-139357-b/",
+    "Mass": "9.76 Jupiters",
+    "Name": "hd-139357-b",
+    "Orbital Period": "3.1 years",
+    "Orbital Radius": "2.36 AU",
+    "Planet Radius": "1.11 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "9d7fc69f-f9a4-4bef-8584-9ae69683ca5b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-139357-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-139357-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-139357-b",
+            "Path": "exoplanet_details/hd-139357-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_139357_b"
+    }
+}

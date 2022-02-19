@@ -1,0 +1,30 @@
+{
+    "Description": "HD 7924 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.86 Earths, it takes 15.3 days to complete one orbit of its star, and is 0.1134 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.1",
+    "Id": "hd-7924-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6799/hd-7924-c/",
+    "Mass": "7.86 Earths",
+    "Name": "hd-7924-c",
+    "Orbital Period": "15.3 days",
+    "Orbital Radius": "0.1134 AU",
+    "Planet Radius": "0.243 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "76f67e1a-fa4a-4614-bffc-b91e9880cfa7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-7924-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-7924-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-7924-c",
+            "Path": "exoplanet_details/hd-7924-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_7924_c"
+    }
+}

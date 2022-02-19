@@ -1,0 +1,30 @@
+{
+    "Description": "HD 114613 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.357 Jupiters, it takes 11 years to complete one orbit of its star, and is 5.34 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.46",
+    "Id": "hd-114613-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6748/hd-114613-b/",
+    "Mass": "0.357 Jupiters",
+    "Name": "hd-114613-b",
+    "Orbital Period": "11 years",
+    "Orbital Radius": "5.34 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6ecaed94-d2b5-4c36-a533-fe3633a46913",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-114613-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-114613-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-114613-b",
+            "Path": "exoplanet_details/hd-114613-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_114613_b"
+    }
+}

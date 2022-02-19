@@ -1,0 +1,30 @@
+{
+    "Description": "HD 77338 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 15.9 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.06 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.09",
+    "Id": "hd-77338-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6680/hd-77338-b/",
+    "Mass": "15.9 Earths",
+    "Name": "hd-77338-b",
+    "Orbital Period": "5.7 days",
+    "Orbital Radius": "0.06 AU",
+    "Planet Radius": "0.368 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "f5d102e3-3277-49e1-aa11-cb96b774127c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-77338-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-77338-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-77338-b",
+            "Path": "exoplanet_details/hd-77338-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_77338_b"
+    }
+}

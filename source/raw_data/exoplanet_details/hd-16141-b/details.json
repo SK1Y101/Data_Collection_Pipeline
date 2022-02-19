@@ -1,0 +1,30 @@
+{
+    "Description": "HD 16141 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.26 Jupiters, it takes 75.5 days to complete one orbit of its star, and is 0.36 AU from its star. Its discovery was announced in 2000.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2000",
+    "Eccentricity": "0.25",
+    "Id": "hd-16141-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6584/hd-16141-b/",
+    "Mass": "0.26 Jupiters",
+    "Name": "hd-16141-b",
+    "Orbital Period": "75.5 days",
+    "Orbital Radius": "0.36 AU",
+    "Planet Radius": "0.971 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ad4324ce-3bdc-465e-8cfe-97be4f8aac26",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-16141-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-16141-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-16141-b",
+            "Path": "exoplanet_details/hd-16141-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_16141_b"
+    }
+}

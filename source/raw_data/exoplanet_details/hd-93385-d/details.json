@@ -1,0 +1,30 @@
+{
+    "Description": "HD 93385 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.7 Earths, it takes 45.9 days to complete one orbit of its star, and is 0.2565 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.09",
+    "Id": "hd-93385-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8033/hd-93385-d/",
+    "Mass": "8.7 Earths",
+    "Name": "hd-93385-d",
+    "Orbital Period": "45.9 days",
+    "Orbital Radius": "0.2565 AU",
+    "Planet Radius": "0.258 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "9a58a7f3-cebe-4887-ac5b-c11b95a93826",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-93385-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-93385-d/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-93385-d",
+            "Path": "exoplanet_details/hd-93385-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_93385_d"
+    }
+}

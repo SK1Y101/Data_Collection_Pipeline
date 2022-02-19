@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 105854 b is a gas giant exoplanet that orbits a K-type star. Its mass is 8.2 Jupiters, it takes 184.2 days to complete one orbit of its star, and is 0.81 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.02",
+    "Id": "hip-105854-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6911/hip-105854-b/",
+    "Mass": "8.2 Jupiters",
+    "Name": "hip-105854-b",
+    "Orbital Period": "184.2 days",
+    "Orbital Radius": "0.81 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "45b43ad7-fa6f-48b2-bf50-d5ba77ca3a49",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-105854-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-105854-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-105854-b",
+            "Path": "exoplanet_details/hip-105854-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_105854_b"
+    }
+}

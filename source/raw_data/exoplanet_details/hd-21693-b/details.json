@@ -1,0 +1,30 @@
+{
+    "Description": "HD 21693 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.23 Earths, it takes 22.7 days to complete one orbit of its star, and is 0.1455 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.12",
+    "Id": "hd-21693-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7309/hd-21693-b/",
+    "Mass": "8.23 Earths",
+    "Name": "hd-21693-b",
+    "Orbital Period": "22.7 days",
+    "Orbital Radius": "0.1455 AU",
+    "Planet Radius": "0.25 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "ecbacb92-8c3c-480e-8207-1b0190c4d9dc",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-21693-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-21693-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-21693-b",
+            "Path": "exoplanet_details/hd-21693-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_21693_b"
+    }
+}

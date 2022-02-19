@@ -1,0 +1,30 @@
+{
+    "Description": "HD 168009 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 9.53485 Earths, it takes 15.1 days to complete one orbit of its star, and is 0.1192 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.12",
+    "Id": "hd-168009-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7883/hd-168009-b/",
+    "Mass": "9.53485 Earths",
+    "Name": "hd-168009-b",
+    "Orbital Period": "15.1 days",
+    "Orbital Radius": "0.1192 AU",
+    "Planet Radius": "0.272 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "39137f90-cc8c-458f-b5a6-3d1c331671cf",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-168009-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-168009-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-168009-b",
+            "Path": "exoplanet_details/hd-168009-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_168009_b"
+    }
+}

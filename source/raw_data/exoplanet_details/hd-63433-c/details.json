@@ -1,0 +1,30 @@
+{
+    "Description": "HD 63433 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.61 Earths, it takes 20.5 days to complete one orbit of its star, and is 0.1458 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "Id": "hd-63433-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7748/hd-63433-c/",
+    "Mass": "7.61 Earths",
+    "Name": "hd-63433-c",
+    "Orbital Period": "20.5 days",
+    "Orbital Radius": "0.1458 AU",
+    "Planet Radius": "0.238 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d6274bb3-14ca-4a8b-b9ef-680974353f5e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-63433-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-63433-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-63433-c",
+            "Path": "exoplanet_details/hd-63433-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_63433_c"
+    }
+}

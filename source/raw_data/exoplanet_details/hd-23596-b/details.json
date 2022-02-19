@@ -1,0 +1,30 @@
+{
+    "Description": "HD 23596 b is a gas giant exoplanet that orbits an F-type star. Its mass is 9.03 Jupiters, it takes 4.3 years to complete one orbit of its star, and is 2.77 AU from its star. Its discovery was announced in 2003.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2003",
+    "Eccentricity": "0.27",
+    "Id": "hd-23596-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6599/hd-23596-b/",
+    "Mass": "9.03 Jupiters",
+    "Name": "hd-23596-b",
+    "Orbital Period": "4.3 years",
+    "Orbital Radius": "2.77 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "4df116f9-3848-4c44-8f61-6f16b7876d20",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-23596-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-23596-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-23596-b",
+            "Path": "exoplanet_details/hd-23596-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_23596_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 78530 b is a gas giant exoplanet that orbits a B-type star. Its mass is 23 Jupiters, it takes 12738.7 years to complete one orbit of its star, and is 740 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.0",
+    "Id": "hip-78530-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6907/hip-78530-b/",
+    "Mass": "23 Jupiters",
+    "Name": "hip-78530-b",
+    "Orbital Period": "12738.7 years",
+    "Orbital Radius": "740.0 AU",
+    "Planet Radius": "1.07 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8f833a0f-cb3a-4c09-8060-81323726b516",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-78530-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-78530-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-78530-b",
+            "Path": "exoplanet_details/hip-78530-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_78530_b"
+    }
+}

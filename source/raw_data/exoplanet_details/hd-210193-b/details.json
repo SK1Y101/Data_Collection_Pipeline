@@ -1,0 +1,30 @@
+{
+    "Description": "HD 210193 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.4817 Jupiters, it takes 1.8 years to complete one orbit of its star, and is 1.487 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.24",
+    "Id": "hd-210193-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7371/hd-210193-b/",
+    "Mass": "0.4817 Jupiters",
+    "Name": "hd-210193-b",
+    "Orbital Period": "1.8 years",
+    "Orbital Radius": "1.487 AU",
+    "Planet Radius": "1.27 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ff1c3cf1-df2d-46a3-b180-e15fa4856f78",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-210193-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-210193-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-210193-b",
+            "Path": "exoplanet_details/hd-210193-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_210193_b"
+    }
+}

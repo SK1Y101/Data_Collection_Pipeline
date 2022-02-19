@@ -1,0 +1,30 @@
+{
+    "Description": "HD 149143 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.33 Jupiters, it takes 4.1 days to complete one orbit of its star, and is 0.053 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.02",
+    "Id": "hd-149143-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6940/hd-149143-b/",
+    "Mass": "1.33 Jupiters",
+    "Name": "hd-149143-b",
+    "Orbital Period": "4.1 days",
+    "Orbital Radius": "0.053 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "74cda495-e9f0-417e-90bf-e20de45b097f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-149143-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-149143-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-149143-b",
+            "Path": "exoplanet_details/hd-149143-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_149143_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 20794 c is a super Earth exoplanet that orbits a G-type star. Its mass is 2.4 Earths, it takes 40.1 days to complete one orbit of its star, and is 0.2036 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.0",
+    "Id": "hd-20794-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6592/hd-20794-c/",
+    "Mass": "2.4 Earths",
+    "Name": "hd-20794-c",
+    "Orbital Period": "40.1 days",
+    "Orbital Radius": "0.2036 AU",
+    "Planet Radius": "1.35 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "cafe1ef6-631d-46a3-ac21-129173e0486e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-20794-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-20794-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-20794-c",
+            "Path": "exoplanet_details/hd-20794-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_20794_c"
+    }
+}

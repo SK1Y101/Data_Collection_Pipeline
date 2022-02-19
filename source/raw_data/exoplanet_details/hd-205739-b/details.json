@@ -1,0 +1,30 @@
+{
+    "Description": "HD 205739 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.37 Jupiters, it takes 279.8 days to complete one orbit of its star, and is 0.896 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.27",
+    "Id": "hd-205739-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6896/hd-205739-b/",
+    "Mass": "1.37 Jupiters",
+    "Name": "hd-205739-b",
+    "Orbital Period": "279.8 days",
+    "Orbital Radius": "0.896 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3ee97a21-9b4e-466b-86fa-b02736cee5cd",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-205739-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-205739-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-205739-b",
+            "Path": "exoplanet_details/hd-205739-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_205739_b"
+    }
+}

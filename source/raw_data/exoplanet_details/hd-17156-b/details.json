@@ -1,0 +1,30 @@
+{
+    "Description": "",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.68",
+    "Id": "hd-17156-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6588/hd-17156-b/",
+    "Mass": "3.51 Jupiters",
+    "Name": "hd-17156-b",
+    "Orbital Period": "21.2 days",
+    "Orbital Radius": "0.16278 AU",
+    "Planet Radius": "1.1 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "420bf4bb-6efc-4ca7-9b01-8ce8bca6e34f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-17156-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-17156-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-17156-b",
+            "Path": "exoplanet_details/hd-17156-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_17156_b"
+    }
+}

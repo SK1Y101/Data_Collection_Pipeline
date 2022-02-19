@@ -1,0 +1,30 @@
+{
+    "Description": "HD 155193 b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.75 Jupiters, it takes 352.7 days to complete one orbit of its star, and is 1.04 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.21",
+    "Id": "hd-155193-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7874/hd-155193-b/",
+    "Mass": "0.75 Jupiters",
+    "Name": "hd-155193-b",
+    "Orbital Period": "352.7 days",
+    "Orbital Radius": "1.04 AU",
+    "Planet Radius": "1.25 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d363aa60-1de4-4c2b-b535-46e39e7a9c43",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-155193-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-155193-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-155193-b",
+            "Path": "exoplanet_details/hd-155193-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_155193_b"
+    }
+}

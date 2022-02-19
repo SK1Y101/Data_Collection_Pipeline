@@ -1,0 +1,30 @@
+{
+    "Description": "HD 233604 b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.575 Jupiters, it takes 192 days to complete one orbit of its star, and is 0.747 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.05",
+    "Id": "hd-233604-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6848/hd-233604-b/",
+    "Mass": "6.575 Jupiters",
+    "Name": "hd-233604-b",
+    "Orbital Period": "192 days",
+    "Orbital Radius": "0.747 AU",
+    "Planet Radius": "1.13 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "257cdfb1-de88-4ada-a1f5-74a50d526e4c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-233604-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-233604-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-233604-b",
+            "Path": "exoplanet_details/hd-233604-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_233604_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 109600 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.68 Jupiters, it takes 232.1 days to complete one orbit of its star, and is 0.706 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.16",
+    "Id": "hip-109600-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7111/hip-109600-b/",
+    "Mass": "2.68 Jupiters",
+    "Name": "hip-109600-b",
+    "Orbital Period": "232.1 days",
+    "Orbital Radius": "0.706 AU",
+    "Planet Radius": "1.18 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "4f7d7934-3ef1-4e4b-80e0-5480ad148444",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-109600-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-109600-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-109600-b",
+            "Path": "exoplanet_details/hip-109600-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_109600_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 73534 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.112 Jupiters, it takes 4.8 years to complete one orbit of its star, and is 2.99 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.13",
+    "Id": "hd-73534-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6673/hd-73534-b/",
+    "Mass": "1.112 Jupiters",
+    "Name": "hd-73534-b",
+    "Orbital Period": "4.8 years",
+    "Orbital Radius": "2.99 AU",
+    "Planet Radius": "1.23 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "5ab0a530-a5ca-4646-851f-db2cb57213e7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-73534-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-73534-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-73534-b",
+            "Path": "exoplanet_details/hd-73534-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_73534_b"
+    }
+}

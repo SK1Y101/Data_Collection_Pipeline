@@ -1,0 +1,30 @@
+{
+    "Description": "HD 217786 b is a gas giant exoplanet that orbits a G-type star. Its mass is 13 Jupiters, it takes 3.6 years to complete one orbit of its star, and is 2.38 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.4",
+    "Id": "hd-217786-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6835/hd-217786-b/",
+    "Mass": "13 Jupiters",
+    "Name": "hd-217786-b",
+    "Orbital Period": "3.6 years",
+    "Orbital Radius": "2.38 AU",
+    "Planet Radius": "1.1 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d1fef645-9263-4eea-a832-e386a1b0c63a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-217786-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-217786-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-217786-b",
+            "Path": "exoplanet_details/hd-217786-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_217786_b"
+    }
+}

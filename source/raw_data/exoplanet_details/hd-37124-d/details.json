@@ -1,0 +1,30 @@
+{
+    "Description": "HD 37124 d is a gas giant exoplanet that orbits a G-type star. Its mass is 0.696 Jupiters, it takes 5.1 years to complete one orbit of its star, and is 2.807 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.16",
+    "Id": "hd-37124-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6620/hd-37124-d/",
+    "Mass": "0.696 Jupiters",
+    "Name": "hd-37124-d",
+    "Orbital Period": "5.1 years",
+    "Orbital Radius": "2.807 AU",
+    "Planet Radius": "1.25 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "382e90d2-b90c-4866-a215-106220e7ebff",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-37124-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-37124-d/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-37124-d",
+            "Path": "exoplanet_details/hd-37124-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_37124_d"
+    }
+}

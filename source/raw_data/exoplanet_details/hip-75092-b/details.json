@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 75092 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.79 Jupiters, it takes 2.5 years to complete one orbit of its star, and is 2.02 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.42",
+    "Id": "hip-75092-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7857/hip-75092-b/",
+    "Mass": "1.79 Jupiters",
+    "Name": "hip-75092-b",
+    "Orbital Period": "2.5 years",
+    "Orbital Radius": "2.02 AU",
+    "Planet Radius": "1.2 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ffb2c0a5-cfa0-4ca4-bcff-8145e8f72413",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-75092-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-75092-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-75092-b",
+            "Path": "exoplanet_details/hip-75092-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_75092_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 99492 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 22.2481 Earths, it takes 17 days to complete one orbit of its star, and is 0.12 AU from its star. Its discovery was announced in 2004.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2004",
+    "Eccentricity": "0.25",
+    "Id": "hd-99492-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6711/hd-99492-b/",
+    "Mass": "22.2481 Earths",
+    "Name": "hd-99492-b",
+    "Orbital Period": "17 days",
+    "Orbital Radius": "0.12 AU",
+    "Planet Radius": "0.448 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "e461ec34-da97-4297-a0c9-4f74956a1bf4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-99492-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-99492-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-99492-b",
+            "Path": "exoplanet_details/hd-99492-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_99492_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 9446 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.7 Jupiters, it takes 30.1 days to complete one orbit of its star, and is 0.189 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.2",
+    "Id": "hd-9446-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6804/hd-9446-b/",
+    "Mass": "0.7 Jupiters",
+    "Name": "hd-9446-b",
+    "Orbital Period": "30.1 days",
+    "Orbital Radius": "0.189 AU",
+    "Planet Radius": "1.25 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ec4ea2e4-3290-4c26-8358-6ab2bc330972",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-9446-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-9446-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-9446-b",
+            "Path": "exoplanet_details/hd-9446-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_9446_b"
+    }
+}

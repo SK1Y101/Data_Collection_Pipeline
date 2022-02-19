@@ -1,0 +1,30 @@
+{
+    "Description": "HD 1690 b is a gas giant exoplanet that orbits a K-type star. Its mass is 8.79 Jupiters, it takes 1.5 years to complete one orbit of its star, and is 1.36 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.64",
+    "Id": "hd-1690-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6777/hd-1690-b/",
+    "Mass": "8.79 Jupiters",
+    "Name": "hd-1690-b",
+    "Orbital Period": "1.5 years",
+    "Orbital Radius": "1.36 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "304659c4-dc80-42f8-bd54-ea6cee9691b6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-1690-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-1690-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-1690-b",
+            "Path": "exoplanet_details/hd-1690-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_1690_b"
+    }
+}

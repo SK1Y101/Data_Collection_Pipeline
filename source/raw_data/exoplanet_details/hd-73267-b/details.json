@@ -1,0 +1,30 @@
+{
+    "Description": "HD 73267 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.097 Jupiters, it takes 3.4 years to complete one orbit of its star, and is 2.187 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.23",
+    "Id": "hd-73267-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6670/hd-73267-b/",
+    "Mass": "3.097 Jupiters",
+    "Name": "hd-73267-b",
+    "Orbital Period": "3.4 years",
+    "Orbital Radius": "2.187 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f6192971-ce48-4d46-aac5-77113148eba5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-73267-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-73267-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-73267-b",
+            "Path": "exoplanet_details/hd-73267-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_73267_b"
+    }
+}

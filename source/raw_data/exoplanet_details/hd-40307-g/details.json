@@ -1,0 +1,30 @@
+{
+    "Description": "HD 40307 g is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.1 Earths, it takes 197.8 days to complete one orbit of its star, and is 0.6 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.29",
+    "Id": "hd-40307-g",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6632/hd-40307-g/",
+    "Mass": "7.1 Earths",
+    "Name": "hd-40307-g",
+    "Orbital Period": "197.8 days",
+    "Orbital Radius": "0.6 AU",
+    "Planet Radius": "0.229 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d736c275-f6f8-4387-a99b-d81c01c6095b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-40307-g/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-40307-g/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-40307-g",
+            "Path": "exoplanet_details/hd-40307-g/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_40307_g"
+    }
+}

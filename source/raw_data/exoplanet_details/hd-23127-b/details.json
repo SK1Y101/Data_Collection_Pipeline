@@ -1,0 +1,30 @@
+{
+    "Description": "HD 23127 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.527 Jupiters, it takes 3.3 years to complete one orbit of its star, and is 2.37 AU from its star. Its discovery was announced in 2006.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2006",
+    "Eccentricity": "0.41",
+    "Id": "hd-23127-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6596/hd-23127-b/",
+    "Mass": "1.527 Jupiters",
+    "Name": "hd-23127-b",
+    "Orbital Period": "3.3 years",
+    "Orbital Radius": "2.37 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6204519c-e58f-42de-92cd-28c0b80d0703",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-23127-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-23127-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-23127-b",
+            "Path": "exoplanet_details/hd-23127-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_23127_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 4845 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 14.4 Earths, it takes 34.2 days to complete one orbit of its star, and is 0.176 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.25",
+    "Id": "hip-4845-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7680/hip-4845-b/",
+    "Mass": "14.4 Earths",
+    "Name": "hip-4845-b",
+    "Orbital Period": "34.2 days",
+    "Orbital Radius": "0.176 AU",
+    "Planet Radius": "0.347 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "9d79ba23-0da1-4bb3-90d8-836127cd22c9",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-4845-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-4845-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-4845-b",
+            "Path": "exoplanet_details/hip-4845-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_4845_b"
+    }
+}

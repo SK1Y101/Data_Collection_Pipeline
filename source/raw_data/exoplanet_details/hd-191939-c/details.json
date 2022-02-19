@@ -1,0 +1,30 @@
+{
+    "Description": "HD 191939 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.5 Earths, it takes 28.6 days to complete one orbit of its star, and is 0.1762 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "Id": "hd-191939-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7654/hd-191939-c/",
+    "Mass": "10.5 Earths",
+    "Name": "hd-191939-c",
+    "Orbital Period": "28.6 days",
+    "Orbital Radius": "0.1762 AU",
+    "Planet Radius": "0.288 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "958964b1-3aaf-47a7-add4-756f48d3a294",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-191939-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-191939-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-191939-c",
+            "Path": "exoplanet_details/hd-191939-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_191939_c"
+    }
+}

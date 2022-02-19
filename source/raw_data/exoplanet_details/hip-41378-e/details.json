@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 41378 e is a Neptune-like exoplanet that orbits an F-type star. Its mass is 26 Earths and it takes 131 days to complete one orbit of its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "hip-41378-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7172/hip-41378-e/",
+    "Mass": "26 Earths",
+    "Name": "hip-41378-e",
+    "Orbital Period": "131 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.492 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "9963cf83-06db-4f41-8baa-ac70436b4620",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-41378-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-41378-e/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-41378-e",
+            "Path": "exoplanet_details/hip-41378-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_41378_e"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 147513 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.21 Jupiters, it takes 1.4 years to complete one orbit of its star, and is 1.32 AU from its star. Its discovery was announced in 2003.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2003",
+    "Eccentricity": "0.26",
+    "Id": "hd-147513-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6936/hd-147513-b/",
+    "Mass": "1.21 Jupiters",
+    "Name": "hd-147513-b",
+    "Orbital Period": "1.4 years",
+    "Orbital Radius": "1.32 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "5735d91d-5e25-460a-a67e-e4da00543608",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-147513-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-147513-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-147513-b",
+            "Path": "exoplanet_details/hd-147513-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_147513_b"
+    }
+}

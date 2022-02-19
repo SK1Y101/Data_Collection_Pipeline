@@ -1,0 +1,30 @@
+{
+    "Description": "HD 187085 b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.836 Jupiters, it takes 2.8 years to complete one orbit of its star, and is 2.1 AU from its star. Its discovery was announced in 2006.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2006",
+    "Eccentricity": "0.25",
+    "Id": "hd-187085-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6872/hd-187085-b/",
+    "Mass": "0.836 Jupiters",
+    "Name": "hd-187085-b",
+    "Orbital Period": "2.8 years",
+    "Orbital Radius": "2.1 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "41076021-445c-4e10-a4bf-9f56d05928aa",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-187085-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-187085-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-187085-b",
+            "Path": "exoplanet_details/hd-187085-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_187085_b"
+    }
+}

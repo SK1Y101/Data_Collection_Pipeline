@@ -1,0 +1,30 @@
+{
+    "Description": "HD 191939 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.1 Earths, it takes 38.4 days to complete one orbit of its star, and is 0.215 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "Id": "hd-191939-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7655/hd-191939-d/",
+    "Mass": "10.1 Earths",
+    "Name": "hd-191939-d",
+    "Orbital Period": "38.4 days",
+    "Orbital Radius": "0.215 AU",
+    "Planet Radius": "0.282 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d50d428b-35db-41c0-883f-ddd363ebed8e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-191939-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-191939-d/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-191939-d",
+            "Path": "exoplanet_details/hd-191939-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_191939_d"
+    }
+}

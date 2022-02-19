@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 5763 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.51 Jupiters, it takes 30 days to complete one orbit of its star, and is 0.17 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.05",
+    "Id": "hip-5763-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8370/hip-5763-b/",
+    "Mass": "0.51 Jupiters",
+    "Name": "hip-5763-b",
+    "Orbital Period": "30 days",
+    "Orbital Radius": "0.17 AU",
+    "Planet Radius": "1.27 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "0c8b78e5-2ccb-499d-8196-93706fadff67",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-5763-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-5763-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-5763-b",
+            "Path": "exoplanet_details/hip-5763-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_5763_b"
+    }
+}

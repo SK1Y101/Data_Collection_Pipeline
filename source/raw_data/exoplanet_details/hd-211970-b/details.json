@@ -1,0 +1,30 @@
+{
+    "Description": "HD 211970 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 13 Earths, it takes 25.2 days to complete one orbit of its star, and is 0.143 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.15",
+    "Id": "hd-211970-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7372/hd-211970-b/",
+    "Mass": "13 Earths",
+    "Name": "hd-211970-b",
+    "Orbital Period": "25.2 days",
+    "Orbital Radius": "0.143 AU",
+    "Planet Radius": "0.327 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "264f9612-ca03-4a68-9eb5-c45921e6fdb8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-211970-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-211970-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-211970-b",
+            "Path": "exoplanet_details/hd-211970-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_211970_b"
+    }
+}

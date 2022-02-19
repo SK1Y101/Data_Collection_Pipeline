@@ -1,0 +1,30 @@
+{
+    "Description": "HD 48265 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.525 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 1.814 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.21",
+    "Id": "hd-48265-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6647/hd-48265-b/",
+    "Mass": "1.525 Jupiters",
+    "Name": "hd-48265-b",
+    "Orbital Period": "2.1 years",
+    "Orbital Radius": "1.814 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "06cf3e95-40f7-4e6d-95d2-a02f6060af2b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-48265-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-48265-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-48265-b",
+            "Path": "exoplanet_details/hd-48265-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_48265_b"
+    }
+}

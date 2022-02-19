@@ -1,0 +1,30 @@
+{
+    "Description": "HD 161178 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.57 Jupiters, it takes 279.3 days to complete one orbit of its star, and is 0.85 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.04",
+    "Id": "hd-161178-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8367/hd-161178-b/",
+    "Mass": "0.57 Jupiters",
+    "Name": "hd-161178-b",
+    "Orbital Period": "279.3 days",
+    "Orbital Radius": "0.85 AU",
+    "Planet Radius": "1.26 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8094cfe5-63f2-45fa-bcc3-4c50ad993777",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-161178-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-161178-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-161178-b",
+            "Path": "exoplanet_details/hd-161178-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_161178_b"
+    }
+}

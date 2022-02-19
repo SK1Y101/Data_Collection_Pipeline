@@ -1,0 +1,30 @@
+{
+    "Description": "HR 810 b is a gas giant exoplanet that orbits an F-type star. Its mass is 2.27 Jupiters, it takes 302.8 days to complete one orbit of its star, and is 0.92 AU from its star. Its discovery was announced in 1999.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "1999",
+    "Eccentricity": "0.14",
+    "Id": "hr-810-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6913/hr-810-b/",
+    "Mass": "2.27 Jupiters",
+    "Name": "hr-810-b",
+    "Orbital Period": "302.8 days",
+    "Orbital Radius": "0.92 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b7917717-6524-4641-80ee-875b6e279df6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hr-810-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hr-810-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hr-810-b",
+            "Path": "exoplanet_details/hr-810-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HR_810_b"
+    }
+}

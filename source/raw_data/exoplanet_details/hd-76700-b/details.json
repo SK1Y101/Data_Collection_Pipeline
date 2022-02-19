@@ -1,0 +1,30 @@
+{
+    "Description": "HD 76700 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.21 Jupiters, it takes 4 days to complete one orbit of its star, and is 0.05 AU from its star. Its discovery was announced in 2002.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2002",
+    "Eccentricity": "0.09",
+    "Id": "hd-76700-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6679/hd-76700-b/",
+    "Mass": "0.21 Jupiters",
+    "Name": "hd-76700-b",
+    "Orbital Period": "4 days",
+    "Orbital Radius": "0.05 AU",
+    "Planet Radius": "0.856 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "be1262e8-5c7a-4d29-b0ef-a22a01ba797e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-76700-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-76700-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-76700-b",
+            "Path": "exoplanet_details/hd-76700-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_76700_b"
+    }
+}

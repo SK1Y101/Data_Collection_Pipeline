@@ -1,0 +1,30 @@
+{
+    "Description": "HD 196885 A b is a gas giant exoplanet that orbits an F-type star. Its mass is 2.58 Jupiters, it takes 3.7 years to complete one orbit of its star, and is 2.37 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.48",
+    "Id": "hd-196885-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7528/hd-196885-a-b/",
+    "Mass": "2.58 Jupiters",
+    "Name": "hd-196885-a-b",
+    "Orbital Period": "3.7 years",
+    "Orbital Radius": "2.37 AU",
+    "Planet Radius": "1.18 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6e1cb167-ec6c-4822-b799-810382642576",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-196885-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-196885-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-196885-a-b",
+            "Path": "exoplanet_details/hd-196885-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_196885_A_b"
+    }
+}

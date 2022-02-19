@@ -1,0 +1,30 @@
+{
+    "Description": "HD 156279 c is a gas giant exoplanet that orbits a G-type star. Its mass is 8.6 Jupiters, it takes 11.5 years to complete one orbit of its star, and is 5.461 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.23",
+    "Id": "hd-156279-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7297/hd-156279-c/",
+    "Mass": "8.6 Jupiters",
+    "Name": "hd-156279-c",
+    "Orbital Period": "11.5 years",
+    "Orbital Radius": "5.461 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d66689d4-fd38-42fc-b6d8-6237027b0ca1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-156279-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-156279-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-156279-c",
+            "Path": "exoplanet_details/hd-156279-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_156279_c"
+    }
+}

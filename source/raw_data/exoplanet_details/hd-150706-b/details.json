@@ -1,0 +1,30 @@
+{
+    "Description": "HD 150706 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.71 Jupiters, it takes 16.1 years to complete one orbit of its star, and is 6.7 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.38",
+    "Id": "hd-150706-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6941/hd-150706-b/",
+    "Mass": "2.71 Jupiters",
+    "Name": "hd-150706-b",
+    "Orbital Period": "16.1 years",
+    "Orbital Radius": "6.7 AU",
+    "Planet Radius": "1.18 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "bd53bbe1-105c-45be-8faf-2554ef86c63b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-150706-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-150706-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-150706-b",
+            "Path": "exoplanet_details/hd-150706-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_150706_b"
+    }
+}

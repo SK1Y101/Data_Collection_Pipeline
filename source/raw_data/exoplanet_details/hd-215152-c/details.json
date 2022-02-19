@@ -1,0 +1,30 @@
+{
+    "Description": "HD 215152 c is a super Earth exoplanet that orbits a K-type star. Its mass is 1.72 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.067393 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "hd-215152-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7259/hd-215152-c/",
+    "Mass": "1.72 Earths",
+    "Name": "hd-215152-c",
+    "Orbital Period": "7.3 days",
+    "Orbital Radius": "0.067393 AU",
+    "Planet Radius": "1.17 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "f6eff225-1493-4df3-87cd-6c54a655d7e2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-215152-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-215152-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-215152-c",
+            "Path": "exoplanet_details/hd-215152-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_215152_c"
+    }
+}

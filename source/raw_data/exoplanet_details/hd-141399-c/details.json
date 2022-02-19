@@ -1,0 +1,30 @@
+{
+    "Description": "HD 141399 c is a gas giant exoplanet that orbits a G-type star. Its mass is 1.33 Jupiters, it takes 202 days to complete one orbit of its star, and is 0.689 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.05",
+    "Id": "hd-141399-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7119/hd-141399-c/",
+    "Mass": "1.33 Jupiters",
+    "Name": "hd-141399-c",
+    "Orbital Period": "202 days",
+    "Orbital Radius": "0.689 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "36f24d65-2c8a-46e2-bb45-da79fe9a7c17",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-141399-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-141399-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-141399-c",
+            "Path": "exoplanet_details/hd-141399-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_141399_c"
+    }
+}

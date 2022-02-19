@@ -1,0 +1,30 @@
+{
+    "Description": "HD 183263 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.95 Jupiters, it takes 1.7 years to complete one orbit of its star, and is 1.49 AU from its star. Its discovery was announced in 2004.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2004",
+    "Eccentricity": "0.36",
+    "Id": "hd-183263-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6824/hd-183263-b/",
+    "Mass": "3.95 Jupiters",
+    "Name": "hd-183263-b",
+    "Orbital Period": "1.7 years",
+    "Orbital Radius": "1.49 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "570c584e-7a6e-4489-8be3-039d50ac0474",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-183263-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-183263-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-183263-b",
+            "Path": "exoplanet_details/hd-183263-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_183263_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 96992 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.14 Jupiters, it takes 1.4 years to complete one orbit of its star, and is 1.24 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.41",
+    "Id": "hd-96992-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7823/hd-96992-b/",
+    "Mass": "1.14 Jupiters",
+    "Name": "hd-96992-b",
+    "Orbital Period": "1.4 years",
+    "Orbital Radius": "1.24 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "93c5013e-57b6-45e3-a9b4-4d7fafd1042a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-96992-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-96992-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-96992-b",
+            "Path": "exoplanet_details/hd-96992-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_96992_b"
+    }
+}
