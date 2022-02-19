@@ -28,10 +28,10 @@ scraper = Scraper()
 The scraper class exposes the following 17 public methods that can be used to build a scraper application
 
 ### findAll
-#### Explanation
 ```python
 Scraper.findAll(tagName="*", attribute=None, value=None, source=None)
 ```
+#### Explanation
 
 The scraper will locate all elements that match the xpath string `//tagName[@attribute=value]`, and return them as a list
 tagName defines the HTML tag, ie: Div, Section, tr, ...
