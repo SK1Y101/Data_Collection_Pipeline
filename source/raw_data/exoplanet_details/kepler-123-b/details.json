@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-123 b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.174 Jupiters, it takes 17.2 days to complete one orbit of its star, and is 0.135 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "Id": "kepler-123-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1452/kepler-123-b/",
+    "Mass": "0.174 Jupiters",
+    "Name": "kepler-123-b",
+    "Orbital Period": "17.2 days",
+    "Orbital Radius": "0.135 AU",
+    "Planet Radius": "0.262 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a77fe207-30e0-4f44-b9e1-77e2b808064c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-123-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-123-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-123-b",
+            "Path": "exoplanet_details/kepler-123-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-123_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1254 d is a super Earth exoplanet that orbits a K-type star. Its mass is 2.27 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.0575 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1254-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2821/kepler-1254-d/",
+    "Mass": "2.27 Earths",
+    "Name": "kepler-1254-d",
+    "Orbital Period": "5.7 days",
+    "Orbital Radius": "0.0575 AU",
+    "Planet Radius": "1.31 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "5cdba0d3-0c94-40bf-8892-85f80c8cb83b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1254-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1254-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1254-d",
+            "Path": "exoplanet_details/kepler-1254-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1254_d"
+    }
+}

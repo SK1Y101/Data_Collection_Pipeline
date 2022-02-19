@@ -56,6 +56,63 @@ Scraper.navigate("www.google.com")
 Scraper.close()
 ```
 
+## loadIframe
+```python
+Scraper.loadIframe(elemName, source=None, timeout=None):
+```
+
+Load an iframe element in a new tab, and close that tab upon completion. Used as part of a `with` statement, which will also yield the url of the iframe element.
+
+elemName: the HTML Id of the iframe to open
+
+source: the parent element to search. If this is not given, the code will search the entire page. (SEE: `Scraper.find()` for exlanation)
+
+timeout: The amount of time to wait for this element to load and be found. If not given, the function will throw an error if the element cannot be immediately located. (SEE: `Scraper.waitUntilFound() for explanation`)
+
+#### Example Usage
+HTML
+```HTML
+<body>
+    <div>
+        <iframe id="wiki_iframe" src="https://www.wikipedia.org/"/>
+    </div>
+</body>
+```
+Python
+```python
+with scraper.loadIframe("wiki_iframe", 3) as iframeUrl:
+    # fetch the title from that page
+    title = scraper.load("span", "class", "central-textlogo__image")
+    print(title.text)
+    print(iframeUrl)
+```
+Output
+```
+Wikipedia
+https://www.wikipedia.org/
+```
+
+## scroll
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
 ## find
 ```python
 Scraper.find(tagName="*", attribute=None, value=None, source=None)
@@ -203,27 +260,6 @@ Output
 
 ```
 
-## scroll
-```python
-CODE
-```
-
-EXPLAIN
-
-#### Example Usage
-HTML
-```HTML
-
-```
-Python
-```python
-
-```
-Output
-```
-
-```
-
 ## selectbox
 ```python
 CODE
@@ -287,48 +323,6 @@ Output
 
 ```
 
-## loadIframe
-```python
-CODE
-```
-
-EXPLAIN
-
-#### Example Usage
-HTML
-```HTML
-
-```
-Python
-```python
-
-```
-Output
-```
-
-```
-
-## makeFolder
-```python
-CODE
-```
-
-EXPLAIN
-
-#### Example Usage
-HTML
-```HTML
-
-```
-Python
-```python
-
-```
-Output
-```
-
-```
-
 ## localStorage
 ```python
 CODE
@@ -372,6 +366,27 @@ Output
 ```
 
 ## checkForFile
+```python
+CODE
+```
+
+EXPLAIN
+
+#### Example Usage
+HTML
+```HTML
+
+```
+Python
+```python
+
+```
+Output
+```
+
+```
+
+## makeFolder
 ```python
 CODE
 ```

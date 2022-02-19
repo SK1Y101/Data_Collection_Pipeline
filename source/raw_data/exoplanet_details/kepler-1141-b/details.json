@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1141 b is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.477 Earths, it takes 2.3 days to complete one orbit of its star, and is 0.0345 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1141-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4965/kepler-1141-b/",
+    "Mass": "0.477 Earths",
+    "Name": "kepler-1141-b",
+    "Orbital Period": "2.3 days",
+    "Orbital Radius": "0.0345 AU",
+    "Planet Radius": "0.82 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "2eb79b53-83a3-4295-aef2-d2e980f0e841",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1141-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1141-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1141-b",
+            "Path": "exoplanet_details/kepler-1141-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1141_b"
+    }
+}

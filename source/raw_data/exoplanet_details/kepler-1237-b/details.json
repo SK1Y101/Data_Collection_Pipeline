@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1237 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.55 Earths, it takes 84.6 days to complete one orbit of its star, and is 0.3778 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1237-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5291/kepler-1237-b/",
+    "Mass": "8.55 Earths",
+    "Name": "kepler-1237-b",
+    "Orbital Period": "84.6 days",
+    "Orbital Radius": "0.3778 AU",
+    "Planet Radius": "0.255 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "395ede21-a86a-4d19-97c6-9b413c113e91",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1237-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1237-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1237-b",
+            "Path": "exoplanet_details/kepler-1237-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1237_b"
+    }
+}

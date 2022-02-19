@@ -1,0 +1,30 @@
+{
+    "Description": "",
+    "Detection Method": "Transit",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.05",
+    "Id": "kepler-11-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1806/kepler-11-b/",
+    "Mass": "1.9 Earths",
+    "Name": "kepler-11-b",
+    "Orbital Period": "10.3 days",
+    "Orbital Radius": "0.091 AU",
+    "Planet Radius": "1.8 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "d3f16cd6-992b-40e3-ab9a-ec45ea3d141c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-11-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-11-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-11-b",
+            "Path": "exoplanet_details/kepler-11-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-11_b"
+    }
+}

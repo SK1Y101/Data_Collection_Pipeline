@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-121 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.77 Earths, it takes 41 days to complete one orbit of its star, and is 0.216 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "Id": "kepler-121-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1447/kepler-121-c/",
+    "Mass": "5.77 Earths",
+    "Name": "kepler-121-c",
+    "Orbital Period": "41 days",
+    "Orbital Radius": "0.216 AU",
+    "Planet Radius": "0.203 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "70e00873-336e-4826-a831-1d34c80ab7d7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-121-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-121-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-121-c",
+            "Path": "exoplanet_details/kepler-121-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-121_c"
+    }
+}

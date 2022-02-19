@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1130 d is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.202 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.0506 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1130-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8166/kepler-1130-d/",
+    "Mass": "0.202 Earths",
+    "Name": "kepler-1130-d",
+    "Orbital Period": "4.3 days",
+    "Orbital Radius": "0.0506 AU",
+    "Planet Radius": "0.645 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "050fb077-e8d4-44d0-b469-4284a5eabd1a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1130-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1130-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1130-d",
+            "Path": "exoplanet_details/kepler-1130-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1130_d"
+    }
+}

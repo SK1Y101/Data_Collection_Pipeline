@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1121 b is a super Earth exoplanet that orbits an F-type star. Its mass is 4.31 Earths, it takes 13.2 days to complete one orbit of its star, and is 0.1187 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1121-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4864/kepler-1121-b/",
+    "Mass": "4.31 Earths",
+    "Name": "kepler-1121-b",
+    "Orbital Period": "13.2 days",
+    "Orbital Radius": "0.1187 AU",
+    "Planet Radius": "1.91 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "39f51127-60d3-48a3-a444-4826e9f56410",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1121-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1121-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1121-b",
+            "Path": "exoplanet_details/kepler-1121-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1121_b"
+    }
+}

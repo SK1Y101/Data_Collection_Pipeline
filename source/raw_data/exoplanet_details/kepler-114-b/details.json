@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-114 b is a super Earth exoplanet that orbits a K-type star. Its mass is 6.8 Earths, it takes 5.2 days to complete one orbit of its star, and is 0.053 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "Id": "kepler-114-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4186/kepler-114-b/",
+    "Mass": "6.8 Earths",
+    "Name": "kepler-114-b",
+    "Orbital Period": "5.2 days",
+    "Orbital Radius": "0.053 AU",
+    "Planet Radius": "1.26 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "825317ca-81a3-4c01-8c24-d747506c1461",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-114-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-114-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-114-b",
+            "Path": "exoplanet_details/kepler-114-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-114_b"
+    }
+}
