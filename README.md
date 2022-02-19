@@ -34,10 +34,14 @@ Scraper.findAll(tagName="*", attribute=None, value=None, source=None)
 #### Explanation
 
 The scraper will locate all elements that match the xpath string `//tagName[@attribute=value]`, and return them as a list
+
 tagName defines the HTML tag, ie: Div, Section, tr, ...
+
 attribute defines an HTML attribute, ie: id, class, height, ...
 
+
 if a source element is provided, the scraper will only locate elements that are children of that element.
+
 If one is not provided (default behavior of the method), then the scraper will find all matching elements on the current page
 
 #### Example Usage
