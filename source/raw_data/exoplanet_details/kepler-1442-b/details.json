@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1442 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 14.7 Earths, it takes 81.4 days to complete one orbit of its star, and is 0.4039 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1442-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2310/kepler-1442-b/",
+    "Mass": "14.7 Earths",
+    "Name": "kepler-1442-b",
+    "Orbital Period": "81.4 days",
+    "Orbital Radius": "0.4039 AU",
+    "Planet Radius": "0.351 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "1b8d8567-e4ad-4ad1-b4e6-0b02a93947ec",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1442-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1442-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1442-b",
+            "Path": "exoplanet_details/kepler-1442-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1442_b"
+    }
+}
