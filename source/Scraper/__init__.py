@@ -219,7 +219,7 @@ class Scraper:
         # save this screenshot to the correct location
         self.driver.save_screenshot(fileName)
         # return the file existing
-        return os.path.exists(os.path.split(fileName))
+        return os.path.exists(fileName)
     
     # check if a file exists
     def checkForFile(self, fileName, stale_time=7, useLocalStorage=True):
