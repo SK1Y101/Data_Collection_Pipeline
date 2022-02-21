@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 740 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.96 Earths, it takes 2.4 days to complete one orbit of its star, and is 0.029 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.24",
+    "Id": "gj-740-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7843/gj-740-b/",
+    "Mass": "2.96 Earths",
+    "Name": "gj-740-b",
+    "Orbital Period": "2.4 days",
+    "Orbital Radius": "0.029 AU",
+    "Planet Radius": "1.53 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "0d736889-fc6d-414b-ac9e-94ff79bcb9c4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-740-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-740-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-740-b",
+            "Path": "exoplanet_details/gj-740-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_740_b"
+    }
+}

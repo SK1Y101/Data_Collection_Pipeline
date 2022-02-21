@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 179 b is a gas giant exoplanet that orbits an M-type star. Its mass is 0.82 Jupiters, it takes 6.3 years to complete one orbit of its star, and is 2.41 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.21",
+    "Id": "gj-179-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6530/gj-179-b/",
+    "Mass": "0.82 Jupiters",
+    "Name": "gj-179-b",
+    "Orbital Period": "6.3 years",
+    "Orbital Radius": "2.41 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "68868056-c577-4c30-b96e-b5f4c971395f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-179-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-179-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-179-b",
+            "Path": "exoplanet_details/gj-179-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_179_b"
+    }
+}

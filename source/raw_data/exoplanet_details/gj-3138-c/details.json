@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 3138 c is a super Earth exoplanet that orbits an M-type star. Its mass is 4.18 Earths, it takes 6 days to complete one orbit of its star, and is 0.057 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.11",
+    "Id": "gj-3138-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7207/gj-3138-c/",
+    "Mass": "4.18 Earths",
+    "Name": "gj-3138-c",
+    "Orbital Period": "6 days",
+    "Orbital Radius": "0.057 AU",
+    "Planet Radius": "1.88 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "eccf93d7-581e-49b8-aa4d-f3c6ec760859",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-3138-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-3138-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-3138-c",
+            "Path": "exoplanet_details/gj-3138-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_3138_c"
+    }
+}

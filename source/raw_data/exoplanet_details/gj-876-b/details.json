@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 876 b is a gas giant exoplanet that orbits an M-type star. Its mass is 2.2756 Jupiters, it takes 61.1 days to complete one orbit of its star, and is 0.208317 AU from its star. Its discovery was announced in 1998.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "1998",
+    "Eccentricity": "0.03",
+    "Id": "gj-876-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6553/gj-876-b/",
+    "Mass": "2.2756 Jupiters",
+    "Name": "gj-876-b",
+    "Orbital Period": "61.1 days",
+    "Orbital Radius": "0.208317 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3450f2fd-be28-466c-b6af-70f34b1c3c0d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-876-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-876-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-876-b",
+            "Path": "exoplanet_details/gj-876-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_876_b"
+    }
+}

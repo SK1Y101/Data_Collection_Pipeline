@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 414 A b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.6 Earths, it takes 50.8 days to complete one orbit of its star, and is 0.2324 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.45",
+    "Id": "gj-414-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7838/gj-414-a-b/",
+    "Mass": "7.6 Earths",
+    "Name": "gj-414-a-b",
+    "Orbital Period": "50.8 days",
+    "Orbital Radius": "0.2324 AU",
+    "Planet Radius": "0.235 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "2f56a821-2c4a-4a6e-b313-1ebb82d22604",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-414-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-414-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-414-a-b",
+            "Path": "exoplanet_details/gj-414-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_414_A_b"
+    }
+}

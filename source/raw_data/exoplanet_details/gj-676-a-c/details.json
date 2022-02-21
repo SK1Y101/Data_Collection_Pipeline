@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 676 A c is a gas giant exoplanet that orbits a K-type star. Its mass is 6.8 Jupiters, it takes 20.1 years to complete one orbit of its star, and is 6.6 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "gj-676-a-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7169/gj-676-a-c/",
+    "Mass": "6.8 Jupiters",
+    "Name": "gj-676-a-c",
+    "Orbital Period": "20.1 years",
+    "Orbital Radius": "6.6 AU",
+    "Planet Radius": "1.13 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6d9199ef-a601-4bfb-89d5-942be7f65171",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-676-a-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-676-a-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-676-a-c",
+            "Path": "exoplanet_details/gj-676-a-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_676_A_c"
+    }
+}

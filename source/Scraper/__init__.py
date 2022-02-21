@@ -86,11 +86,15 @@ class Scraper:
         self.driver.get(url)
         # wait for a bit for the page contents to load
         wait(0.5)
+        # retrun the URL
+        return self.driver.current_url
     
     # scroll to a certain part of the page
     def scroll(self, scroll_percent=0.1):
         ''' Will scroll to a certain percentage of the site height. '''
         self.driver.execute_script("window.scrollTo(0, {}*document.body.scrollHeight);".format(float(scroll_percent)))
+        # return the scroll percentage
+        return float(self.driver.execute_script("return document.documentElement.scrollHeight"))
     
     # fetch all the options in a selection box
     def selectbox(self, element):
@@ -183,6 +187,8 @@ class Scraper:
             # and now create all of the directories that didn't exist
             for y in range(x, len(dirs)):
                 os.mkdir("/".join(dirs[:y+1]))
+        # return the folder existing
+        return os.path.exists(os.path.split(loc)[0])
 
     # initialise the local storage location
     def localStorage(self, loc):
@@ -194,6 +200,8 @@ class Scraper:
         self.makeFolder(loc)
         # set to the location
         self.filedir = loc
+        # return the folder existing
+        return os.path.exists(os.path.split(loc)[0])
     
     # take a screenshot of the page and save to a location
     def screenshot(self, fileName, useLocalStorage=True):
@@ -208,6 +216,8 @@ class Scraper:
         self.makeFolder(fileName)
         # save this screenshot to the correct location
         self.driver.save_screenshot(fileName)
+        # return the file existing
+        return os.path.exists(os.path.split(fileName))
     
     # check if a file exists
     def checkForFile(self, fileName, stale_time=7, useLocalStorage=True):
@@ -263,8 +273,12 @@ class Scraper:
         with open(fileName, "w") as f:
             # store in JSON with my prefered indentation
             json.dump(data, f, sort_keys=True, indent=4)
+        # return 
+        return True
 
     # close the web page
     def close(self):
         ''' Quit the scraping process. '''
         self.driver.quit()
+        # return true if the driver closed
+        return True

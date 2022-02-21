@@ -1,0 +1,30 @@
+{
+    "Description": "",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2004",
+    "Eccentricity": "0.14",
+    "Id": "gj-436-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6534/gj-436-b/",
+    "Mass": "22.1 Earths",
+    "Name": "gj-436-b",
+    "Orbital Period": "2.6 days",
+    "Orbital Radius": "0.0291 AU",
+    "Planet Radius": "0.372 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "e5875f01-4d78-46b3-93fd-487cdb3eb64d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-436-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-436-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-436-b",
+            "Path": "exoplanet_details/gj-436-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_436_b"
+    }
+}

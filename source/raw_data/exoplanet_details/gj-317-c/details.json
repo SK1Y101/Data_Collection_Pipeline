@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 317 c is a gas giant exoplanet that orbits an M-type star. Its mass is 1.64396 Jupiters, it takes 18.5 years to complete one orbit of its star, and is 5.23 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.17",
+    "Id": "gj-317-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7291/gj-317-c/",
+    "Mass": "1.64396 Jupiters",
+    "Name": "gj-317-c",
+    "Orbital Period": "18.5 years",
+    "Orbital Radius": "5.23 AU",
+    "Planet Radius": "1.2 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "842e7470-afe2-49f6-add5-c50f640b8b33",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-317-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-317-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-317-c",
+            "Path": "exoplanet_details/gj-317-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_317_c"
+    }
+}

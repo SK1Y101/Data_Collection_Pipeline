@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 687 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 17.2 Earths, it takes 38.1 days to complete one orbit of its star, and is 0.163 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.17",
+    "Id": "gj-687-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6549/gj-687-b/",
+    "Mass": "17.2 Earths",
+    "Name": "gj-687-b",
+    "Orbital Period": "38.1 days",
+    "Orbital Radius": "0.163 AU",
+    "Planet Radius": "0.385 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "6366df41-c5c3-4b88-8adc-d8aa89fe3e39",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-687-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-687-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-687-b",
+            "Path": "exoplanet_details/gj-687-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_687_b"
+    }
+}

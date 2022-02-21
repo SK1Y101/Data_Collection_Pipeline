@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 4276 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 16.57 Earths, it takes 13.4 days to complete one orbit of its star, and is 0.082 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.37",
+    "Id": "gj-4276-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7346/gj-4276-b/",
+    "Mass": "16.57 Earths",
+    "Name": "gj-4276-b",
+    "Orbital Period": "13.4 days",
+    "Orbital Radius": "0.082 AU",
+    "Planet Radius": "0.377 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "e0480ca4-36ad-4e1f-904c-4c4e59fcf16b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-4276-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-4276-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-4276-b",
+            "Path": "exoplanet_details/gj-4276-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_4276_b"
+    }
+}

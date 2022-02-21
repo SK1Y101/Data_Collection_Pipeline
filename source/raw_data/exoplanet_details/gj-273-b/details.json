@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 273 b is a super Earth exoplanet that orbits an M-type star. Its mass is 2.89 Earths, it takes 18.6 days to complete one orbit of its star, and is 0.091101 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.1",
+    "Id": "gj-273-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7211/gj-273-b/",
+    "Mass": "2.89 Earths",
+    "Name": "gj-273-b",
+    "Orbital Period": "18.6 days",
+    "Orbital Radius": "0.091101 AU",
+    "Planet Radius": "1.51 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "24ba999a-a165-4a38-9710-51cde2b9fb21",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-273-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-273-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-273-b",
+            "Path": "exoplanet_details/gj-273-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_273_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 9827 d is a Neptune-like exoplanet that orbits a K-type star. Its mass is 4.04 Earths, it takes 6.2 days to complete one orbit of its star, and is 0.05591 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.0",
+    "Id": "gj-9827-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7192/gj-9827-d/",
+    "Mass": "4.04 Earths",
+    "Name": "gj-9827-d",
+    "Orbital Period": "6.2 days",
+    "Orbital Radius": "0.05591 AU",
+    "Planet Radius": "2.022 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "7285c7bc-2d9d-43e0-b624-84f3ce2e6e66",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-9827-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-9827-d/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-9827-d",
+            "Path": "exoplanet_details/gj-9827-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_9827_d"
+    }
+}

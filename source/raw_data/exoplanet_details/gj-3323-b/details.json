@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 3323 b is a super Earth exoplanet that orbits an M-type star. Its mass is 2.02 Earths, it takes 5.4 days to complete one orbit of its star, and is 0.03282 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.23",
+    "Id": "gj-3323-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7209/gj-3323-b/",
+    "Mass": "2.02 Earths",
+    "Name": "gj-3323-b",
+    "Orbital Period": "5.4 days",
+    "Orbital Radius": "0.03282 AU",
+    "Planet Radius": "1.23 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "c60f1425-edf5-4c95-852a-ac9be45181e6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-3323-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-3323-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-3323-b",
+            "Path": "exoplanet_details/gj-3323-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_3323_b"
+    }
+}

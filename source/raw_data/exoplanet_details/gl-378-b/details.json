@@ -1,0 +1,30 @@
+{
+    "Description": "Gl 378 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 13.02 Earths, it takes 3.8 days to complete one orbit of its star, and is 0.039435 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.11",
+    "Id": "gl-378-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7288/gl-378-b/",
+    "Mass": "13.02 Earths",
+    "Name": "gl-378-b",
+    "Orbital Period": "3.8 days",
+    "Orbital Radius": "0.039435 AU",
+    "Planet Radius": "0.327 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "f6b85507-eaca-4e65-adc6-ea3212236475",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gl-378-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gl-378-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gl-378-b",
+            "Path": "exoplanet_details/gl-378-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Gl_378_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "GJ 163 d is a Neptune-like exoplanet that orbits an M-type star. Its mass is 29.4 Earths, it takes 1.7 years to complete one orbit of its star, and is 1.0304 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.37",
+    "Id": "gj-163-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6529/gj-163-d/",
+    "Mass": "29.4 Earths",
+    "Name": "gj-163-d",
+    "Orbital Period": "1.7 years",
+    "Orbital Radius": "1.0304 AU",
+    "Planet Radius": "0.528 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "3c2690fa-fce9-4721-a036-34b7a1562060",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-163-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-163-d/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-163-d",
+            "Path": "exoplanet_details/gj-163-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_163_d"
+    }
+}
