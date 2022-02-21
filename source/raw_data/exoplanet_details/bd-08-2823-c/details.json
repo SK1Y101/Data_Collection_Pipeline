@@ -1,0 +1,30 @@
+{
+    "Description": "BD-08 2823 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.33 Jupiters, it takes 237.6 days to complete one orbit of its star, and is 0.68 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.19",
+    "Id": "bd-08-2823-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7072/bd-08-2823-c/",
+    "Mass": "0.33 Jupiters",
+    "Name": "bd-08-2823-c",
+    "Orbital Period": "237.6 days",
+    "Orbital Radius": "0.68 AU",
+    "Planet Radius": "1.11 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ca8c62d6-1302-4a25-b207-eedcc8879847",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/bd-08-2823-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/bd-08-2823-c/images/1.png"
+        },
+        "2": {
+            "Description": "Bd-08-2823-c",
+            "Path": "exoplanet_details/bd-08-2823-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/BD-08_2823_c"
+    }
+}

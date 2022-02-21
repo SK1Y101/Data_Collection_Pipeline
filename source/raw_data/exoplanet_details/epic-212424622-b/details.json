@@ -1,0 +1,30 @@
+{
+    "Description": "EPIC 212424622 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.35 Earths and it takes 18.1 days to complete one orbit of its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "epic-212424622-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7403/epic-212424622-b/",
+    "Mass": "5.35 Earths",
+    "Name": "epic-212424622-b",
+    "Orbital Period": "18.1 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "2.17 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d0df0dbd-ad50-4acc-864d-7daec629719b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-212424622-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-212424622-b/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-212424622-b",
+            "Path": "exoplanet_details/epic-212424622-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_212424622_b"
+    }
+}

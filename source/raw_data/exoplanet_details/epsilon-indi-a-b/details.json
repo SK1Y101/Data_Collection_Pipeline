@@ -1,0 +1,30 @@
+{
+    "Description": "Epsilon Indi A b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.25 Jupiters, it takes 45.2 years to complete one orbit of its star, and is 11.55 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.26",
+    "Id": "epsilon-indi-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7511/epsilon-indi-a-b/",
+    "Mass": "3.25 Jupiters",
+    "Name": "epsilon-indi-a-b",
+    "Orbital Period": "45.2 years",
+    "Orbital Radius": "11.55 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d609c472-6ab2-4a24-9f6b-5d754d4090c6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epsilon-indi-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epsilon-indi-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Epsilon-indi-a-b",
+            "Path": "exoplanet_details/epsilon-indi-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/eps_Ind_A_b"
+    }
+}

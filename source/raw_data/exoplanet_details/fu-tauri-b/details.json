@@ -1,0 +1,30 @@
+{
+    "Description": "FU Tauri b is a gas giant exoplanet that orbits an M-type star. Its mass is 16 Jupiters, it takes 101250.8 years to complete one orbit of its star, and is 800 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.0",
+    "Id": "fu-tauri-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7028/fu-tauri-b/",
+    "Mass": "16 Jupiters",
+    "Name": "fu-tauri-b",
+    "Orbital Period": "101250.8 years",
+    "Orbital Radius": "800.0 AU",
+    "Planet Radius": "1.09 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8036c5e1-2887-4372-b165-4b2b1a2e93aa",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/fu-tauri-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/fu-tauri-b/images/1.png"
+        },
+        "2": {
+            "Description": "Fu-tauri-b",
+            "Path": "exoplanet_details/fu-tauri-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/FU_Tau_b"
+    }
+}

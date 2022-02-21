@@ -1,0 +1,30 @@
+{
+    "Description": "BD+48 738 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.91 Jupiters, it takes 392.6 days to complete one orbit of its star, and is 1 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.2",
+    "Id": "bd48-738-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6565/bd48-738-b/",
+    "Mass": "0.91 Jupiters",
+    "Name": "bd48-738-b",
+    "Orbital Period": "392.6 days",
+    "Orbital Radius": "1.0 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "91200e48-d5b3-4633-b40c-01656744d20d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/bd48-738-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/bd48-738-b/images/1.png"
+        },
+        "2": {
+            "Description": "Bd48-738-b",
+            "Path": "exoplanet_details/bd48-738-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/BD+48_738_b"
+    }
+}

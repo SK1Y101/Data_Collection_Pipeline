@@ -1,0 +1,30 @@
+{
+    "Description": "BD+49 828 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.6 Jupiters, it takes 7.1 years to complete one orbit of its star, and is 4.2 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.35",
+    "Id": "bd49-828-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6566/bd49-828-b/",
+    "Mass": "1.6 Jupiters",
+    "Name": "bd49-828-b",
+    "Orbital Period": "7.1 years",
+    "Orbital Radius": "4.2 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3400ea7c-013b-4b9f-9712-3781fd0b6403",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/bd49-828-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/bd49-828-b/images/1.png"
+        },
+        "2": {
+            "Description": "Bd49-828-b",
+            "Path": "exoplanet_details/bd49-828-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/BD+49_828_b"
+    }
+}

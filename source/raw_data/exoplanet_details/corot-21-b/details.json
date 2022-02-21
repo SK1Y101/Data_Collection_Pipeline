@@ -1,0 +1,30 @@
+{
+    "Description": "CoRoT-21 b is a gas giant exoplanet that orbits an F-type star. Its mass is 2.26 Jupiters, it takes 2.7 days to complete one orbit of its star, and is 0.0417 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.0",
+    "Id": "corot-21-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6429/corot-21-b/",
+    "Mass": "2.26 Jupiters",
+    "Name": "corot-21-b",
+    "Orbital Period": "2.7 days",
+    "Orbital Radius": "0.0417 AU",
+    "Planet Radius": "1.3 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "673c8231-c42f-4699-911b-2d7ebc346219",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/corot-21-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/corot-21-b/images/1.png"
+        },
+        "2": {
+            "Description": "Corot-21-b",
+            "Path": "exoplanet_details/corot-21-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/CoRoT-21_b"
+    }
+}

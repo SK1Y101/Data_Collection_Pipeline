@@ -1,0 +1,30 @@
+{
+    "Description": "EPIC 201757695.02 is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.688 Earths, it takes 2 days to complete one orbit of its star, and is 0.0296 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "Id": "epic-20175769502",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7772/epic-20175769502/",
+    "Mass": "0.688 Earths",
+    "Name": "epic-20175769502",
+    "Orbital Period": "2 days",
+    "Orbital Radius": "0.0296 AU",
+    "Planet Radius": "0.908 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "61d78464-68c8-42a3-89d0-14bb39f0ce65",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-20175769502/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-20175769502/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-20175769502",
+            "Path": "exoplanet_details/epic-20175769502/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_201757695.02"
+    }
+}

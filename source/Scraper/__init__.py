@@ -23,6 +23,7 @@ class Scraper:
     def __init__(self):
         # fetch the webdriver
         self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+        self.driver.maximize_window()
         self.actions = ActionChains(self.driver)
         self.filedir = ""
     

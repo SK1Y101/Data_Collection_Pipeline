@@ -1,0 +1,30 @@
+{
+    "Description": "EPIC 211822797 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.35 Earths, it takes 21.2 days to complete one orbit of its star, and is 0.1195 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.06",
+    "Id": "epic-211822797-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7170/epic-211822797-b/",
+    "Mass": "4.35 Earths",
+    "Name": "epic-211822797-b",
+    "Orbital Period": "21.2 days",
+    "Orbital Radius": "0.1195 AU",
+    "Planet Radius": "1.92 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "2d9e6a31-817c-4613-81de-fd8f9f2c97f2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-211822797-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-211822797-b/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-211822797-b",
+            "Path": "exoplanet_details/epic-211822797-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_211822797_b"
+    }
+}

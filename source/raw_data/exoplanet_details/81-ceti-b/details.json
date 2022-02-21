@@ -1,0 +1,30 @@
+{
+    "Description": "81 Ceti b is a gas giant exoplanet that orbits a K-type star. Its mass is 5.3 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 2.5 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.21",
+    "Id": "81-ceti-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7012/81-ceti-b/",
+    "Mass": "5.3 Jupiters",
+    "Name": "81-ceti-b",
+    "Orbital Period": "2.6 years",
+    "Orbital Radius": "2.5 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "9e41fa18-d133-4e15-9417-062d3fc4481f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/81-ceti-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/81-ceti-b/images/1.png"
+        },
+        "2": {
+            "Description": "81-ceti-b",
+            "Path": "exoplanet_details/81-ceti-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/81_Cet_b"
+    }
+}

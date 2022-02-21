@@ -1,0 +1,30 @@
+{
+    "Description": "AB Pictoris b is a gas giant exoplanet that orbits a K-type star. Its mass is 13.5 Jupiters, it takes 4421.7 years to complete one orbit of its star, and is 260 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.0",
+    "Id": "ab-pictoris-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7014/ab-pictoris-b/",
+    "Mass": "13.5 Jupiters",
+    "Name": "ab-pictoris-b",
+    "Orbital Period": "4421.7 years",
+    "Orbital Radius": "260.0 AU",
+    "Planet Radius": "1.1 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "fd469321-281a-4680-bc7a-a2385129f39b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/ab-pictoris-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/ab-pictoris-b/images/1.png"
+        },
+        "2": {
+            "Description": "Ab-pictoris-b",
+            "Path": "exoplanet_details/ab-pictoris-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/AB_Pic_b"
+    }
+}

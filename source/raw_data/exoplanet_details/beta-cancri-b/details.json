@@ -1,0 +1,30 @@
+{
+    "Description": "Beta Cancri b is a gas giant exoplanet that orbits a K-type star. Its mass is 7.8 Jupiters, it takes 1.7 years to complete one orbit of its star, and is 1.7 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.08",
+    "Id": "beta-cancri-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7039/beta-cancri-b/",
+    "Mass": "7.8 Jupiters",
+    "Name": "beta-cancri-b",
+    "Orbital Period": "1.7 years",
+    "Orbital Radius": "1.7 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3c3f0bcb-aeb3-4fa5-9635-f4e8ebe0da3a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/beta-cancri-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/beta-cancri-b/images/1.png"
+        },
+        "2": {
+            "Description": "Beta-cancri-b",
+            "Path": "exoplanet_details/beta-cancri-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/bet_Cnc_b"
+    }
+}
