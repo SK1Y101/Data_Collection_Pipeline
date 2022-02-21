@@ -1,0 +1,30 @@
+{
+    "Description": "HD 10180 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 23.9 Earths, it takes 122.7 days to complete one orbit of its star, and is 0.4929 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.12",
+    "Id": "hd-10180-f",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6809/hd-10180-f/",
+    "Mass": "23.9 Earths",
+    "Name": "hd-10180-f",
+    "Orbital Period": "122.7 days",
+    "Orbital Radius": "0.4929 AU",
+    "Planet Radius": "0.468 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d3525efb-53d4-4b9a-8cc9-748384058d46",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-10180-f/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-10180-f/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-10180-f",
+            "Path": "exoplanet_details/hd-10180-f/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_10180_f"
+    }
+}

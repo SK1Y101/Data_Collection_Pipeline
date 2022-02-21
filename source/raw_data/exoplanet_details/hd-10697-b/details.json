@@ -1,0 +1,30 @@
+{
+    "Description": "HD 10697 b is a gas giant exoplanet that orbits a G-type star. Its mass is 6.383 Jupiters, it takes 2.9 years to complete one orbit of its star, and is 2.14 AU from its star. Its discovery was announced in 1999.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "1999",
+    "Eccentricity": "0.1",
+    "Id": "hd-10697-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6571/hd-10697-b/",
+    "Mass": "6.383 Jupiters",
+    "Name": "hd-10697-b",
+    "Orbital Period": "2.9 years",
+    "Orbital Radius": "2.14 AU",
+    "Planet Radius": "1.13 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a587c336-3b55-4da8-86bf-36d7ccc2b977",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-10697-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-10697-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-10697-b",
+            "Path": "exoplanet_details/hd-10697-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_10697_b"
+    }
+}

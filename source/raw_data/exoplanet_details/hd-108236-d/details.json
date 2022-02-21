@@ -1,0 +1,30 @@
+{
+    "Description": "HD 108236 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.98 Earths, it takes 14.2 days to complete one orbit of its star, and is 0.1074 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.06",
+    "Id": "hd-108236-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7804/hd-108236-d/",
+    "Mass": "6.98 Earths",
+    "Name": "hd-108236-d",
+    "Orbital Period": "14.2 days",
+    "Orbital Radius": "0.1074 AU",
+    "Planet Radius": "0.227 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "c365105e-e7ca-4561-b2e4-33bcdf40c32e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-108236-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-108236-d/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-108236-d",
+            "Path": "exoplanet_details/hd-108236-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_108236_d"
+    }
+}

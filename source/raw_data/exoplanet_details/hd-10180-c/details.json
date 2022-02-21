@@ -1,0 +1,30 @@
+{
+    "Description": "HD 10180 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13.1 Earths, it takes 5.8 days to complete one orbit of its star, and is 0.06412 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.07",
+    "Id": "hd-10180-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6806/hd-10180-c/",
+    "Mass": "13.1 Earths",
+    "Name": "hd-10180-c",
+    "Orbital Period": "5.8 days",
+    "Orbital Radius": "0.06412 AU",
+    "Planet Radius": "0.328 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "52172ef9-7595-45a9-b3cd-e4132260fdf6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-10180-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-10180-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-10180-c",
+            "Path": "exoplanet_details/hd-10180-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_10180_c"
+    }
+}

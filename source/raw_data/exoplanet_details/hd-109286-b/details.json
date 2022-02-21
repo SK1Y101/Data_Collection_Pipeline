@@ -1,0 +1,30 @@
+{
+    "Description": "HD 109286 b is a gas giant exoplanet that orbits a G-type star. Its mass is 2.99 Jupiters, it takes 1.4 years to complete one orbit of its star, and is 1.259 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.34",
+    "Id": "hd-109286-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7925/hd-109286-b/",
+    "Mass": "2.99 Jupiters",
+    "Name": "hd-109286-b",
+    "Orbital Period": "1.4 years",
+    "Orbital Radius": "1.259 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "dce94bf9-623b-4a27-9c94-b78000de199f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-109286-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-109286-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-109286-b",
+            "Path": "exoplanet_details/hd-109286-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_109286_b"
+    }
+}

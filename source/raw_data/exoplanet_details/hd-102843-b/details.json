@@ -1,0 +1,30 @@
+{
+    "Description": "HD 102843 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.35837 Jupiters, it takes 8.5 years to complete one orbit of its star, and is 4.074 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.11",
+    "Id": "hd-102843-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7375/hd-102843-b/",
+    "Mass": "0.35837 Jupiters",
+    "Name": "hd-102843-b",
+    "Orbital Period": "8.5 years",
+    "Orbital Radius": "4.074 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "0c432ef8-0a23-45d5-beab-17b9d9589868",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-102843-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-102843-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-102843-b",
+            "Path": "exoplanet_details/hd-102843-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_102843_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 108874 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.42 Jupiters, it takes 394.5 days to complete one orbit of its star, and is 1.04 AU from its star. Its discovery was announced in 2002.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2002",
+    "Eccentricity": "0.13",
+    "Id": "hd-108874-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6736/hd-108874-b/",
+    "Mass": "1.42 Jupiters",
+    "Name": "hd-108874-b",
+    "Orbital Period": "394.5 days",
+    "Orbital Radius": "1.04 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "2fc99aab-9689-4442-902b-635c8058972e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-108874-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-108874-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-108874-b",
+            "Path": "exoplanet_details/hd-108874-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_108874_b"
+    }
+}
