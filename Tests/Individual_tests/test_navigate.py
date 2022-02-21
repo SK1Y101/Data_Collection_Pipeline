@@ -1,8 +1,14 @@
 # python imports
-import unittest
+import unittest, sys
 
-# import our scraper class to test
-from ...source.Scraper import Scraper
+# Scraper class
+try:
+    # try to import our scraper class to test
+    from ...source.Scraper import Scraper
+except:
+    # if that didn't work, add the source folder to the path for importing
+    sys.path.append("source")
+    from Scraper import Scraper
 
 # test url to visit (Yes this is technically flaunting my own site)
 test_url = "https://sk1y101.github.io/"
