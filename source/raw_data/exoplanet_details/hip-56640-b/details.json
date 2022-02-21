@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 56640 b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.67 Jupiters, it takes 7.1 years to complete one orbit of its star, and is 3.73 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.12",
+    "Id": "hip-56640-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7858/hip-56640-b/",
+    "Mass": "3.67 Jupiters",
+    "Name": "hip-56640-b",
+    "Orbital Period": "7.1 years",
+    "Orbital Radius": "3.73 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b06196fb-9cab-4527-91a9-b2e93eb0c1bb",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-56640-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-56640-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-56640-b",
+            "Path": "exoplanet_details/hip-56640-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_56640_b"
+    }
+}

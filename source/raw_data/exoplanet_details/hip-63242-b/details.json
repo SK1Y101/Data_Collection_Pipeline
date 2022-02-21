@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 63242 b is a gas giant exoplanet that orbits a K-type star. Its mass is 9.18 Jupiters, it takes 124.6 days to complete one orbit of its star, and is 0.565 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.23",
+    "Id": "hip-63242-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6866/hip-63242-b/",
+    "Mass": "9.18 Jupiters",
+    "Name": "hip-63242-b",
+    "Orbital Period": "124.6 days",
+    "Orbital Radius": "0.565 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "4f502746-529f-4fa0-bb20-a0a7847c71b8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-63242-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-63242-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-63242-b",
+            "Path": "exoplanet_details/hip-63242-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_63242_b"
+    }
+}

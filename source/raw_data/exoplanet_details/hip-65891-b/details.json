@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 65891 b is a gas giant exoplanet that orbits a K-type star. Its mass is 6 Jupiters, it takes 3 years to complete one orbit of its star, and is 2.81 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.13",
+    "Id": "hip-65891-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7123/hip-65891-b/",
+    "Mass": "6 Jupiters",
+    "Name": "hip-65891-b",
+    "Orbital Period": "3 years",
+    "Orbital Radius": "2.81 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "56cc1970-d22c-4144-bdf9-b8f4bbd210fd",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-65891-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-65891-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-65891-b",
+            "Path": "exoplanet_details/hip-65891-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_65891_b"
+    }
+}

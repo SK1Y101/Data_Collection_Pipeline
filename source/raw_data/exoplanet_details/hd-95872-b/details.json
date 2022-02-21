@@ -1,0 +1,30 @@
+{
+    "Description": "HD 95872 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.74 Jupiters, it takes 12 years to complete one orbit of its star, and is 5.15 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.06",
+    "Id": "hd-95872-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7022/hd-95872-b/",
+    "Mass": "3.74 Jupiters",
+    "Name": "hd-95872-b",
+    "Orbital Period": "12 years",
+    "Orbital Radius": "5.15 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "10b704c3-221e-448c-bd8f-c9c3fd6b41cc",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-95872-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-95872-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-95872-b",
+            "Path": "exoplanet_details/hd-95872-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_95872_b"
+    }
+}

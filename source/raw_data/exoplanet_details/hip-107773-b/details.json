@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 107773 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.98 Jupiters, it takes 144.3 days to complete one orbit of its star, and is 0.72 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.09",
+    "Id": "hip-107773-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7124/hip-107773-b/",
+    "Mass": "1.98 Jupiters",
+    "Name": "hip-107773-b",
+    "Orbital Period": "144.3 days",
+    "Orbital Radius": "0.72 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "55e61127-2746-4ad2-998c-11caf9363920",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-107773-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-107773-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-107773-b",
+            "Path": "exoplanet_details/hip-107773-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_107773_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 92987 b is a gas giant exoplanet that orbits a G-type star. Its mass is 16.88 Jupiters, it takes 28.4 years to complete one orbit of its star, and is 9.62 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.21",
+    "Id": "hd-92987-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7343/hd-92987-b/",
+    "Mass": "16.88 Jupiters",
+    "Name": "hd-92987-b",
+    "Orbital Period": "28.4 years",
+    "Orbital Radius": "9.62 AU",
+    "Planet Radius": "1.09 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d76ba868-e7cd-49f4-80e9-4d616748373f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-92987-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-92987-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-92987-b",
+            "Path": "exoplanet_details/hd-92987-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_92987_b"
+    }
+}

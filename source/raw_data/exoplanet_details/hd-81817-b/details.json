@@ -1,0 +1,30 @@
+{
+    "Description": "HD 81817 b is a gas giant exoplanet that orbits a K-type star. Its mass is 27.1 Jupiters, it takes 2.9 years to complete one orbit of its star, and is 3.3 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.17",
+    "Id": "hd-81817-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7631/hd-81817-b/",
+    "Mass": "27.1 Jupiters",
+    "Name": "hd-81817-b",
+    "Orbital Period": "2.9 years",
+    "Orbital Radius": "3.3 AU",
+    "Planet Radius": "1.06 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7a0af8c4-2e8e-49ae-b058-add7439bc8ac",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-81817-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-81817-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-81817-b",
+            "Path": "exoplanet_details/hd-81817-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_81817_b"
+    }
+}

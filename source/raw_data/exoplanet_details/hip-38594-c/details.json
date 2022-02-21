@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 38594 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.15228 Jupiters, it takes 9.5 years to complete one orbit of its star, and is 3.805 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.16",
+    "Id": "hip-38594-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7679/hip-38594-c/",
+    "Mass": "0.15228 Jupiters",
+    "Name": "hip-38594-c",
+    "Orbital Period": "9.5 years",
+    "Orbital Radius": "3.805 AU",
+    "Planet Radius": "0.708 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "209089fe-d54a-4a3b-bff5-87f0b4302162",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-38594-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-38594-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-38594-c",
+            "Path": "exoplanet_details/hip-38594-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_38594_c"
+    }
+}

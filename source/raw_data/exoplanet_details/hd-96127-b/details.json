@@ -1,0 +1,30 @@
+{
+    "Description": "HD 96127 b is a gas giant exoplanet that orbits a K-type star. Its mass is 20.96 Jupiters, it takes 1.8 years to complete one orbit of its star, and is 1.42 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.3",
+    "Id": "hd-96127-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6706/hd-96127-b/",
+    "Mass": "20.96 Jupiters",
+    "Name": "hd-96127-b",
+    "Orbital Period": "1.8 years",
+    "Orbital Radius": "1.42 AU",
+    "Planet Radius": "1.08 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f2e1d352-b11a-4937-82ba-af105db52960",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-96127-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-96127-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-96127-b",
+            "Path": "exoplanet_details/hd-96127-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_96127_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 86226 c is a super Earth exoplanet that orbits a G-type star. Its mass is 7.25 Earths, it takes 4 days to complete one orbit of its star, and is 0.049 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.08",
+    "Id": "hd-86226-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7665/hd-86226-c/",
+    "Mass": "7.25 Earths",
+    "Name": "hd-86226-c",
+    "Orbital Period": "4 days",
+    "Orbital Radius": "0.049 AU",
+    "Planet Radius": "2.16 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "ab69f900-f1f5-4d5d-9a28-34eaec516752",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-86226-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-86226-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-86226-c",
+            "Path": "exoplanet_details/hd-86226-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_86226_c"
+    }
+}

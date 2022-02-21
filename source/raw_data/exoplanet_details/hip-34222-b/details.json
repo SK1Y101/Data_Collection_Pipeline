@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 34222 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.83 Jupiters, it takes 160 days to complete one orbit of its star, and is 0.492 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.31",
+    "Id": "hip-34222-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8371/hip-34222-b/",
+    "Mass": "0.83 Jupiters",
+    "Name": "hip-34222-b",
+    "Orbital Period": "160 days",
+    "Orbital Radius": "0.492 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8b720375-4cb4-43b7-b0fd-4ddca305b3dd",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-34222-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-34222-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-34222-b",
+            "Path": "exoplanet_details/hip-34222-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_34222_b"
+    }
+}

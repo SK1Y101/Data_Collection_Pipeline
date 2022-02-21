@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 65 A b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.213 Jupiters, it takes 1 days to complete one orbit of its star, and is 0.01782 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "Id": "hip-65-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7661/hip-65-a-b/",
+    "Mass": "3.213 Jupiters",
+    "Name": "hip-65-a-b",
+    "Orbital Period": "1 days",
+    "Orbital Radius": "0.01782 AU",
+    "Planet Radius": "2.03 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "42cd6b71-3a39-420d-b3d1-1bdaed4e5e3c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-65-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-65-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-65-a-b",
+            "Path": "exoplanet_details/hip-65-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_65_A_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 80606 b is a gas giant exoplanet that orbits a G-type star. Its mass is 4.38 Jupiters, it takes 111.4 days to complete one orbit of its star, and is 0.4565 AU from its star. Its discovery was announced in 2001.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2001",
+    "Eccentricity": "0.93",
+    "Id": "hd-80606-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6682/hd-80606-b/",
+    "Mass": "4.38 Jupiters",
+    "Name": "hd-80606-b",
+    "Orbital Period": "111.4 days",
+    "Orbital Radius": "0.4565 AU",
+    "Planet Radius": "1.07 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "90bb1bc5-1f1d-4f80-b48b-1734aa3c2762",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-80606-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-80606-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-80606-b",
+            "Path": "exoplanet_details/hd-80606-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_80606_b"
+    }
+}

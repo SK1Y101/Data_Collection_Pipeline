@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 109384 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.56 Jupiters, it takes 499.5 days to complete one orbit of its star, and is 1.134 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.55",
+    "Id": "hip-109384-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7113/hip-109384-b/",
+    "Mass": "1.56 Jupiters",
+    "Name": "hip-109384-b",
+    "Orbital Period": "499.5 days",
+    "Orbital Radius": "1.134 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d312cc83-4e6e-4583-9116-9e22735524b1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-109384-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-109384-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-109384-b",
+            "Path": "exoplanet_details/hip-109384-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_109384_b"
+    }
+}

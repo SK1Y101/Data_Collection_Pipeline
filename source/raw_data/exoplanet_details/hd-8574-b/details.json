@@ -1,0 +1,30 @@
+{
+    "Description": "HD 8574 b is a gas giant exoplanet that orbits an F-type star. Its mass is 2.03 Jupiters, it takes 227 days to complete one orbit of its star, and is 0.76 AU from its star. Its discovery was announced in 2002.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2002",
+    "Eccentricity": "0.3",
+    "Id": "hd-8574-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6802/hd-8574-b/",
+    "Mass": "2.03 Jupiters",
+    "Name": "hd-8574-b",
+    "Orbital Period": "227 days",
+    "Orbital Radius": "0.76 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "0f290357-7a0d-4e36-8d95-2abab9a5e386",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-8574-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-8574-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-8574-b",
+            "Path": "exoplanet_details/hd-8574-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_8574_b"
+    }
+}

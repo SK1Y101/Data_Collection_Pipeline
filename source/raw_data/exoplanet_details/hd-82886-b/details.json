@@ -1,0 +1,30 @@
+{
+    "Description": "HD 82886 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.33 Jupiters, it takes 1.9 years to complete one orbit of its star, and is 1.58 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.07",
+    "Id": "hd-82886-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6687/hd-82886-b/",
+    "Mass": "2.33 Jupiters",
+    "Name": "hd-82886-b",
+    "Orbital Period": "1.9 years",
+    "Orbital Radius": "1.58 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8a79cd35-2541-4f6d-99cc-45004de89208",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-82886-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-82886-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-82886-b",
+            "Path": "exoplanet_details/hd-82886-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_82886_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 93385 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.2 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.0756 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "< 0.295",
+    "Id": "hd-93385-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8031/hd-93385-b/",
+    "Mass": "4.2 Earths",
+    "Name": "hd-93385-b",
+    "Orbital Period": "7.3 days",
+    "Orbital Radius": "0.0756 AU",
+    "Planet Radius": "1.88 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "27f446ad-6aa4-4855-940f-00d1fa4def3a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-93385-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-93385-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-93385-b",
+            "Path": "exoplanet_details/hd-93385-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_93385_b"
+    }
+}

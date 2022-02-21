@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 114933 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.94 Jupiters, it takes 4.1 years to complete one orbit of its star, and is 2.84 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.21",
+    "Id": "hip-114933-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7859/hip-114933-b/",
+    "Mass": "1.94 Jupiters",
+    "Name": "hip-114933-b",
+    "Orbital Period": "4.1 years",
+    "Orbital Radius": "2.84 AU",
+    "Planet Radius": "1.2 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "75c21b15-02ed-4fc0-9a6d-e8d1dd12fbbf",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-114933-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-114933-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-114933-b",
+            "Path": "exoplanet_details/hip-114933-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_114933_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 95086 b is a gas giant exoplanet that orbits an A-type star. Its mass is 5 Jupiters, it takes 328.8 years to complete one orbit of its star, and is 55.7 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.0",
+    "Id": "hd-95086-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6701/hd-95086-b/",
+    "Mass": "5 Jupiters",
+    "Name": "hd-95086-b",
+    "Orbital Period": "328.8 years",
+    "Orbital Radius": "55.7 AU",
+    "Planet Radius": "1.15 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "10729f86-2319-4f8f-901b-04939220288f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-95086-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-95086-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-95086-b",
+            "Path": "exoplanet_details/hd-95086-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_95086_b"
+    }
+}

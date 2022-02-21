@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 14810 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.9 Jupiters, it takes 6.7 days to complete one orbit of its star, and is 0.0696 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.14",
+    "Id": "hip-14810-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6858/hip-14810-b/",
+    "Mass": "3.9 Jupiters",
+    "Name": "hip-14810-b",
+    "Orbital Period": "6.7 days",
+    "Orbital Radius": "0.0696 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a8cb4b6d-6c1e-47ba-a14b-8111a6026eec",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-14810-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-14810-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-14810-b",
+            "Path": "exoplanet_details/hip-14810-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_14810_b"
+    }
+}

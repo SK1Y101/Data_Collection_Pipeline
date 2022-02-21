@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 12961 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.36 Jupiters, it takes 57.4 days to complete one orbit of its star, and is 0.25 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.17",
+    "Id": "hip-12961-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6857/hip-12961-b/",
+    "Mass": "0.36 Jupiters",
+    "Name": "hip-12961-b",
+    "Orbital Period": "57.4 days",
+    "Orbital Radius": "0.25 AU",
+    "Planet Radius": "1.18 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a4290ad3-cde2-4636-9396-57b0869bdf74",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-12961-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-12961-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-12961-b",
+            "Path": "exoplanet_details/hip-12961-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_12961_b"
+    }
+}
