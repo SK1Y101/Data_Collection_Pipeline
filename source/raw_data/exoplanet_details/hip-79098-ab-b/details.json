@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 79098 AB b is a gas giant exoplanet that orbits an A-type star. Its mass is 20.5 Jupiters, it takes 3311 years to complete one orbit of its star, and is 345 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "hip-79098-ab-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7429/hip-79098-ab-b/",
+    "Mass": "20.5 Jupiters",
+    "Name": "hip-79098-ab-b",
+    "Orbital Period": "3311 years",
+    "Orbital Radius": "345.0 AU",
+    "Planet Radius": "1.08 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "edcfaab6-feb0-4899-ad28-006061d8d25b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-79098-ab-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-79098-ab-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-79098-ab-b",
+            "Path": "exoplanet_details/hip-79098-ab-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_79098_AB_b"
+    }
+}

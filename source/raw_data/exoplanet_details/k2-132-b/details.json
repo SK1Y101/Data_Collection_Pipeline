@@ -1,0 +1,30 @@
+{
+    "Description": "K2-132 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.49 Jupiters, it takes 9.2 days to complete one orbit of its star, and is 0.0916 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.29",
+    "Id": "k2-132-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6046/k2-132-b/",
+    "Mass": "0.49 Jupiters",
+    "Name": "k2-132-b",
+    "Orbital Period": "9.2 days",
+    "Orbital Radius": "0.0916 AU",
+    "Planet Radius": "1.3 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ee62180f-fc6d-4f59-9edb-272dfd84003d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-132-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-132-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-132-b",
+            "Path": "exoplanet_details/k2-132-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-132_b"
+    }
+}

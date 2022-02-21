@@ -1,0 +1,30 @@
+{
+    "Description": "HR 2562 b is a gas giant exoplanet that orbits an F-type star. Its mass is 30 Jupiters, it takes 80.3 years to complete one orbit of its star, and is 20.3 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "hr-2562-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7229/hr-2562-b/",
+    "Mass": "30 Jupiters",
+    "Name": "hr-2562-b",
+    "Orbital Period": "80.3 years",
+    "Orbital Radius": "20.3 AU",
+    "Planet Radius": "1.11 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7cb2623c-75b2-44b8-915a-52ce93e90f68",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hr-2562-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hr-2562-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hr-2562-b",
+            "Path": "exoplanet_details/hr-2562-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HR_2562_b"
+    }
+}

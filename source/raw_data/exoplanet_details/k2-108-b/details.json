@@ -1,0 +1,30 @@
+{
+    "Description": "K2-108 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.18689 Jupiters, it takes 4.7 days to complete one orbit of its star, and is 0.0581 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.18",
+    "Id": "k2-108-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3451/k2-108-b/",
+    "Mass": "0.18689 Jupiters",
+    "Name": "k2-108-b",
+    "Orbital Period": "4.7 days",
+    "Orbital Radius": "0.0581 AU",
+    "Planet Radius": "0.476 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "e7a3ae01-b979-449e-9ce9-4237580f819f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-108-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-108-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-108-b",
+            "Path": "exoplanet_details/k2-108-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-108_b"
+    }
+}

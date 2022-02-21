@@ -1,0 +1,30 @@
+{
+    "Description": "K2-126 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.54 Earths, it takes 7.4 days to complete one orbit of its star, and is 0.0656 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.06",
+    "Id": "k2-126-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6043/k2-126-b/",
+    "Mass": "4.54 Earths",
+    "Name": "k2-126-b",
+    "Orbital Period": "7.4 days",
+    "Orbital Radius": "0.0656 AU",
+    "Planet Radius": "1.97 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "8094c577-b7bb-40c8-893e-6d382a187233",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-126-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-126-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-126-b",
+            "Path": "exoplanet_details/k2-126-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-126_b"
+    }
+}

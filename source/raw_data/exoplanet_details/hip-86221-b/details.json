@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 86221 b is a gas giant exoplanet that orbits an unknown-type star. Its mass is 0.71 Jupiters, it takes 2.2 days to complete one orbit of its star, and is 0.031 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.09",
+    "Id": "hip-86221-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8372/hip-86221-b/",
+    "Mass": "0.71 Jupiters",
+    "Name": "hip-86221-b",
+    "Orbital Period": "2.2 days",
+    "Orbital Radius": "0.031 AU",
+    "Planet Radius": "1.25 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f71b4658-3225-484b-bf2d-89fd933cd322",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-86221-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-86221-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-86221-b",
+            "Path": "exoplanet_details/hip-86221-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_86221_b"
+    }
+}

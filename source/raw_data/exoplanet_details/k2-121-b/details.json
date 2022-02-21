@@ -1,0 +1,30 @@
+{
+    "Description": "K2-121 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.139 Jupiters, it takes 5.2 days to complete one orbit of its star, and is 0.0629 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.22",
+    "Id": "k2-121-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6033/k2-121-b/",
+    "Mass": "0.139 Jupiters",
+    "Name": "k2-121-b",
+    "Orbital Period": "5.2 days",
+    "Orbital Radius": "0.0629 AU",
+    "Planet Radius": "0.671 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "e68f4fed-a60a-4c45-be02-de75f7bcc6c1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-121-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-121-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-121-b",
+            "Path": "exoplanet_details/k2-121-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-121_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "K2-105 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 30 Earths, it takes 8.3 days to complete one orbit of its star, and is 0.0833 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.0",
+    "Id": "k2-105-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3443/k2-105-b/",
+    "Mass": "30 Earths",
+    "Name": "k2-105-b",
+    "Orbital Period": "8.3 days",
+    "Orbital Radius": "0.0833 AU",
+    "Planet Radius": "0.32 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "83d890d1-9ce1-44ab-a749-1fb0b7434f1c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-105-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-105-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-105-b",
+            "Path": "exoplanet_details/k2-105-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-105_b"
+    }
+}

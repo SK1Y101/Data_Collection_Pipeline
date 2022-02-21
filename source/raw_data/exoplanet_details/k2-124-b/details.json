@@ -1,0 +1,30 @@
+{
+    "Description": "K2-124 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 8.75 Earths, it takes 6.4 days to complete one orbit of its star, and is 0.049 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.08",
+    "Id": "k2-124-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6042/k2-124-b/",
+    "Mass": "8.75 Earths",
+    "Name": "k2-124-b",
+    "Orbital Period": "6.4 days",
+    "Orbital Radius": "0.049 AU",
+    "Planet Radius": "0.259 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "7658ddcf-e834-46bc-87f2-e2b52a0c6692",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-124-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-124-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-124-b",
+            "Path": "exoplanet_details/k2-124-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-124_b"
+    }
+}

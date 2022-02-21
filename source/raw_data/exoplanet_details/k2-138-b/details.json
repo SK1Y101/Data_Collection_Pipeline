@@ -1,0 +1,30 @@
+{
+    "Description": "K2-138 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.1 Earths, it takes 2.4 days to complete one orbit of its star, and is 0.03385 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.05",
+    "Id": "k2-138-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6148/k2-138-b/",
+    "Mass": "3.1 Earths",
+    "Name": "k2-138-b",
+    "Orbital Period": "2.4 days",
+    "Orbital Radius": "0.03385 AU",
+    "Planet Radius": "1.51 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "91c1a3e5-7c1c-40a3-9d13-93e387cf40db",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-138-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-138-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-138-b",
+            "Path": "exoplanet_details/k2-138-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-138_b"
+    }
+}

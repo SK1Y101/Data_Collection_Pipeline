@@ -1,0 +1,30 @@
+{
+    "Description": "K2-114 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.01 Jupiters, it takes 11.4 days to complete one orbit of its star, and is 0.0943 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.08",
+    "Id": "k2-114-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3534/k2-114-b/",
+    "Mass": "2.01 Jupiters",
+    "Name": "k2-114-b",
+    "Orbital Period": "11.4 days",
+    "Orbital Radius": "0.0943 AU",
+    "Planet Radius": "0.932 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ad6695b7-af17-49b6-9fed-c5c0082ec86a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-114-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-114-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-114-b",
+            "Path": "exoplanet_details/k2-114-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-114_b"
+    }
+}

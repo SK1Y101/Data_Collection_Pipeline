@@ -1,0 +1,30 @@
+{
+    "Description": "HIP 75056 A b is a gas giant exoplanet that orbits an A-type star. Its mass is 25 Jupiters, it takes 128.8 years to complete one orbit of its star, and is 30 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.5",
+    "Id": "hip-75056-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8361/hip-75056-a-b/",
+    "Mass": "25 Jupiters",
+    "Name": "hip-75056-a-b",
+    "Orbital Period": "128.8 years",
+    "Orbital Radius": "30.0 AU",
+    "Planet Radius": "2.0 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "c1a8905d-4010-4937-a206-b9c16fc33b78",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hip-75056-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hip-75056-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hip-75056-a-b",
+            "Path": "exoplanet_details/hip-75056-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HIP_75056_A_b"
+    }
+}
