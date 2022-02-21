@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-15 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.66 Jupiters, it takes 4.9 days to complete one orbit of its star, and is 0.05714 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.06",
+    "Id": "kepler-15-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1813/kepler-15-b/",
+    "Mass": "0.66 Jupiters",
+    "Name": "kepler-15-b",
+    "Orbital Period": "4.9 days",
+    "Orbital Radius": "0.05714 AU",
+    "Planet Radius": "0.96 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d2c4d12f-cc21-430d-be3c-9b1488d52ee7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-15-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-15-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-15-b",
+            "Path": "exoplanet_details/kepler-15-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-15_b"
+    }
+}

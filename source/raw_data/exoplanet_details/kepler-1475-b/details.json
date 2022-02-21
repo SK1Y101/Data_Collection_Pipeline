@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1475 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 8.85 Earths, it takes 82.2 days to complete one orbit of its star, and is 0.373 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1475-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2345/kepler-1475-b/",
+    "Mass": "8.85 Earths",
+    "Name": "kepler-1475-b",
+    "Orbital Period": "82.2 days",
+    "Orbital Radius": "0.373 AU",
+    "Planet Radius": "0.261 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "98a25d4d-ca23-4f8f-81ce-4da996cd8c8d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1475-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1475-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1475-b",
+            "Path": "exoplanet_details/kepler-1475-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1475_b"
+    }
+}

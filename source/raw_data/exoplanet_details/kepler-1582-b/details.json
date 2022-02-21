@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1582 b is a super Earth exoplanet that orbits an M-type star. Its mass is 2.83 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.0316 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1582-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2457/kepler-1582-b/",
+    "Mass": "2.83 Earths",
+    "Name": "kepler-1582-b",
+    "Orbital Period": "4.8 days",
+    "Orbital Radius": "0.0316 AU",
+    "Planet Radius": "1.49 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "4f2f2bb4-76ce-4ce0-a01d-19d46e3b2485",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1582-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1582-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1582-b",
+            "Path": "exoplanet_details/kepler-1582-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1582_b"
+    }
+}

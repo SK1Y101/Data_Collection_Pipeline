@@ -1,0 +1,30 @@
+{
+    "Description": "Kepler-1510 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 11.2 Earths, it takes 84.7 days to complete one orbit of its star, and is 0.4089 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "kepler-1510-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2380/kepler-1510-b/",
+    "Mass": "11.2 Earths",
+    "Name": "kepler-1510-b",
+    "Orbital Period": "84.7 days",
+    "Orbital Radius": "0.4089 AU",
+    "Planet Radius": "0.3 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "072d65ec-5114-4c26-a5e2-547e8f47280c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1510-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1510-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1510-b",
+            "Path": "exoplanet_details/kepler-1510-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1510_b"
+    }
+}
