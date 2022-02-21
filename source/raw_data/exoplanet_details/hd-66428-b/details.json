@@ -1,0 +1,30 @@
+{
+    "Description": "HD 66428 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.204 Jupiters, it takes 6.2 years to complete one orbit of its star, and is 3.467 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.49",
+    "Id": "hd-66428-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6660/hd-66428-b/",
+    "Mass": "3.204 Jupiters",
+    "Name": "hd-66428-b",
+    "Orbital Period": "6.2 years",
+    "Orbital Radius": "3.467 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3d2a0922-1e1b-4afe-b8fd-3d3fb3ee0a60",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-66428-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-66428-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-66428-b",
+            "Path": "exoplanet_details/hd-66428-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_66428_b"
+    }
+}

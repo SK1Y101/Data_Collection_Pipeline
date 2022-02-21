@@ -1,0 +1,30 @@
+{
+    "Description": "HD 65216 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.295 Jupiters, it takes 1.6 years to complete one orbit of its star, and is 1.301 AU from its star. Its discovery was announced in 2003.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2003",
+    "Eccentricity": "0.27",
+    "Id": "hd-65216-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6657/hd-65216-b/",
+    "Mass": "1.295 Jupiters",
+    "Name": "hd-65216-b",
+    "Orbital Period": "1.6 years",
+    "Orbital Radius": "1.301 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "dce2a26d-2db5-478b-87d3-77c713860938",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-65216-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-65216-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-65216-b",
+            "Path": "exoplanet_details/hd-65216-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_65216_b"
+    }
+}

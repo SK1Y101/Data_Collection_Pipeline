@@ -1,0 +1,30 @@
+{
+    "Description": "HD 72892 b is a gas giant exoplanet that orbits a G-type star. Its mass is 5.45 Jupiters, it takes 39.5 days to complete one orbit of its star, and is 0.228 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.42",
+    "Id": "hd-72892-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7233/hd-72892-b/",
+    "Mass": "5.45 Jupiters",
+    "Name": "hd-72892-b",
+    "Orbital Period": "39.5 days",
+    "Orbital Radius": "0.228 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "c8c3c44c-2058-4bcc-b07e-b0ec90f89d65",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-72892-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-72892-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-72892-b",
+            "Path": "exoplanet_details/hd-72892-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_72892_b"
+    }
+}

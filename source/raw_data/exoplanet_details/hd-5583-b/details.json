@@ -1,0 +1,30 @@
+{
+    "Description": "HD 5583 b is a gas giant exoplanet that orbits a K-type star. Its mass is 5.78 Jupiters, it takes 139.4 days to complete one orbit of its star, and is 0.53 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.08",
+    "Id": "hd-5583-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7024/hd-5583-b/",
+    "Mass": "5.78 Jupiters",
+    "Name": "hd-5583-b",
+    "Orbital Period": "139.4 days",
+    "Orbital Radius": "0.53 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ce73095f-4392-431b-b38a-d45193b3c6f3",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-5583-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-5583-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-5583-b",
+            "Path": "exoplanet_details/hd-5583-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_5583_b"
+    }
+}

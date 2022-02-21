@@ -1,0 +1,30 @@
+{
+    "Description": "HD 64114 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 17.8 Earths, it takes 45.8 days to complete one orbit of its star, and is 0.246 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.12",
+    "Id": "hd-64114-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7379/hd-64114-b/",
+    "Mass": "17.8 Earths",
+    "Name": "hd-64114-b",
+    "Orbital Period": "45.8 days",
+    "Orbital Radius": "0.246 AU",
+    "Planet Radius": "0.393 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "1aec45a1-6170-4a99-a3cf-820d54e753e4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-64114-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-64114-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-64114-b",
+            "Path": "exoplanet_details/hd-64114-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_64114_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 73526 c is a gas giant exoplanet that orbits a G-type star. Its mass is 2.25 Jupiters, it takes 379.1 days to complete one orbit of its star, and is 1.03 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.28",
+    "Id": "hd-73526-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6672/hd-73526-c/",
+    "Mass": "2.25 Jupiters",
+    "Name": "hd-73526-c",
+    "Orbital Period": "379.1 days",
+    "Orbital Radius": "1.03 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "fdb953d7-32d1-41a9-a92b-0808ded0dc2f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-73526-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-73526-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-73526-c",
+            "Path": "exoplanet_details/hd-73526-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_73526_c"
+    }
+}

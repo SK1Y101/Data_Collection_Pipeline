@@ -1,0 +1,30 @@
+{
+    "Description": "HD 7449 b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.508 Jupiters, it takes 3.4 years to complete one orbit of its star, and is 2.38 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.92",
+    "Id": "hd-7449-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6797/hd-7449-b/",
+    "Mass": "0.508 Jupiters",
+    "Name": "hd-7449-b",
+    "Orbital Period": "3.4 years",
+    "Orbital Radius": "2.38 AU",
+    "Planet Radius": "1.27 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8e508799-a4b1-435b-85a9-708839e1637e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-7449-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-7449-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-7449-b",
+            "Path": "exoplanet_details/hd-7449-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_7449_b"
+    }
+}

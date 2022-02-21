@@ -1,0 +1,30 @@
+{
+    "Description": "HD 75784 c is a gas giant exoplanet that orbits a K-type star. Its mass is 5.64 Jupiters, it takes 21.6 years to complete one orbit of its star, and is 8.4 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.49",
+    "Id": "hd-75784-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7270/hd-75784-c/",
+    "Mass": "5.64 Jupiters",
+    "Name": "hd-75784-c",
+    "Orbital Period": "21.6 years",
+    "Orbital Radius": "8.4 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a2ffffe0-970c-46d4-898f-f28210340f71",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-75784-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-75784-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-75784-c",
+            "Path": "exoplanet_details/hd-75784-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_75784_c"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 63765 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.53 Jupiters, it takes 358 days to complete one orbit of its star, and is 0.94 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.24",
+    "Id": "hd-63765-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6656/hd-63765-b/",
+    "Mass": "0.53 Jupiters",
+    "Name": "hd-63765-b",
+    "Orbital Period": "358 days",
+    "Orbital Radius": "0.94 AU",
+    "Planet Radius": "1.27 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "73c6a92b-704d-4e9a-bdfd-62797347984a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-63765-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-63765-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-63765-b",
+            "Path": "exoplanet_details/hd-63765-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_63765_b"
+    }
+}
