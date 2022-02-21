@@ -9,7 +9,7 @@ Note: The public method `Scraper.close()` is required to cleanly shutdown the sc
 
 [ ] loadIframe
 
-[ ] scroll
+[x] scroll
 
 [ ] find
 
@@ -25,9 +25,9 @@ Note: The public method `Scraper.close()` is required to cleanly shutdown the sc
 
 [ ] screenshot
 
-[ ] checkForFile
+[x] checkForFile
 
-[ ] makeFolder
+[x] makeFolder
 
 [ ] loadJSON
 

@@ -94,7 +94,9 @@ class Scraper:
         ''' Will scroll to a certain percentage of the site height. '''
         self.driver.execute_script("window.scrollTo(0, {}*document.body.scrollHeight);".format(float(scroll_percent)))
         # return the scroll percentage
-        return float(self.driver.execute_script("return document.documentElement.scrollHeight"))
+        scroll_px = self.driver.execute_script("return document.documentElement.scrollHeight")
+        page_height = self.driver.execute_script("return document.body.scrollTop || document.documentElement.scrollTop")
+        return float(page_height / scroll_px)
     
     # fetch all the options in a selection box
     def selectbox(self, element):
@@ -231,10 +233,10 @@ class Scraper:
             fileName = (self.filedir + "/" + fileName).replace("//", "/")
         # return nothing if the file doesnt exist
         if not os.path.exists(fileName):
-            return None
+            return False
         # return nothing if the file is stale
         if (time.time() - os.path.getmtime(fileName)) > stale_time*86400:
-            return None
+            return False
         # otherwise, return true
         return True
     
