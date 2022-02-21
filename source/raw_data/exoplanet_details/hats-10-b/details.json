@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-10 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.526 Jupiters, it takes 3.3 days to complete one orbit of its star, and is 0.04491 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "< 0.501",
+    "Id": "hats-10-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5463/hats-10-b/",
+    "Mass": "0.526 Jupiters",
+    "Name": "hats-10-b",
+    "Orbital Period": "3.3 days",
+    "Orbital Radius": "0.04491 AU",
+    "Planet Radius": "0.969 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d8f5df05-2a26-4c87-aa05-889eeb933115",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-10-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-10-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-10-b",
+            "Path": "exoplanet_details/hats-10-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-10_b"
+    }
+}

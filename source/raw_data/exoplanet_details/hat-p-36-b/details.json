@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-36 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.8482 Jupiters, it takes 1.3 days to complete one orbit of its star, and is 0.0241 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.06",
+    "Id": "hat-p-36-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1252/hat-p-36-b/",
+    "Mass": "1.8482 Jupiters",
+    "Name": "hat-p-36-b",
+    "Orbital Period": "1.3 days",
+    "Orbital Radius": "0.0241 AU",
+    "Planet Radius": "1.277 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6b26b51a-0f65-43bc-98c5-f6213ddcee24",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-36-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-36-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-36-b",
+            "Path": "exoplanet_details/hat-p-36-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-36_b"
+    }
+}

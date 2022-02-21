@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-58 A b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.03 Jupiters, it takes 4.2 days to complete one orbit of its star, and is 0.05798 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "< 0.168",
+    "Id": "hats-58-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7460/hats-58-a-b/",
+    "Mass": "1.03 Jupiters",
+    "Name": "hats-58-a-b",
+    "Orbital Period": "4.2 days",
+    "Orbital Radius": "0.05798 AU",
+    "Planet Radius": "1.095 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a7a14aa1-fe0c-40cf-9d38-55b7331a56e5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-58-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-58-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-58-a-b",
+            "Path": "exoplanet_details/hats-58-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-58_A_b"
+    }
+}

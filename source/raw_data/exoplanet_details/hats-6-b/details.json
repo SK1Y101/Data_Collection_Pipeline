@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-6 b is a gas giant exoplanet that orbits an M-type star. Its mass is 0.319 Jupiters, it takes 3.3 days to complete one orbit of its star, and is 0.03623 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.0",
+    "Id": "hats-6-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1268/hats-6-b/",
+    "Mass": "0.319 Jupiters",
+    "Name": "hats-6-b",
+    "Orbital Period": "3.3 days",
+    "Orbital Radius": "0.03623 AU",
+    "Planet Radius": "0.998 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b1d6114a-4ea5-4a20-8de7-ae04056f5e62",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-6-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-6-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-6-b",
+            "Path": "exoplanet_details/hats-6-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-6_b"
+    }
+}

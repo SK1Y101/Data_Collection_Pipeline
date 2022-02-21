@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-8 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.28 Jupiters, it takes 3.1 days to complete one orbit of its star, and is 0.04496 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.0",
+    "Id": "hat-p-8-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1224/hat-p-8-b/",
+    "Mass": "1.28 Jupiters",
+    "Name": "hat-p-8-b",
+    "Orbital Period": "3.1 days",
+    "Orbital Radius": "0.04496 AU",
+    "Planet Radius": "1.4 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "82fe3202-8d4a-4d99-b212-8738e7bdad5b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-8-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-8-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-8-b",
+            "Path": "exoplanet_details/hat-p-8-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-8_b"
+    }
+}

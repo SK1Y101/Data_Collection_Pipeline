@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-1 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.525 Jupiters, it takes 4.5 days to complete one orbit of its star, and is 0.05561 AU from its star. Its discovery was announced in 2006.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2006",
+    "Eccentricity": "0.0",
+    "Id": "hat-p-1-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5210/hat-p-1-b/",
+    "Mass": "0.525 Jupiters",
+    "Name": "hat-p-1-b",
+    "Orbital Period": "4.5 days",
+    "Orbital Radius": "0.05561 AU",
+    "Planet Radius": "1.319 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "af746b4b-3e86-49b3-8f6f-3d1f1bb00648",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-1-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-1-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-1-b",
+            "Path": "exoplanet_details/hat-p-1-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-1_b"
+    }
+}

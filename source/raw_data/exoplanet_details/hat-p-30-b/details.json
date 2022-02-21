@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-30 b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.83 Jupiters, it takes 2.8 days to complete one orbit of its star, and is 0.0419 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.04",
+    "Id": "hat-p-30-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1352/hat-p-30-b/",
+    "Mass": "0.83 Jupiters",
+    "Name": "hat-p-30-b",
+    "Orbital Period": "2.8 days",
+    "Orbital Radius": "0.0419 AU",
+    "Planet Radius": "1.44 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b216b99c-49e5-4d93-a850-8f87e680ad87",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-30-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-30-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-30-b",
+            "Path": "exoplanet_details/hat-p-30-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-30_b"
+    }
+}

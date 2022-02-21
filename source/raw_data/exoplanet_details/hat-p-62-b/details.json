@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-62 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.761 Jupiters, it takes 2.6 days to complete one orbit of its star, and is 0.03772 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "< 0.101",
+    "Id": "hat-p-62-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7916/hat-p-62-b/",
+    "Mass": "0.761 Jupiters",
+    "Name": "hat-p-62-b",
+    "Orbital Period": "2.6 days",
+    "Orbital Radius": "0.03772 AU",
+    "Planet Radius": "1.073 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f40bc761-c73e-46c2-9138-fa71102c6a41",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-62-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-62-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-62-b",
+            "Path": "exoplanet_details/hat-p-62-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-62_b"
+    }
+}

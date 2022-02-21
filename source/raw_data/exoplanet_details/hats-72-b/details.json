@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-72 b is a gas giant exoplanet that orbits a K-type star. Its mass is 39.85588 Earths, it takes 7.3 days to complete one orbit of its star, and is 0.066517 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "< 0.013",
+    "Id": "hats-72-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7597/hats-72-b/",
+    "Mass": "39.85588 Earths",
+    "Name": "hats-72-b",
+    "Orbital Period": "7.3 days",
+    "Orbital Radius": "0.066517 AU",
+    "Planet Radius": "0.722 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "dad96870-3c26-4b88-849b-6d1077eda39f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-72-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-72-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-72-b",
+            "Path": "exoplanet_details/hats-72-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-72_b"
+    }
+}

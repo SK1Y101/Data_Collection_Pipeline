@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-59 c is a gas giant exoplanet that orbits a G-type star. Its mass is 12.7 Jupiters, it takes 3.9 years to complete one orbit of its star, and is 2.504 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "< 0.083",
+    "Id": "hats-59-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6427/hats-59-c/",
+    "Mass": "12.7 Jupiters",
+    "Name": "hats-59-c",
+    "Orbital Period": "3.9 years",
+    "Orbital Radius": "2.504 AU",
+    "Planet Radius": "1.1 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "1e08e69e-4d88-4a6d-bb30-27b812d33697",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-59-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-59-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-59-c",
+            "Path": "exoplanet_details/hats-59-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-59_c"
+    }
+}

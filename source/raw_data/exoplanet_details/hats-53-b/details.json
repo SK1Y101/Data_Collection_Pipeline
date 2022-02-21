@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-53 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.595 Jupiters, it takes 3.9 days to complete one orbit of its star, and is 0.04753 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "< 0.33",
+    "Id": "hats-53-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6141/hats-53-b/",
+    "Mass": "0.595 Jupiters",
+    "Name": "hats-53-b",
+    "Orbital Period": "3.9 days",
+    "Orbital Radius": "0.04753 AU",
+    "Planet Radius": "1.34 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6c891d2c-9909-4754-b99f-7a9c9340f8aa",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-53-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-53-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-53-b",
+            "Path": "exoplanet_details/hats-53-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-53_b"
+    }
+}

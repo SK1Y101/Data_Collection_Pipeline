@@ -8,6 +8,11 @@ Used in your project: Any website you want!
 
 # File structure
 `Repo/`<br>
+├ `Tests/`<br>
+│  ├ `Individual_tests/`<br>
+│  │  └ `A file for each individual test`<br>
+│  ├ `full_test.py`<br>
+│  └ `README.md for the Testing area`<br>
 ├ `source/`<br>
 │  ├ `raw_data/`<br>
 │  │  ├ `exoplanet_details/`<br>

@@ -26,6 +26,7 @@ class Scraper:
         self.driver.maximize_window()
         self.actions = ActionChains(self.driver)
         self.filedir = ""
+        return True
     
     # find multiple elements that match an xpath thingy
     def findAll(self, tagName="*", attribute=None, value=None, source=None):

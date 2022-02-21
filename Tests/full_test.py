@@ -1,0 +1,1 @@
+# Execute all unit tests for the scraper method

@@ -1,0 +1,30 @@
+{
+    "Description": "HATS-75 b is a gas giant exoplanet that orbits an M-type star. Its mass is 0.491 Jupiters, it takes 2.8 days to complete one orbit of its star, and is 0.032742 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "< 0.064",
+    "Id": "hats-75-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8355/hats-75-b/",
+    "Mass": "0.491 Jupiters",
+    "Name": "hats-75-b",
+    "Orbital Period": "2.8 days",
+    "Orbital Radius": "0.032742 AU",
+    "Planet Radius": "0.884 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "9e2a64b6-9e6a-4f46-b6c3-ba22f6af592c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-75-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-75-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-75-b",
+            "Path": "exoplanet_details/hats-75-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-75_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HAT-P-63 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.614 Jupiters, it takes 3.4 days to complete one orbit of its star, and is 0.04294 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "< 0.069",
+    "Id": "hat-p-63-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7917/hat-p-63-b/",
+    "Mass": "0.614 Jupiters",
+    "Name": "hat-p-63-b",
+    "Orbital Period": "3.4 days",
+    "Orbital Radius": "0.04294 AU",
+    "Planet Radius": "1.119 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "79b3073f-d225-4f30-a6ca-6af6252ebcc1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-63-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-63-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-63-b",
+            "Path": "exoplanet_details/hat-p-63-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-63_b"
+    }
+}
