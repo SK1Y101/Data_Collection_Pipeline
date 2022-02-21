@@ -1,0 +1,30 @@
+{
+    "Description": "HD 39855 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.5 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.041 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.14",
+    "Id": "hd-39855-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7373/hd-39855-b/",
+    "Mass": "8.5 Earths",
+    "Name": "hd-39855-b",
+    "Orbital Period": "3.2 days",
+    "Orbital Radius": "0.041 AU",
+    "Planet Radius": "0.254 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "8343c770-d50f-42fe-a091-a11d0a3f9b53",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-39855-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-39855-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-39855-b",
+            "Path": "exoplanet_details/hd-39855-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_39855_b"
+    }
+}

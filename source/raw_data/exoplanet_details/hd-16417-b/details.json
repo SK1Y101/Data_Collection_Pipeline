@@ -1,0 +1,30 @@
+{
+    "Description": "HD 16417 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 22.1 Earths, it takes 17.2 days to complete one orbit of its star, and is 0.14 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.2",
+    "Id": "hd-16417-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6585/hd-16417-b/",
+    "Mass": "22.1 Earths",
+    "Name": "hd-16417-b",
+    "Orbital Period": "17.2 days",
+    "Orbital Radius": "0.14 AU",
+    "Planet Radius": "0.446 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "ae5ee034-f5db-4e76-8100-e4d7063ba8d3",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-16417-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-16417-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-16417-b",
+            "Path": "exoplanet_details/hd-16417-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_16417_b"
+    }
+}

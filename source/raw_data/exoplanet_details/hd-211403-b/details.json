@@ -1,0 +1,30 @@
+{
+    "Description": "HD 211403 b is a gas giant exoplanet that orbits an F-type star. Its mass is 5.54 Jupiters, it takes 223.8 days to complete one orbit of its star, and is 0.768 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.08",
+    "Id": "hd-211403-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7927/hd-211403-b/",
+    "Mass": "5.54 Jupiters",
+    "Name": "hd-211403-b",
+    "Orbital Period": "223.8 days",
+    "Orbital Radius": "0.768 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "af9faae5-7ae6-4927-8bc3-76b693b6b889",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-211403-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-211403-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-211403-b",
+            "Path": "exoplanet_details/hd-211403-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_211403_b"
+    }
+}

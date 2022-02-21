@@ -1,0 +1,30 @@
+{
+    "Description": "HD 40307 f is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.2 Earths, it takes 51.8 days to complete one orbit of its star, and is 0.247 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.02",
+    "Id": "hd-40307-f",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6631/hd-40307-f/",
+    "Mass": "5.2 Earths",
+    "Name": "hd-40307-f",
+    "Orbital Period": "51.8 days",
+    "Orbital Radius": "0.247 AU",
+    "Planet Radius": "2.13 x Earth (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "1daeaa70-322d-4a54-9ac8-9b8d6def0d28",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-40307-f/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-40307-f/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-40307-f",
+            "Path": "exoplanet_details/hd-40307-f/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_40307_f"
+    }
+}

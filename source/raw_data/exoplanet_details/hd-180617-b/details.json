@@ -1,0 +1,30 @@
+{
+    "Description": "HD 180617 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 12.214 Earths, it takes 105.9 days to complete one orbit of its star, and is 0.343 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.1",
+    "Id": "hd-180617-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7407/hd-180617-b/",
+    "Mass": "12.214 Earths",
+    "Name": "hd-180617-b",
+    "Orbital Period": "105.9 days",
+    "Orbital Radius": "0.343 AU",
+    "Planet Radius": "0.315 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "769617bd-6717-4473-b8cc-5526eef96dc9",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-180617-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-180617-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-180617-b",
+            "Path": "exoplanet_details/hd-180617-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_180617_b"
+    }
+}

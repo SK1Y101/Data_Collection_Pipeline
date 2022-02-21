@@ -1,0 +1,30 @@
+{
+    "Description": "HD 28185 b is a gas giant exoplanet that orbits a G-type star. Its mass is 5.9 Jupiters, it takes 379 days to complete one orbit of its star, and is 1.02 AU from its star. Its discovery was announced in 2001.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2001",
+    "Eccentricity": "0.05",
+    "Id": "hd-28185-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6606/hd-28185-b/",
+    "Mass": "5.9 Jupiters",
+    "Name": "hd-28185-b",
+    "Orbital Period": "379 days",
+    "Orbital Radius": "1.02 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a5be3e6e-aac4-4159-96f8-223a9e302a86",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-28185-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-28185-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-28185-b",
+            "Path": "exoplanet_details/hd-28185-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_28185_b"
+    }
+}

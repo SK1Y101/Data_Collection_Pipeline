@@ -1,0 +1,30 @@
+{
+    "Description": "HD 40979 b is a gas giant exoplanet that orbits an F-type star. Its mass is 4.67 Jupiters, it takes 264.1 days to complete one orbit of its star, and is 0.85 AU from its star. Its discovery was announced in 2002.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2002",
+    "Eccentricity": "0.25",
+    "Id": "hd-40979-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6633/hd-40979-b/",
+    "Mass": "4.67 Jupiters",
+    "Name": "hd-40979-b",
+    "Orbital Period": "264.1 days",
+    "Orbital Radius": "0.85 AU",
+    "Planet Radius": "1.15 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "dbfe3fff-abad-42d7-a4b3-64031eb91504",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-40979-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-40979-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-40979-b",
+            "Path": "exoplanet_details/hd-40979-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_40979_b"
+    }
+}

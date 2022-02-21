@@ -1,0 +1,30 @@
+{
+    "Description": "HD 112640 b is a gas giant exoplanet that orbits a K-type star. Its mass is 5 Jupiters, it takes 1.7 years to complete one orbit of its star, and is 1.7 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.24",
+    "Id": "hd-112640-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7847/hd-112640-b/",
+    "Mass": "5 Jupiters",
+    "Name": "hd-112640-b",
+    "Orbital Period": "1.7 years",
+    "Orbital Radius": "1.7 AU",
+    "Planet Radius": "1.15 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f4b2c80d-7a88-4646-a247-a14c60d49fa1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-112640-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-112640-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-112640-b",
+            "Path": "exoplanet_details/hd-112640-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_112640_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 42618 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 14.4 Earths, it takes 149.6 days to complete one orbit of its star, and is 0.554 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.19",
+    "Id": "hd-42618-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7244/hd-42618-b/",
+    "Mass": "14.4 Earths",
+    "Name": "hd-42618-b",
+    "Orbital Period": "149.6 days",
+    "Orbital Radius": "0.554 AU",
+    "Planet Radius": "0.347 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "bbeed6ce-03df-4262-b98a-09bf72557524",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-42618-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-42618-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-42618-b",
+            "Path": "exoplanet_details/hd-42618-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_42618_b"
+    }
+}

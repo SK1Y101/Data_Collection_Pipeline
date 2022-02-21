@@ -1,0 +1,30 @@
+{
+    "Description": "HD 40307 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.0468 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.2",
+    "Id": "hd-40307-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6628/hd-40307-b/",
+    "Mass": "4 Earths",
+    "Name": "hd-40307-b",
+    "Orbital Period": "4.3 days",
+    "Orbital Radius": "0.0468 AU",
+    "Planet Radius": "1.83 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "2574eb90-cf24-468d-8ce7-8517475ccdc3",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-40307-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-40307-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-40307-b",
+            "Path": "exoplanet_details/hd-40307-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_40307_b"
+    }
+}

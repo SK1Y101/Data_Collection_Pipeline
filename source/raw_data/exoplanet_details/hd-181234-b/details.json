@@ -1,0 +1,30 @@
+{
+    "Description": "HD 181234 b is a gas giant exoplanet that orbits a G-type star. Its mass is 8.37 Jupiters, it takes 20.4 years to complete one orbit of its star, and is 7.52 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.73",
+    "Id": "hd-181234-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7340/hd-181234-b/",
+    "Mass": "8.37 Jupiters",
+    "Name": "hd-181234-b",
+    "Orbital Period": "20.4 years",
+    "Orbital Radius": "7.52 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "bb5d52c5-f80f-4028-8a31-17e9975d8041",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-181234-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-181234-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-181234-b",
+            "Path": "exoplanet_details/hd-181234-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_181234_b"
+    }
+}

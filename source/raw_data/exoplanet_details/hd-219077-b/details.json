@@ -1,0 +1,30 @@
+{
+    "Description": "HD 219077 b is a gas giant exoplanet that orbits a G-type star. Its mass is 10.39 Jupiters, it takes 15.1 years to complete one orbit of its star, and is 6.22 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.77",
+    "Id": "hd-219077-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6837/hd-219077-b/",
+    "Mass": "10.39 Jupiters",
+    "Name": "hd-219077-b",
+    "Orbital Period": "15.1 years",
+    "Orbital Radius": "6.22 AU",
+    "Planet Radius": "1.11 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3da35068-eec0-435a-be43-e76effef2dd8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-219077-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-219077-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-219077-b",
+            "Path": "exoplanet_details/hd-219077-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_219077_b"
+    }
+}

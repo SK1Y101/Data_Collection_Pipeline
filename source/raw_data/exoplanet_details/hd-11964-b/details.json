@@ -1,0 +1,30 @@
+{
+    "Description": "HD 11964 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.622 Jupiters, it takes 5.3 years to complete one orbit of its star, and is 3.16 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.04",
+    "Id": "hd-11964-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6575/hd-11964-b/",
+    "Mass": "0.622 Jupiters",
+    "Name": "hd-11964-b",
+    "Orbital Period": "5.3 years",
+    "Orbital Radius": "3.16 AU",
+    "Planet Radius": "1.26 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f8b06a06-51b9-4aad-96ef-e0d57ca60843",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-11964-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-11964-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-11964-b",
+            "Path": "exoplanet_details/hd-11964-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_11964_b"
+    }
+}

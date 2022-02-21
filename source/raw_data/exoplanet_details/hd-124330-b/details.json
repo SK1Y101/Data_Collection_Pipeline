@@ -1,0 +1,30 @@
+{
+    "Description": "HD 124330 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.75 Jupiters, it takes 270.7 days to complete one orbit of its star, and is 0.86 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.34",
+    "Id": "hd-124330-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7870/hd-124330-b/",
+    "Mass": "0.75 Jupiters",
+    "Name": "hd-124330-b",
+    "Orbital Period": "270.7 days",
+    "Orbital Radius": "0.86 AU",
+    "Planet Radius": "1.25 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a1c66402-5084-4efa-bcd9-98ceeeae9271",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-124330-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-124330-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-124330-b",
+            "Path": "exoplanet_details/hd-124330-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_124330_b"
+    }
+}

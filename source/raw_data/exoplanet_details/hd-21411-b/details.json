@@ -1,0 +1,30 @@
+{
+    "Description": "HD 21411 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.20734 Jupiters, it takes 84.3 days to complete one orbit of its star, and is 0.362 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.4",
+    "Id": "hd-21411-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7378/hd-21411-b/",
+    "Mass": "0.20734 Jupiters",
+    "Name": "hd-21411-b",
+    "Orbital Period": "84.3 days",
+    "Orbital Radius": "0.362 AU",
+    "Planet Radius": "0.85 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "1d66532f-06c9-42e6-99bb-047e11582166",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-21411-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-21411-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-21411-b",
+            "Path": "exoplanet_details/hd-21411-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_21411_b"
+    }
+}

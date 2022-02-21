@@ -1,0 +1,30 @@
+{
+    "Description": "HD 219666 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 16.6 Earths, it takes 6 days to complete one orbit of its star, and is 0.06356 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "hd-219666-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7285/hd-219666-b/",
+    "Mass": "16.6 Earths",
+    "Name": "hd-219666-b",
+    "Orbital Period": "6 days",
+    "Orbital Radius": "0.06356 AU",
+    "Planet Radius": "0.42 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "49b8043c-4eda-4d1f-9edd-9b89fb43e39d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-219666-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-219666-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-219666-b",
+            "Path": "exoplanet_details/hd-219666-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_219666_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 175541 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.598 Jupiters, it takes 298.4 days to complete one orbit of its star, and is 0.975 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.11",
+    "Id": "hd-175541-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6982/hd-175541-b/",
+    "Mass": "0.598 Jupiters",
+    "Name": "hd-175541-b",
+    "Orbital Period": "298.4 days",
+    "Orbital Radius": "0.975 AU",
+    "Planet Radius": "1.26 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6cc6c49a-8ea6-4d9b-afb1-dd895a02af86",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-175541-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-175541-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-175541-b",
+            "Path": "exoplanet_details/hd-175541-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_175541_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 40307 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.6 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.0799 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.06",
+    "Id": "hd-40307-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6629/hd-40307-c/",
+    "Mass": "6.6 Earths",
+    "Name": "hd-40307-c",
+    "Orbital Period": "9.6 days",
+    "Orbital Radius": "0.0799 AU",
+    "Planet Radius": "0.219 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "4e4a21d0-5173-460e-951b-bfff4ba6d6bd",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-40307-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-40307-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-40307-c",
+            "Path": "exoplanet_details/hd-40307-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_40307_c"
+    }
+}

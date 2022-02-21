@@ -1,0 +1,30 @@
+{
+    "Description": "HD 126525 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.237 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 1.837 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.04",
+    "Id": "hd-126525-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7421/hd-126525-b/",
+    "Mass": "0.237 Jupiters",
+    "Name": "hd-126525-b",
+    "Orbital Period": "2.6 years",
+    "Orbital Radius": "1.837 AU",
+    "Planet Radius": "0.919 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b19f7ef7-ace4-4146-a0ff-d347557d8357",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-126525-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-126525-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-126525-b",
+            "Path": "exoplanet_details/hd-126525-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_126525_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 13808 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 11.2 Earths, it takes 14.2 days to complete one orbit of its star, and is 0.10519 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.07",
+    "Id": "hd-13808-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7825/hd-13808-b/",
+    "Mass": "11.2 Earths",
+    "Name": "hd-13808-b",
+    "Orbital Period": "14.2 days",
+    "Orbital Radius": "0.10519 AU",
+    "Planet Radius": "0.299 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "4f53ff1f-ab4b-49f5-959a-a95878c49913",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-13808-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-13808-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-13808-b",
+            "Path": "exoplanet_details/hd-13808-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_13808_b"
+    }
+}

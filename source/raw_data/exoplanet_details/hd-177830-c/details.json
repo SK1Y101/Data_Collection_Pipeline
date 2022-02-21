@@ -1,0 +1,30 @@
+{
+    "Description": "HD 177830 c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.15 Jupiters, it takes 110.9 days to complete one orbit of its star, and is 0.5137 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.3",
+    "Id": "hd-177830-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6984/hd-177830-c/",
+    "Mass": "0.15 Jupiters",
+    "Name": "hd-177830-c",
+    "Orbital Period": "110.9 days",
+    "Orbital Radius": "0.5137 AU",
+    "Planet Radius": "0.702 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "c3c45e33-a556-4c5b-a303-c5cbd27a5df4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-177830-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-177830-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-177830-c",
+            "Path": "exoplanet_details/hd-177830-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_177830_c"
+    }
+}

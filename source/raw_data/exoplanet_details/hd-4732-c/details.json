@@ -1,0 +1,30 @@
+{
+    "Description": "HD 4732 c is a gas giant exoplanet that orbits a K-type star. Its mass is 2.37 Jupiters, it takes 7.5 years to complete one orbit of its star, and is 4.6 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.23",
+    "Id": "hd-4732-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6789/hd-4732-c/",
+    "Mass": "2.37 Jupiters",
+    "Name": "hd-4732-c",
+    "Orbital Period": "7.5 years",
+    "Orbital Radius": "4.6 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "20431dc9-d56f-48bc-8fc9-7f7671eb9481",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-4732-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-4732-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-4732-c",
+            "Path": "exoplanet_details/hd-4732-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_4732_c"
+    }
+}

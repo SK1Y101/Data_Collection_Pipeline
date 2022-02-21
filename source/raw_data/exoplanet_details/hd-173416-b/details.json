@@ -1,0 +1,30 @@
+{
+    "Description": "HD 173416 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.7 Jupiters, it takes 323.6 days to complete one orbit of its star, and is 1.16 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.21",
+    "Id": "hd-173416-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6980/hd-173416-b/",
+    "Mass": "2.7 Jupiters",
+    "Name": "hd-173416-b",
+    "Orbital Period": "323.6 days",
+    "Orbital Radius": "1.16 AU",
+    "Planet Radius": "1.18 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "eda4fc5c-61f2-4636-965d-2e62c067a326",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-173416-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-173416-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-173416-b",
+            "Path": "exoplanet_details/hd-173416-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_173416_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 159243 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.13 Jupiters, it takes 12.6 days to complete one orbit of its star, and is 0.11 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.02",
+    "Id": "hd-159243-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6956/hd-159243-b/",
+    "Mass": "1.13 Jupiters",
+    "Name": "hd-159243-b",
+    "Orbital Period": "12.6 days",
+    "Orbital Radius": "0.11 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "09ff4a9f-55c5-4d77-9a22-b294787533cc",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-159243-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-159243-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-159243-b",
+            "Path": "exoplanet_details/hd-159243-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_159243_b"
+    }
+}

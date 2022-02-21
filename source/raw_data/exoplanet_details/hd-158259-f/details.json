@@ -1,0 +1,30 @@
+{
+    "Description": "HD 158259 f is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.14 Earths and it takes 12 days to complete one orbit of its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "Id": "hd-158259-f",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7615/hd-158259-f/",
+    "Mass": "6.14 Earths",
+    "Name": "hd-158259-f",
+    "Orbital Period": "12 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.21 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d923c8ae-b800-4f1a-991a-fe9379b303a7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-158259-f/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-158259-f/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-158259-f",
+            "Path": "exoplanet_details/hd-158259-f/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_158259_f"
+    }
+}

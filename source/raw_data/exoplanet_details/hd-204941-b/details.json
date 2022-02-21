@@ -1,0 +1,30 @@
+{
+    "Description": "HD 204941 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.23 Jupiters, it takes 4.7 years to complete one orbit of its star, and is 2.55 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.37",
+    "Id": "hd-204941-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6895/hd-204941-b/",
+    "Mass": "0.23 Jupiters",
+    "Name": "hd-204941-b",
+    "Orbital Period": "4.7 years",
+    "Orbital Radius": "2.55 AU",
+    "Planet Radius": "0.903 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "dc8111d6-8e17-4d8b-ac48-0eeb4483ffe1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-204941-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-204941-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-204941-b",
+            "Path": "exoplanet_details/hd-204941-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_204941_b"
+    }
+}

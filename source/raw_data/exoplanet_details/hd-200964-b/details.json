@@ -1,0 +1,30 @@
+{
+    "Description": "HD 200964 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.599 Jupiters, it takes 1.7 years to complete one orbit of its star, and is 1.565 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.09",
+    "Id": "hd-200964-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6890/hd-200964-b/",
+    "Mass": "1.599 Jupiters",
+    "Name": "hd-200964-b",
+    "Orbital Period": "1.7 years",
+    "Orbital Radius": "1.565 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6033af06-7cec-4d61-9a32-ef48357247ee",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-200964-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-200964-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-200964-b",
+            "Path": "exoplanet_details/hd-200964-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_200964_b"
+    }
+}

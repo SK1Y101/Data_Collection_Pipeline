@@ -1,0 +1,30 @@
+{
+    "Description": "HD 13808 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 9.96 Earths, it takes 53.8 days to complete one orbit of its star, and is 0.2554 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.16",
+    "Id": "hd-13808-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7826/hd-13808-c/",
+    "Mass": "9.96 Earths",
+    "Name": "hd-13808-c",
+    "Orbital Period": "53.8 days",
+    "Orbital Radius": "0.2554 AU",
+    "Planet Radius": "0.279 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "c58c644d-9885-4a48-9c22-e278e3d7cf8c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-13808-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-13808-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-13808-c",
+            "Path": "exoplanet_details/hd-13808-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_13808_c"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 3765 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.173 Jupiters, it takes 3.3 years to complete one orbit of its star, and is 2.108 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.3",
+    "Id": "hd-3765-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7887/hd-3765-b/",
+    "Mass": "0.173 Jupiters",
+    "Name": "hd-3765-b",
+    "Orbital Period": "3.3 years",
+    "Orbital Radius": "2.108 AU",
+    "Planet Radius": "0.764 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "57a16ef2-7e38-4877-b46b-636b7e5ae8be",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-3765-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-3765-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-3765-b",
+            "Path": "exoplanet_details/hd-3765-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_3765_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 1605 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.934 Jupiters, it takes 1.6 years to complete one orbit of its star, and is 1.492 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.1",
+    "Id": "hd-1605-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6774/hd-1605-b/",
+    "Mass": "0.934 Jupiters",
+    "Name": "hd-1605-b",
+    "Orbital Period": "1.6 years",
+    "Orbital Radius": "1.492 AU",
+    "Planet Radius": "1.23 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8ee74377-b6a5-43ac-998c-a77bea2fc5d4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-1605-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-1605-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-1605-b",
+            "Path": "exoplanet_details/hd-1605-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_1605_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 132406 b is a gas giant exoplanet that orbits a G-type star. Its mass is 5.38 Jupiters, it takes 2.7 years to complete one orbit of its star, and is 1.98 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.34",
+    "Id": "hd-132406-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6768/hd-132406-b/",
+    "Mass": "5.38 Jupiters",
+    "Name": "hd-132406-b",
+    "Orbital Period": "2.7 years",
+    "Orbital Radius": "1.98 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "110e8e90-8861-46f8-b8c1-c3dcbad36cd8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-132406-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-132406-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-132406-b",
+            "Path": "exoplanet_details/hd-132406-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_132406_b"
+    }
+}

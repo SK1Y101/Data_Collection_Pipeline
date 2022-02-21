@@ -1,0 +1,30 @@
+{
+    "Description": "HD 20782 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.4878 Jupiters, it takes 1.6 years to complete one orbit of its star, and is 1.3649 AU from its star. Its discovery was announced in 2006.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2006",
+    "Eccentricity": "0.95",
+    "Id": "hd-20782-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6594/hd-20782-b/",
+    "Mass": "1.4878 Jupiters",
+    "Name": "hd-20782-b",
+    "Orbital Period": "1.6 years",
+    "Orbital Radius": "1.3649 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ea6b54f5-edcb-4c22-9d09-2c168d5dc8e2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-20782-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-20782-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-20782-b",
+            "Path": "exoplanet_details/hd-20782-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_20782_b"
+    }
+}

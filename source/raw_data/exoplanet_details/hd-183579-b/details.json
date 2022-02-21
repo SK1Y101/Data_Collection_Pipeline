@@ -1,0 +1,30 @@
+{
+    "Description": "HD 183579 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 19.7 Earths, it takes 17.5 days to complete one orbit of its star, and is 0.1334 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.28",
+    "Id": "hd-183579-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7829/hd-183579-b/",
+    "Mass": "19.7 Earths",
+    "Name": "hd-183579-b",
+    "Orbital Period": "17.5 days",
+    "Orbital Radius": "0.1334 AU",
+    "Planet Radius": "0.317 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "1e871bf4-9ea8-48df-9b38-cf637a149a51",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-183579-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-183579-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-183579-b",
+            "Path": "exoplanet_details/hd-183579-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_183579_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 34445 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 30.7 Earths, it takes 117.9 days to complete one orbit of its star, and is 0.4817 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.03",
+    "Id": "hd-34445-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7186/hd-34445-d/",
+    "Mass": "30.7 Earths",
+    "Name": "hd-34445-d",
+    "Orbital Period": "117.9 days",
+    "Orbital Radius": "0.4817 AU",
+    "Planet Radius": "0.542 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "793348e2-27c7-4964-8a5f-2bf761ac5813",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-34445-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-34445-d/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-34445-d",
+            "Path": "exoplanet_details/hd-34445-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_34445_d"
+    }
+}

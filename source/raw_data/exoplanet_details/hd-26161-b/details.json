@@ -1,0 +1,30 @@
+{
+    "Description": "HD 26161 b is a gas giant exoplanet that orbits an F-type star. Its mass is 13.5 Jupiters, it takes 87.7 years to complete one orbit of its star, and is 20.4 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.82",
+    "Id": "hd-26161-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7886/hd-26161-b/",
+    "Mass": "13.5 Jupiters",
+    "Name": "hd-26161-b",
+    "Orbital Period": "87.7 years",
+    "Orbital Radius": "20.4 AU",
+    "Planet Radius": "1.1 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d08d5e32-1c9d-40be-afe2-63a720396f3b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-26161-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-26161-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-26161-b",
+            "Path": "exoplanet_details/hd-26161-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_26161_b"
+    }
+}

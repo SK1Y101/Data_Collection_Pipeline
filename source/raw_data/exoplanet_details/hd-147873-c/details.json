@@ -1,0 +1,30 @@
+{
+    "Description": "HD 147873 c is a gas giant exoplanet that orbits a G-type star. Its mass is 2.3 Jupiters, it takes 491.5 days to complete one orbit of its star, and is 1.36 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.23",
+    "Id": "hd-147873-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7236/hd-147873-c/",
+    "Mass": "2.3 Jupiters",
+    "Name": "hd-147873-c",
+    "Orbital Period": "491.5 days",
+    "Orbital Radius": "1.36 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7170c5ba-ab1a-4ee8-8343-97c576b78462",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-147873-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-147873-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-147873-c",
+            "Path": "exoplanet_details/hd-147873-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_147873_c"
+    }
+}

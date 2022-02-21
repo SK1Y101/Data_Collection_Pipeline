@@ -1,0 +1,30 @@
+{
+    "Description": "HD 39091 b is a gas giant exoplanet that orbits an F-type star. Its mass is 12.9 Jupiters, it takes 5.7 years to complete one orbit of its star, and is 3.1 AU from its star. Its discovery was announced in 2001.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2001",
+    "Eccentricity": "0.64",
+    "Id": "hd-39091-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6627/hd-39091-b/",
+    "Mass": "12.9 Jupiters",
+    "Name": "hd-39091-b",
+    "Orbital Period": "5.7 years",
+    "Orbital Radius": "3.1 AU",
+    "Planet Radius": "1.1 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a0e675a0-8791-4a8c-92be-ade732a89737",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-39091-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-39091-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-39091-b",
+            "Path": "exoplanet_details/hd-39091-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_39091_b"
+    }
+}

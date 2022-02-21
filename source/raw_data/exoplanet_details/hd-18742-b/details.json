@@ -1,0 +1,30 @@
+{
+    "Description": "HD 18742 b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.4 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 1.82 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.04",
+    "Id": "hd-18742-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6589/hd-18742-b/",
+    "Mass": "3.4 Jupiters",
+    "Name": "hd-18742-b",
+    "Orbital Period": "2.1 years",
+    "Orbital Radius": "1.82 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a924e798-f50a-4491-9e42-8a5e622511df",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-18742-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-18742-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-18742-b",
+            "Path": "exoplanet_details/hd-18742-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_18742_b"
+    }
+}

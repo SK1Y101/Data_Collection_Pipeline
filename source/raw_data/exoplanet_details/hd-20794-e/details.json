@@ -1,0 +1,30 @@
+{
+    "Description": "HD 20794 e is a super Earth exoplanet that orbits a G-type star. Its mass is 4.77 Earths, it takes 147 days to complete one orbit of its star, and is 0.509 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.29",
+    "Id": "hd-20794-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7199/hd-20794-e/",
+    "Mass": "4.77 Earths",
+    "Name": "hd-20794-e",
+    "Orbital Period": "147 days",
+    "Orbital Radius": "0.509 AU",
+    "Planet Radius": "2.03 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "fd7f7d7b-36e3-4d8c-b34a-5ac4c41ce55d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-20794-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-20794-e/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-20794-e",
+            "Path": "exoplanet_details/hd-20794-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_20794_e"
+    }
+}

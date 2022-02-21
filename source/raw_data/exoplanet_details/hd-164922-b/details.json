@@ -1,0 +1,30 @@
+{
+    "Description": "HD 164922 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.36497 Jupiters, it takes 3.3 years to complete one orbit of its star, and is 2.16 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.08",
+    "Id": "hd-164922-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6968/hd-164922-b/",
+    "Mass": "0.36497 Jupiters",
+    "Name": "hd-164922-b",
+    "Orbital Period": "3.3 years",
+    "Orbital Radius": "2.16 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ed5aed37-d637-436f-9fec-fa962e554e83",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-164922-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-164922-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-164922-b",
+            "Path": "exoplanet_details/hd-164922-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_164922_b"
+    }
+}

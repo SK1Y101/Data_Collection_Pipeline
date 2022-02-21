@@ -1,0 +1,30 @@
+{
+    "Description": "HD 196050 b is a gas giant exoplanet that orbits a G-type star. Its mass is 3.18 Jupiters, it takes 3.8 years to complete one orbit of its star, and is 2.51 AU from its star. Its discovery was announced in 2002.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2002",
+    "Eccentricity": "0.23",
+    "Id": "hd-196050-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6886/hd-196050-b/",
+    "Mass": "3.18 Jupiters",
+    "Name": "hd-196050-b",
+    "Orbital Period": "3.8 years",
+    "Orbital Radius": "2.51 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "966f82c4-fe7a-40de-90da-0c012219e306",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-196050-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-196050-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-196050-b",
+            "Path": "exoplanet_details/hd-196050-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_196050_b"
+    }
+}

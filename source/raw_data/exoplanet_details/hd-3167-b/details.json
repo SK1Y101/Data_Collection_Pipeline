@@ -1,0 +1,30 @@
+{
+    "Description": "HD 3167 b is a super Earth exoplanet that orbits a G-type star. Its mass is 5.02 Earths, it takes 1 days to complete one orbit of its star, and is 0.0186 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "hd-3167-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7224/hd-3167-b/",
+    "Mass": "5.02 Earths",
+    "Name": "hd-3167-b",
+    "Orbital Period": "1 days",
+    "Orbital Radius": "0.0186 AU",
+    "Planet Radius": "1.7 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "1fd2d392-39a8-4924-b67d-5703cbb90f9a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-3167-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-3167-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-3167-b",
+            "Path": "exoplanet_details/hd-3167-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_3167_b"
+    }
+}

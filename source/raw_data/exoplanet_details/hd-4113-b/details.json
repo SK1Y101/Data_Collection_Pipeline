@@ -1,0 +1,30 @@
+{
+    "Description": "HD 4113 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.56 Jupiters, it takes 1.4 years to complete one orbit of its star, and is 1.28 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.9",
+    "Id": "hd-4113-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6782/hd-4113-b/",
+    "Mass": "1.56 Jupiters",
+    "Name": "hd-4113-b",
+    "Orbital Period": "1.4 years",
+    "Orbital Radius": "1.28 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "954f7752-4912-465a-9d0a-a347ed19c2fb",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-4113-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-4113-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-4113-b",
+            "Path": "exoplanet_details/hd-4113-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_4113_b"
+    }
+}

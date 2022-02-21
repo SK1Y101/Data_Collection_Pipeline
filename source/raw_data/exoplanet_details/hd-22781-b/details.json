@@ -1,0 +1,30 @@
+{
+    "Description": "HD 22781 b is a gas giant exoplanet that orbits a K-type star. Its mass is 13.65 Jupiters, it takes 1.4 years to complete one orbit of its star, and is 1.167 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.82",
+    "Id": "hd-22781-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6598/hd-22781-b/",
+    "Mass": "13.65 Jupiters",
+    "Name": "hd-22781-b",
+    "Orbital Period": "1.4 years",
+    "Orbital Radius": "1.167 AU",
+    "Planet Radius": "1.1 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "5df7e9c6-b231-42bf-b0c1-1e4c92fc59ba",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-22781-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-22781-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-22781-b",
+            "Path": "exoplanet_details/hd-22781-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_22781_b"
+    }
+}

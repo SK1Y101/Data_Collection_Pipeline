@@ -1,0 +1,30 @@
+{
+    "Description": "HD 166724 b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.53 Jupiters, it takes 14.1 years to complete one orbit of its star, and is 5.42 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.73",
+    "Id": "hd-166724-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6970/hd-166724-b/",
+    "Mass": "3.53 Jupiters",
+    "Name": "hd-166724-b",
+    "Orbital Period": "14.1 years",
+    "Orbital Radius": "5.42 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "11a73e2a-68a3-4441-b42c-3aca7407c310",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-166724-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-166724-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-166724-b",
+            "Path": "exoplanet_details/hd-166724-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_166724_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 156668 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 31.4968 Earths, it takes 2.2 years to complete one orbit of its star, and is 1.57 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.09",
+    "Id": "hd-156668-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7881/hd-156668-c/",
+    "Mass": "31.4968 Earths",
+    "Name": "hd-156668-c",
+    "Orbital Period": "2.2 years",
+    "Orbital Radius": "1.57 AU",
+    "Planet Radius": "0.55 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "8aea8875-a2c0-4b79-bf7c-2923ad3cbad4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-156668-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-156668-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-156668-c",
+            "Path": "exoplanet_details/hd-156668-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_156668_c"
+    }
+}

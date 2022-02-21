@@ -1,0 +1,30 @@
+{
+    "Description": "HD 208897 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.4 Jupiters, it takes 352.7 days to complete one orbit of its star, and is 1.05 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.07",
+    "Id": "hd-208897-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7185/hd-208897-b/",
+    "Mass": "1.4 Jupiters",
+    "Name": "hd-208897-b",
+    "Orbital Period": "352.7 days",
+    "Orbital Radius": "1.05 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "71583529-77bf-40ce-9916-170d9f080dd0",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-208897-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-208897-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-208897-b",
+            "Path": "exoplanet_details/hd-208897-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_208897_b"
+    }
+}

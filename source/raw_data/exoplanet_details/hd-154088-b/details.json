@@ -1,0 +1,30 @@
+{
+    "Description": "HD 154088 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.6 Earths, it takes 18.6 days to complete one orbit of its star, and is 0.134 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "< 0.344",
+    "Id": "hd-154088-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8037/hd-154088-b/",
+    "Mass": "6.6 Earths",
+    "Name": "hd-154088-b",
+    "Orbital Period": "18.6 days",
+    "Orbital Radius": "0.134 AU",
+    "Planet Radius": "0.219 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "0049db57-23f4-4f5d-ae2b-c450d9e544d6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-154088-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-154088-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-154088-b",
+            "Path": "exoplanet_details/hd-154088-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_154088_b"
+    }
+}

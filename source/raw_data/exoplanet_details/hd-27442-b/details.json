@@ -1,0 +1,30 @@
+{
+    "Description": "HD 27442 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.56 Jupiters, it takes 428.1 days to complete one orbit of its star, and is 1.271 AU from its star. Its discovery was announced in 2000.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2000",
+    "Eccentricity": "0.06",
+    "Id": "hd-27442-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6602/hd-27442-b/",
+    "Mass": "1.56 Jupiters",
+    "Name": "hd-27442-b",
+    "Orbital Period": "428.1 days",
+    "Orbital Radius": "1.271 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d26ca084-b576-4c71-a7e1-46bcea44393c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-27442-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-27442-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-27442-b",
+            "Path": "exoplanet_details/hd-27442-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_27442_b"
+    }
+}

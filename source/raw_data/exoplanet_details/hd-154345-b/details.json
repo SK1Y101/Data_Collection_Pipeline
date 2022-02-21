@@ -1,0 +1,30 @@
+{
+    "Description": "HD 154345 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.82 Jupiters, it takes 9.2 years to complete one orbit of its star, and is 4.21 AU from its star. Its discovery was announced in 2006.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2006",
+    "Eccentricity": "0.04",
+    "Id": "hd-154345-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6945/hd-154345-b/",
+    "Mass": "0.82 Jupiters",
+    "Name": "hd-154345-b",
+    "Orbital Period": "9.2 years",
+    "Orbital Radius": "4.21 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "9495b081-cf76-46cc-81a8-457f0b149a8b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-154345-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-154345-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-154345-b",
+            "Path": "exoplanet_details/hd-154345-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_154345_b"
+    }
+}

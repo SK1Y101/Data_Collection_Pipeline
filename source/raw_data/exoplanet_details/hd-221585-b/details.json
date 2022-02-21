@@ -1,0 +1,30 @@
+{
+    "Description": "HD 221585 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.61 Jupiters, it takes 3.2 years to complete one orbit of its star, and is 2.306 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.12",
+    "Id": "hd-221585-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7158/hd-221585-b/",
+    "Mass": "1.61 Jupiters",
+    "Name": "hd-221585-b",
+    "Orbital Period": "3.2 years",
+    "Orbital Radius": "2.306 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "781ffd7f-b8e0-4f33-86ca-3b448411cc68",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-221585-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-221585-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-221585-b",
+            "Path": "exoplanet_details/hd-221585-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_221585_b"
+    }
+}

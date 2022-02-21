@@ -1,0 +1,30 @@
+{
+    "Description": "HD 145457 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.23 Jupiters, it takes 176.3 days to complete one orbit of its star, and is 0.76 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.11",
+    "Id": "hd-145457-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6930/hd-145457-b/",
+    "Mass": "2.23 Jupiters",
+    "Name": "hd-145457-b",
+    "Orbital Period": "176.3 days",
+    "Orbital Radius": "0.76 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "a546f60e-bbbc-4c38-8fee-754fec67f828",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-145457-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-145457-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-145457-b",
+            "Path": "exoplanet_details/hd-145457-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_145457_b"
+    }
+}

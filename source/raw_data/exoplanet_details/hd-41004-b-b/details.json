@@ -1,0 +1,30 @@
+{
+    "Description": "HD 41004 B b is a gas giant exoplanet that orbits a K-type star. Its mass is 18.37 Jupiters and it takes 1.3 days to complete one orbit of its star. Its discovery was announced in 2003.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2003",
+    "Eccentricity": "0.08",
+    "Id": "hd-41004-b-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6635/hd-41004-b-b/",
+    "Mass": "18.37 Jupiters",
+    "Name": "hd-41004-b-b",
+    "Orbital Period": "1.3 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.08 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "dd52ca74-8d6b-46aa-a5ca-295e4865110d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-41004-b-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-41004-b-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-41004-b-b",
+            "Path": "exoplanet_details/hd-41004-b-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_41004_B_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "HD 164604 b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.99792 Jupiters, it takes 1.8 years to complete one orbit of its star, and is 1.331 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.35",
+    "Id": "hd-164604-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6969/hd-164604-b/",
+    "Mass": "1.99792 Jupiters",
+    "Name": "hd-164604-b",
+    "Orbital Period": "1.8 years",
+    "Orbital Radius": "1.331 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "75a15f93-131e-46d6-8212-b6f99a91cf37",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-164604-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-164604-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-164604-b",
+            "Path": "exoplanet_details/hd-164604-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_164604_b"
+    }
+}

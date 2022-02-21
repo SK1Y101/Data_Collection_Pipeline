@@ -1,0 +1,30 @@
+{
+    "Description": "HD 141937 b is a gas giant exoplanet that orbits a G-type star. Its mass is 9.69 Jupiters, it takes 1.8 years to complete one orbit of its star, and is 1.5 AU from its star. Its discovery was announced in 2002.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2002",
+    "Eccentricity": "0.41",
+    "Id": "hd-141937-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6926/hd-141937-b/",
+    "Mass": "9.69 Jupiters",
+    "Name": "hd-141937-b",
+    "Orbital Period": "1.8 years",
+    "Orbital Radius": "1.5 AU",
+    "Planet Radius": "1.11 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8318d6c8-5013-4a2e-971c-5be7bb2ff4ba",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-141937-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-141937-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-141937-b",
+            "Path": "exoplanet_details/hd-141937-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_141937_b"
+    }
+}

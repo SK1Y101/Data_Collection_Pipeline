@@ -1,0 +1,30 @@
+{
+    "Description": "HD 134060 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 10.1 Earths, it takes 3.3 days to complete one orbit of its star, and is 0.0444 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.45",
+    "Id": "hd-134060-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7318/hd-134060-b/",
+    "Mass": "10.1 Earths",
+    "Name": "hd-134060-b",
+    "Orbital Period": "3.3 days",
+    "Orbital Radius": "0.0444 AU",
+    "Planet Radius": "0.282 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "195e65e8-a6d1-4219-833c-aab79e59aec0",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-134060-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-134060-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-134060-b",
+            "Path": "exoplanet_details/hd-134060-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_134060_b"
+    }
+}

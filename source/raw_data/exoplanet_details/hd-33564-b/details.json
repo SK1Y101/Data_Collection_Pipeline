@@ -1,0 +1,30 @@
+{
+    "Description": "HD 33564 b is a gas giant exoplanet that orbits an F-type star. Its mass is 9.1 Jupiters, it takes 388 days to complete one orbit of its star, and is 1.1 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.34",
+    "Id": "hd-33564-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6616/hd-33564-b/",
+    "Mass": "9.1 Jupiters",
+    "Name": "hd-33564-b",
+    "Orbital Period": "388 days",
+    "Orbital Radius": "1.1 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "1ea644bc-853e-4b8b-8223-350b587c5646",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-33564-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-33564-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-33564-b",
+            "Path": "exoplanet_details/hd-33564-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_33564_b"
+    }
+}

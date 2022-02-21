@@ -1,0 +1,30 @@
+{
+    "Description": "HD 34445 g is a gas giant exoplanet that orbits a G-type star. Its mass is 0.38 Jupiters, it takes 15.6 years to complete one orbit of its star, and is 6.36 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.03",
+    "Id": "hd-34445-g",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7189/hd-34445-g/",
+    "Mass": "0.38 Jupiters",
+    "Name": "hd-34445-g",
+    "Orbital Period": "15.6 years",
+    "Orbital Radius": "6.36 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "be49b6e4-ce9d-4506-a862-05b2fa026cf1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-34445-g/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-34445-g/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-34445-g",
+            "Path": "exoplanet_details/hd-34445-g/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_34445_g"
+    }
+}

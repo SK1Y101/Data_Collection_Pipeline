@@ -1,0 +1,30 @@
+{
+    "Description": "HD 147018 c is a gas giant exoplanet that orbits a G-type star. Its mass is 6.56 Jupiters, it takes 2.8 years to complete one orbit of its star, and is 1.922 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.13",
+    "Id": "hd-147018-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6935/hd-147018-c/",
+    "Mass": "6.56 Jupiters",
+    "Name": "hd-147018-c",
+    "Orbital Period": "2.8 years",
+    "Orbital Radius": "1.922 AU",
+    "Planet Radius": "1.13 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "4b07d254-95ff-4d43-814d-451bbf475993",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-147018-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-147018-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-147018-c",
+            "Path": "exoplanet_details/hd-147018-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_147018_c"
+    }
+}

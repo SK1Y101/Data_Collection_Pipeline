@@ -1,0 +1,30 @@
+{
+    "Description": "HD 221416 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.19 Jupiters, it takes 14.3 days to complete one orbit of its star, and is 0.1228 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.12",
+    "Id": "hd-221416-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7351/hd-221416-b/",
+    "Mass": "0.19 Jupiters",
+    "Name": "hd-221416-b",
+    "Orbital Period": "14.3 days",
+    "Orbital Radius": "0.1228 AU",
+    "Planet Radius": "0.836 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "39346175-c592-45ca-a20b-a121609e96e6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-221416-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-221416-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-221416-b",
+            "Path": "exoplanet_details/hd-221416-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_221416_b"
+    }
+}

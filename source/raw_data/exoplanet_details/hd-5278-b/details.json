@@ -1,0 +1,30 @@
+{
+    "Description": "HD 5278 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 7.8 Earths, it takes 14.3 days to complete one orbit of its star, and is 0.1202 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.08",
+    "Id": "hd-5278-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7851/hd-5278-b/",
+    "Mass": "7.8 Earths",
+    "Name": "hd-5278-b",
+    "Orbital Period": "14.3 days",
+    "Orbital Radius": "0.1202 AU",
+    "Planet Radius": "0.219 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "b4468846-25a3-48f8-8abc-7bbe2e7a3cc7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-5278-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-5278-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-5278-b",
+            "Path": "exoplanet_details/hd-5278-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_5278_b"
+    }
+}

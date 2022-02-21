@@ -1,0 +1,30 @@
+{
+    "Description": "HD 32518 b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.04 Jupiters, it takes 157.5 days to complete one orbit of its star, and is 0.59 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.01",
+    "Id": "hd-32518-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6613/hd-32518-b/",
+    "Mass": "3.04 Jupiters",
+    "Name": "hd-32518-b",
+    "Orbital Period": "157.5 days",
+    "Orbital Radius": "0.59 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "4155e939-aa12-4862-8943-ce01d5e4ccd5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-32518-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-32518-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-32518-b",
+            "Path": "exoplanet_details/hd-32518-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_32518_b"
+    }
+}

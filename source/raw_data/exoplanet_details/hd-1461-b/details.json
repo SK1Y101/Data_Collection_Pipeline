@@ -1,0 +1,30 @@
+{
+    "Description": "HD 1461 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.44 Earths, it takes 5.8 days to complete one orbit of its star, and is 0.0634 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "< 0.172",
+    "Id": "hd-1461-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6772/hd-1461-b/",
+    "Mass": "6.44 Earths",
+    "Name": "hd-1461-b",
+    "Orbital Period": "5.8 days",
+    "Orbital Radius": "0.0634 AU",
+    "Planet Radius": "0.216 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "89baf01d-d31a-41a2-9dac-2b9039214a5a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-1461-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-1461-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-1461-b",
+            "Path": "exoplanet_details/hd-1461-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_1461_b"
+    }
+}
