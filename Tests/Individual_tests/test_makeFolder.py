@@ -13,8 +13,8 @@ except:
 # the folder to create
 folder = "Tests/Individual_tests/test_folder/"
 
-# create the unit testing class for the Scraper.navigate() function
-class TestScraperNavigation(unittest.TestCase):
+# create the unit testing class for the Scraper.makeFolder() function
+class TestScraperFolder(unittest.TestCase):
     # code to be executed when the unit test begins
     def setUp(self):
         self.scraper = Scraper()

@@ -188,7 +188,10 @@ class Scraper:
                     break
             # and now create all of the directories that didn't exist
             for y in range(x, len(dirs)):
-                os.mkdir("/".join(dirs[:y+1]))
+                try:
+                    os.mkdir("/".join(dirs[:y+1]))
+                except:
+                    pass
         # return the folder existing
         return os.path.exists(os.path.split(loc)[0])
 
@@ -205,15 +208,23 @@ class Scraper:
         # return the folder existing
         return os.path.exists(os.path.split(loc)[0])
     
+    # prepend the local storage
+    def __includeLocalStorage__(self, fileName, useLocalStorage=True):
+        # split by any "/" markers
+        fileName = fileName.split("/")
+        # prepend the filedir if found
+        if useLocalStorage and self.filedir:
+            fileName.insert(0, self.filedir)
+        # return the filename
+        return "/".join(fileName)
+    
     # take a screenshot of the page and save to a location
     def screenshot(self, fileName, useLocalStorage=True):
         ''' Take a screenshot of the current page.
             location: the filepath to store the screenshot in.
             useLocalStorage: Will prepend the local storage directory to the filename if set to true. '''
         # prepend if wanted
-        if useLocalStorage:
-            # ensure we don't have odouble slasshes by mistake
-            fileName = (self.filedir + "/" + fileName).replace("//", "/")
+        fileName = self.__includeLocalStorage__(fileName, useLocalStorage)
         # ensure the folder for this file exists
         self.makeFolder(fileName)
         # save this screenshot to the correct location
@@ -228,9 +239,7 @@ class Scraper:
             stale_time: The number of days this file should be younger than to not be considered stale.
             useLocalStorage: Will prepend the local storage directory to the filename if set to true. '''
         # prepend if wanted
-        if useLocalStorage:
-            # ensure we don't have odouble slasshes by mistake
-            fileName = (self.filedir + "/" + fileName).replace("//", "/")
+        fileName = self.__includeLocalStorage__(fileName, useLocalStorage)
         # return nothing if the file doesnt exist
         if not os.path.exists(fileName):
             return False
@@ -250,9 +259,7 @@ class Scraper:
         if not self.checkForFile(fileName, stale_time, useLocalStorage):
             return None
         # prepend if wanted
-        if useLocalStorage:
-            # ensure we don't have odouble slasshes by mistake
-            fileName = (self.filedir + "/" + fileName).replace("//", "/")
+        fileName = self.__includeLocalStorage__(fileName, useLocalStorage)
         # otherwise, load the JSON as a dict and return it
         with open(fileName, "r") as f:
             data = json.load(f)
@@ -266,9 +273,7 @@ class Scraper:
             data: the data to save
             useLocalStorage: Will prepend the local storage directory to the filename if set to true. '''
         # prepend if wanted
-        if useLocalStorage:
-            # ensure we don't have odouble slasshes by mistake
-            fileName = (self.filedir + "/" + fileName).replace("//", "/")
+        fileName = self.__includeLocalStorage__(fileName, useLocalStorage)
         # ensure the folder for this file exists
         self.makeFolder(fileName)
         # open the file

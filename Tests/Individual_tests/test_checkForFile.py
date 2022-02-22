@@ -14,8 +14,8 @@ except:
 thisFile = "Tests/Individual_tests/test_checkForFile.py"
 stale_time = 7
 
-# create the unit testing class for the Scraper.navigate() function
-class TestScraperNavigation(unittest.TestCase):
+# create the unit testing class for the Scraper.checkForFile() function
+class TestScraperFile(unittest.TestCase):
     # code to be executed when the unit test begins
     def setUp(self):
         self.scraper = Scraper()
@@ -36,6 +36,8 @@ class TestScraperNavigation(unittest.TestCase):
         print("The file {} and is{} stale".format("exists"*exists + "doesn't exist"*(not exists), "n't"*(not stale)))
         # now check we had the expected behaviour
         self.assertEqual(self.scraper.checkForFile(thisFile, stale_time, False), expectation)
+        # check that it fails if nothing is passed
+        self.assertRaises(TypeError, self.scraper.checkForFile)
 
 # if this is the top level code, run the single unit test
 if __name__ == '__main__':

@@ -31,4 +31,4 @@ Note: The public method `Scraper.close()` is required to cleanly shutdown the sc
 
 [ ] loadJSON
 
-[ ] saveJSON
+[x] saveJSON

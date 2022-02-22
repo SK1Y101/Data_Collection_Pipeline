@@ -27,6 +27,8 @@ class TestScraperNavigation(unittest.TestCase):
     def test_navigate(self):
         # ensure we were sent to the webpage
         self.assertEqual(self.scraper.navigate(test_url), test_url)
+        # ensure that it fails if nothinig is passed
+        self.assertRaises(TypeError, self.scraper.navigate)
 
 # if this is the top level code, run the single unit test
 if __name__ == '__main__':

@@ -14,8 +14,8 @@ except:
 test_url = "https://sk1y101.github.io/"
 scroll_amount = 0.4
 
-# create the unit testing class for the Scraper.navigate() function
-class TestScraperNavigation(unittest.TestCase):
+# create the unit testing class for the Scraper.scroll() function
+class TestScraperScroll(unittest.TestCase):
     # code to be executed when the unit test begins
     def setUp(self):
         self.scraper = Scraper()
@@ -30,6 +30,8 @@ class TestScraperNavigation(unittest.TestCase):
         self.assertEqual(self.scraper.navigate(test_url), test_url)
         # and then ensure we have scrolled to the point that was asked (within 3 decimal places)
         self.assertAlmostEqual(self.scraper.scroll(scroll_amount), scroll_amount, places=3)
+        # ensure the scroll only takes a float
+        self.assertRaises(ValueError, self.scraper.scroll, "ajajajaj")
 
 # if this is the top level code, run the single unit test
 if __name__ == '__main__':
