@@ -37,6 +37,8 @@ class TestScraperSaveJson(unittest.TestCase):
         self.assertEqual(data, test_dict)
         # remove the file when done
         os.remove(jsonFileName)
+        # check that it fails if nothing is passed
+        self.assertRaises(TypeError, self.scraper.checkForFile)
 
 # if this is the top level code, run the single unit test
 if __name__ == '__main__':

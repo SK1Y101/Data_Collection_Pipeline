@@ -11,7 +11,7 @@ Note: The public method `Scraper.close()` is required to cleanly shutdown the sc
 
 [x] scroll
 
-[ ] find
+[x] find
 
 [ ] findAll
 
