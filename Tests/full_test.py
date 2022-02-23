@@ -9,8 +9,10 @@ from Individual_tests.test_scroll import TestScraperScroll
 #loadIframe
 
 # find
+from Individual_tests.test_find import TestScraperFind
 
 # findAll
+from Individual_tests.test_findAll import TestScraperFindAll
 
 # findLink
 

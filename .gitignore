@@ -1,2 +1,4 @@
 # Ignore the training data folder
 geckodriver.log
+aws
+awscliv2.zip
