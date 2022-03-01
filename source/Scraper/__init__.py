@@ -59,7 +59,7 @@ class Scraper:
     
     # return all links in an object
     def findLink(self, element):
-        ''' Locate all child elements that specifically refer to links. '''
+        ''' Locate all child elements that specifically refer to links, and return those links. '''
         # fetch all references to "href"
         tags = element.get_attribute("innerHTML").split("href")
         # fetch all links in the text

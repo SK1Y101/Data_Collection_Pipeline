@@ -15,7 +15,7 @@ Note: The public method `Scraper.close()` is required to cleanly shutdown the sc
 
 [x] findAll
 
-[ ] findLink
+[x] findLink
 
 [ ] waitUntilFound
 
@@ -29,6 +29,6 @@ Note: The public method `Scraper.close()` is required to cleanly shutdown the sc
 
 [x] makeFolder
 
-[ ] loadJSON
+[x] loadJSON
 
 [x] saveJSON

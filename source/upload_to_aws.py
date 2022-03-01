@@ -1,4 +1,5 @@
 # fetch required modules
+from tqdm import trange
 import boto3, os
 
 wdir = os.getcwd()
@@ -25,14 +26,23 @@ def flatten(lis):
 def upload_to_aws(fileName, bucket, obj_Name=None):
     obj_Name = os.path.basename(fileName) if not obj_Name else obj_Name
     s3 = boto3.client("s3")
-    with open(fileName, "rb") as f:
-        s3.upload_fileobj(f, bucket, obj_Name)
+    s3.upload_file(fileName, bucket, obj_Name)
+
+# upload files to aws, keeping the directory structure
+def multiupload(files, bucket, remove_dir):
+    # ensure we don't start with a file marker
+    for x in trange(len(files)):
+        file = files[x]
+        # upload it
+        upload_to_aws(file, bucket, file.replace(remove_dir, ""))
 
 def main():
-    # fetch all the files to upload
+    # fetch all the files to upload from within the data folder
     files = files_from_dir("source/raw_data")
     # show that to the user
     print("There are {} exoplanet files to upload".format(len(files)))
+    # try uploading the files!
+    multiupload(files, "exoplanet", "source/raw_data/")
 
 if __name__ == "__main__":
     main()

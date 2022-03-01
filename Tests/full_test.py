@@ -15,6 +15,7 @@ from Individual_tests.test_find import TestScraperFind
 from Individual_tests.test_findAll import TestScraperFindAll
 
 # findLink
+from Individual_tests.test_findLink import TestScraperFindLink
 
 # waitUntilFound
 
@@ -31,6 +32,7 @@ from Individual_tests.test_checkForFile import TestScraperFile
 from Individual_tests.test_makeFolder import TestScraperFolder
 
 # loadJSON
+from Individual_tests.test_loadJson import TestScraperLoadJson
 
 # saveJSON
 from Individual_tests.test_saveJson import TestScraperSaveJson
