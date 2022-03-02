@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-107 e is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.6 Earths, it takes 14.7 days to complete one orbit of its star, and is 0.12639 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-107-e/",
+    "Id": "kepler-107-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1411/kepler-107-e/",
+    "Mass": "8.6 Earths",
+    "Name": "kepler-107-e",
+    "Orbital Period": "14.7 days",
+    "Orbital Radius": "0.12639 AU",
+    "Planet Radius": "0.259 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "2309980b-da6c-4b82-a0e2-4d9c1523684f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-107-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-107-e/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-107-e",
+            "Path": "exoplanet_details/kepler-107-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-107_e"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-106 d is a terrestrial exoplanet that orbits a G-type star. Its mass is 8.1 Earths, it takes 24 days to complete one orbit of its star, and is 0.1602 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-106-d/",
+    "Id": "kepler-106-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1408/kepler-106-d/",
+    "Mass": "8.1 Earths",
+    "Name": "kepler-106-d",
+    "Orbital Period": "24 days",
+    "Orbital Radius": "0.1602 AU",
+    "Planet Radius": "0.95 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "716bde2c-9bd2-4d87-89b2-3ef1a1391465",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-106-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-106-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-106-d",
+            "Path": "exoplanet_details/kepler-106-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-106_d"
+    }
+}

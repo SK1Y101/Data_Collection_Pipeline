@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1031 b is a terrestrial exoplanet that orbits an F-type star. Its mass is 0.59 Earths, it takes 1.2 days to complete one orbit of its star, and is 0.0218 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1031-b/",
+    "Id": "kepler-1031-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5897/kepler-1031-b/",
+    "Mass": "0.59 Earths",
+    "Name": "kepler-1031-b",
+    "Orbital Period": "1.2 days",
+    "Orbital Radius": "0.0218 AU",
+    "Planet Radius": "0.87 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "e3004e3a-3f2c-4c26-9979-9cd1c467a0d8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1031-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1031-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1031-b",
+            "Path": "exoplanet_details/kepler-1031-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1031_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1043 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.04 Earths, it takes 38.5 days to complete one orbit of its star, and is 0.2159 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1043-b/",
+    "Id": "kepler-1043-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5989/kepler-1043-b/",
+    "Mass": "7.04 Earths",
+    "Name": "kepler-1043-b",
+    "Orbital Period": "38.5 days",
+    "Orbital Radius": "0.2159 AU",
+    "Planet Radius": "0.227 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "3b7827c6-81d6-46b2-97d7-8cb7e10a5aa6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1043-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1043-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1043-b",
+            "Path": "exoplanet_details/kepler-1043-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1043_b"
+    }
+}

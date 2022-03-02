@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-102 c is a terrestrial exoplanet that orbits a K-type star. Its mass is 3 Earths, it takes 7.1 days to complete one orbit of its star, and is 0.067 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-102-c/",
+    "Id": "kepler-102-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1320/kepler-102-c/",
+    "Mass": "3 Earths",
+    "Name": "kepler-102-c",
+    "Orbital Period": "7.1 days",
+    "Orbital Radius": "0.067 AU",
+    "Planet Radius": "0.58 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "ae785103-1eea-496b-b69d-1e164a9e3eb3",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-102-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-102-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-102-c",
+            "Path": "exoplanet_details/kepler-102-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-102_c"
+    }
+}

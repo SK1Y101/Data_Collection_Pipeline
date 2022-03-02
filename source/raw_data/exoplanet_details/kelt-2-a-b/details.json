@@ -1,0 +1,31 @@
+{
+    "Description": "KELT-2 A b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.7 Jupiters, it takes 4.1 days to complete one orbit of its star, and is 0.05497 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kelt-2-a-b/",
+    "Id": "kelt-2-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6918/kelt-2-a-b/",
+    "Mass": "1.7 Jupiters",
+    "Name": "kelt-2-a-b",
+    "Orbital Period": "4.1 days",
+    "Orbital Radius": "0.05497 AU",
+    "Planet Radius": "1.35 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "bbaf22e0-65d0-4fde-bf63-bf8dbb2d87e4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kelt-2-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kelt-2-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kelt-2-a-b",
+            "Path": "exoplanet_details/kelt-2-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/KELT-2_A_b"
+    }
+}

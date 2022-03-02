@@ -1,0 +1,31 @@
+{
+    "Description": "K2-98 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 32.2 Earths, it takes 10.1 days to complete one orbit of its star, and is 0.0974 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/k2-98-b/",
+    "Id": "k2-98-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3498/k2-98-b/",
+    "Mass": "32.2 Earths",
+    "Name": "k2-98-b",
+    "Orbital Period": "10.1 days",
+    "Orbital Radius": "0.0974 AU",
+    "Planet Radius": "0.464 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d3dc4c63-f7d6-41b4-9b9a-29a8fab1b49b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-98-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-98-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-98-b",
+            "Path": "exoplanet_details/k2-98-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-98_b"
+    }
+}

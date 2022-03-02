@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-112 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 6.35 Earths, it takes 28.6 days to complete one orbit of its star, and is 0.172 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-112-c/",
+    "Id": "kepler-112-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5930/kepler-112-c/",
+    "Mass": "6.35 Earths",
+    "Name": "kepler-112-c",
+    "Orbital Period": "28.6 days",
+    "Orbital Radius": "0.172 AU",
+    "Planet Radius": "0.214 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "cbe6c2d5-d2fa-4c13-98da-4e7d47123591",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-112-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-112-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-112-c",
+            "Path": "exoplanet_details/kepler-112-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-112_c"
+    }
+}

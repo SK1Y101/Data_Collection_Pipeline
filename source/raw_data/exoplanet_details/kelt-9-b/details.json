@@ -1,0 +1,31 @@
+{
+    "Description": "",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kelt-9-b/",
+    "Id": "kelt-9-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3508/kelt-9-b/",
+    "Mass": "2.88 Jupiters",
+    "Name": "kelt-9-b",
+    "Orbital Period": "1.5 days",
+    "Orbital Radius": "0.03462 AU",
+    "Planet Radius": "1.891 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d0779cba-c535-4f73-bec2-73654dbdbc5f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kelt-9-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kelt-9-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kelt-9-b",
+            "Path": "exoplanet_details/kelt-9-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/KELT-9_b"
+    }
+}

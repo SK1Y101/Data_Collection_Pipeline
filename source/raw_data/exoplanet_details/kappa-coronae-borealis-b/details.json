@@ -1,0 +1,31 @@
+{
+    "Description": "Kappa Coronae Borealis b is a gas giant exoplanet that orbits a K-type star. Its mass is 2 Jupiters, it takes 3.5 years to complete one orbit of its star, and is 2.65 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.17",
+    "File": "exoplanet_details/kappa-coronae-borealis-b/",
+    "Id": "kappa-coronae-borealis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7047/kappa-coronae-borealis-b/",
+    "Mass": "2 Jupiters",
+    "Name": "kappa-coronae-borealis-b",
+    "Orbital Period": "3.5 years",
+    "Orbital Radius": "2.65 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "83ae196a-ed8c-478d-8b99-7fa71453324c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kappa-coronae-borealis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kappa-coronae-borealis-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kappa-coronae-borealis-b",
+            "Path": "exoplanet_details/kappa-coronae-borealis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/kap_CrB_b"
+    }
+}

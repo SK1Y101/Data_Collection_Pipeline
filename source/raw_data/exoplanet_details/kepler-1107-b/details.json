@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1107 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.36 Earths, it takes 0.6 days to complete one orbit of its star, and is 0.0126 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1107-b/",
+    "Id": "kepler-1107-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4539/kepler-1107-b/",
+    "Mass": "2.36 Earths",
+    "Name": "kepler-1107-b",
+    "Orbital Period": "0.6 days",
+    "Orbital Radius": "0.0126 AU",
+    "Planet Radius": "1.34 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "f4c4c109-e1f0-4b54-a4af-98c6f277afb6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1107-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1107-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1107-b",
+            "Path": "exoplanet_details/kepler-1107-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1107_b"
+    }
+}

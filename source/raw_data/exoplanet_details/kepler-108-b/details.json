@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-108 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.176 Jupiters, it takes 49.2 days to complete one orbit of its star, and is 0.292 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.22",
+    "File": "exoplanet_details/kepler-108-b/",
+    "Id": "kepler-108-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1412/kepler-108-b/",
+    "Mass": "0.176 Jupiters",
+    "Name": "kepler-108-b",
+    "Orbital Period": "49.2 days",
+    "Orbital Radius": "0.292 AU",
+    "Planet Radius": "0.772 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3b3a6145-9f33-4a65-84aa-d0ef8903be35",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-108-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-108-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-108-b",
+            "Path": "exoplanet_details/kepler-108-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-108_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "KELT-21 b is a gas giant exoplanet that orbits an A-type star. Its mass is 3.91 Jupiters, it takes 3.6 days to complete one orbit of its star, and is 0.05224 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kelt-21-b/",
+    "Id": "kelt-21-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6174/kelt-21-b/",
+    "Mass": "3.91 Jupiters",
+    "Name": "kelt-21-b",
+    "Orbital Period": "3.6 days",
+    "Orbital Radius": "0.05224 AU",
+    "Planet Radius": "1.586 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "70237457-ac0e-4a39-a5e2-595f15bfd5f3",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kelt-21-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kelt-21-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kelt-21-b",
+            "Path": "exoplanet_details/kelt-21-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/KELT-21_b"
+    }
+}
