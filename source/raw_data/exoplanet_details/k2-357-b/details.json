@@ -1,0 +1,31 @@
+{
+    "Description": "K2-357 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 13.4 Earths, it takes 16.3 days to complete one orbit of its star, and is 0.145 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/k2-357-b/",
+    "Id": "k2-357-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7992/k2-357-b/",
+    "Mass": "13.4 Earths",
+    "Name": "k2-357-b",
+    "Orbital Period": "16.3 days",
+    "Orbital Radius": "0.145 AU",
+    "Planet Radius": "0.332 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "dc00afb1-eaae-4cea-a98f-04361376ee6e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-357-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-357-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-357-b",
+            "Path": "exoplanet_details/k2-357-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-357_b"
+    }
+}

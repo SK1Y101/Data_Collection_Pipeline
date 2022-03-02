@@ -1,0 +1,31 @@
+{
+    "Description": "K2-38 b is a super Earth exoplanet that orbits a G-type star. Its mass is 19.0698 Earths, it takes 4 days to complete one orbit of its star, and is 0.05073 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/k2-38-b/",
+    "Id": "k2-38-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3295/k2-38-b/",
+    "Mass": "19.0698 Earths",
+    "Name": "k2-38-b",
+    "Orbital Period": "4 days",
+    "Orbital Radius": "0.05073 AU",
+    "Planet Radius": "1.906 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "65d25e49-8dec-4cd3-85bf-8c874c676caa",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-38-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-38-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-38-b",
+            "Path": "exoplanet_details/k2-38-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-38_b"
+    }
+}

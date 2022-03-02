@@ -1,0 +1,31 @@
+{
+    "Description": "K2-85 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.01 Earths, it takes 0.7 days to complete one orbit of its star, and is 0.01263 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.24",
+    "File": "exoplanet_details/k2-85-b/",
+    "Id": "k2-85-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3360/k2-85-b/",
+    "Mass": "1.01 Earths",
+    "Name": "k2-85-b",
+    "Orbital Period": "0.7 days",
+    "Orbital Radius": "0.01263 AU",
+    "Planet Radius": "1.01 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "33d6909a-930a-4549-857e-750961210baf",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-85-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-85-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-85-b",
+            "Path": "exoplanet_details/k2-85-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-85_b"
+    }
+}

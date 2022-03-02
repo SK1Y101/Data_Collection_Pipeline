@@ -1,0 +1,31 @@
+{
+    "Description": "K2-58 c is a super Earth exoplanet that orbits a G-type star. Its mass is 3.26 Earths, it takes 2.5 days to complete one orbit of its star, and is 0.035 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/k2-58-c/",
+    "Id": "k2-58-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3323/k2-58-c/",
+    "Mass": "3.26 Earths",
+    "Name": "k2-58-c",
+    "Orbital Period": "2.5 days",
+    "Orbital Radius": "0.035 AU",
+    "Planet Radius": "1.62 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "34ba6de9-fa3a-4e1e-8862-fbc27d6fb102",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-58-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-58-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-58-c",
+            "Path": "exoplanet_details/k2-58-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-58_c"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "K2-5 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.31 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.0532 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/k2-5-b/",
+    "Id": "k2-5-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4754/k2-5-b/",
+    "Mass": "4.31 Earths",
+    "Name": "k2-5-b",
+    "Orbital Period": "5.7 days",
+    "Orbital Radius": "0.0532 AU",
+    "Planet Radius": "1.91 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "4961a24e-0dc3-4651-aab4-081558ff834a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-5-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-5-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-5-b",
+            "Path": "exoplanet_details/k2-5-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-5_b"
+    }
+}

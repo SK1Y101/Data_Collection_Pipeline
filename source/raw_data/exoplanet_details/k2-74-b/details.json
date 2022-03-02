@@ -1,0 +1,31 @@
+{
+    "Description": "K2-74 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 5.95 Earths, it takes 19.6 days to complete one orbit of its star, and is 0.1402 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/k2-74-b/",
+    "Id": "k2-74-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3345/k2-74-b/",
+    "Mass": "5.95 Earths",
+    "Name": "k2-74-b",
+    "Orbital Period": "19.6 days",
+    "Orbital Radius": "0.1402 AU",
+    "Planet Radius": "0.206 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "619f45b7-2d25-492a-9136-456ce10d9809",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-74-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-74-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-74-b",
+            "Path": "exoplanet_details/k2-74-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-74_b"
+    }
+}
