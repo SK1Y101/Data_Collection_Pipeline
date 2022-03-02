@@ -1,0 +1,30 @@
+{
+    "Description": "K2-245 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 17.4 Earths, it takes 11.9 days to complete one orbit of its star, and is 0.0959 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-245-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6329/k2-245-b/",
+    "Mass": "17.4 Earths",
+    "Name": "k2-245-b",
+    "Orbital Period": "11.9 days",
+    "Orbital Radius": "0.0959 AU",
+    "Planet Radius": "0.387 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d00dd00c-7518-4032-8979-88a72e13ff6c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-245-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-245-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-245-b",
+            "Path": "exoplanet_details/k2-245-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-245_b"
+    }
+}

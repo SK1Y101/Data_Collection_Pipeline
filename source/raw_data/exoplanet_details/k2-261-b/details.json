@@ -1,0 +1,30 @@
+{
+    "Description": "K2-261 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.188 Jupiters, it takes 11.6 days to complete one orbit of its star, and is 0.1034 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.29",
+    "Id": "k2-261-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6353/k2-261-b/",
+    "Mass": "0.188 Jupiters",
+    "Name": "k2-261-b",
+    "Orbital Period": "11.6 days",
+    "Orbital Radius": "0.1034 AU",
+    "Planet Radius": "0.85 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "86217e92-6234-4728-b845-9f50108c3e94",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-261-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-261-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-261-b",
+            "Path": "exoplanet_details/k2-261-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-261_b"
+    }
+}

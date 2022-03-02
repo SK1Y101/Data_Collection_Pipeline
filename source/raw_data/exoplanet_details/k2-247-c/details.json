@@ -1,0 +1,30 @@
+{
+    "Description": "K2-247 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.43 Earths, it takes 6.5 days to complete one orbit of its star, and is 0.0615 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-247-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6332/k2-247-c/",
+    "Mass": "5.43 Earths",
+    "Name": "k2-247-c",
+    "Orbital Period": "6.5 days",
+    "Orbital Radius": "0.0615 AU",
+    "Planet Radius": "2.19 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "6aafb127-d95f-44e5-97b6-33e53bf43e49",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-247-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-247-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-247-c",
+            "Path": "exoplanet_details/k2-247-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-247_c"
+    }
+}

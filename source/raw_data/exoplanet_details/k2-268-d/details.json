@@ -1,0 +1,30 @@
+{
+    "Description": "K2-268 d is a super Earth exoplanet that orbits a K-type star. Its mass is 2.83 Earths and it takes 4.5 days to complete one orbit of its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "Id": "k2-268-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7960/k2-268-d/",
+    "Mass": "2.83 Earths",
+    "Name": "k2-268-d",
+    "Orbital Period": "4.5 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.49 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "77d7cdef-d134-440a-8e1b-d7dd5bf0f0e2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-268-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-268-d/images/1.png"
+        },
+        "2": {
+            "Description": "K2-268-d",
+            "Path": "exoplanet_details/k2-268-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-268_d"
+    }
+}

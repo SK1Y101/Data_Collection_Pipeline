@@ -1,0 +1,30 @@
+{
+    "Description": "K2-274 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.98 Earths, it takes 14.1 days to complete one orbit of its star, and is 0.0964 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-274-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6383/k2-274-b/",
+    "Mass": "4.98 Earths",
+    "Name": "k2-274-b",
+    "Orbital Period": "14.1 days",
+    "Orbital Radius": "0.0964 AU",
+    "Planet Radius": "2.08 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "3acf09b1-22c9-4281-94b2-67141a94ba00",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-274-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-274-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-274-b",
+            "Path": "exoplanet_details/k2-274-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-274_b"
+    }
+}
