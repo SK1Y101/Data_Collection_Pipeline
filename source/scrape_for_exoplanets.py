@@ -1,6 +1,7 @@
 # import required modules
-import time, uuid
+import time, uuid, pathlib
 from tqdm import trange
+import pandas as pd
 
 # Import my scraper class
 from Scraper import Scraper
@@ -134,6 +135,80 @@ def fetch_exoplanet_images(scraper, planet_dict, data_location):
     # and return the dictionary
     return planet_dict
 
+# save all the details as an easily accessible pandas dataframe, to be saved externally
+def saveToCSV(dfname, thisdata, dataFolderPath):
+    # create a dataframe row from a dictionary
+    def dict_to_df(data={}, headers=[]):
+        # empty output dictionary
+        df = {}
+        # iterate on headers
+        for head in headers:
+            # if a valid value is found
+            if head in data:
+                thisdata = data[head]
+                # ensure our commas won't interfere
+                if "," in thisdata:
+                    if '"' not in thisdata:
+                        thisdata = '"'+thisdata+'"'
+                df[head] = [thisdata]
+            else:
+                # initialize as empty
+                df[head] = [""]
+        # return the dataframe
+        return pd.DataFrame(df)
+    # fetch the dataframe extension
+    ext = pathlib.Path(dfname).suffix
+    # if there isn't one
+    if not ext:
+        dfname+=".csv"
+    # and if it's not csv
+    elif ext != ".csv":
+        dfname.replace("ext", ".csv")
+    # if the file dosen't exist
+    if not pathlib.Path(dfname).exists():
+        # create the desired headers for each planet
+        headers = [# Detail
+                   "Name",
+                   "Description",
+                   "Discovery Date",
+                   "Detection Method",
+                   # Properties
+                   "Mass",
+                   "Planet Radius",
+                   "Planet Type",
+                   # Orbit
+                   "Orbital Radius",
+                   "Eccentricity",
+                   "Orbital Period",
+                   # Database details
+                   "File",
+                   "Uuid",
+                   "Link"]
+        # create the dataframe object
+        df = pd.DataFrame(columns=headers)
+    else:
+        # fetch from file
+        df = pd.read_csv(dfname)
+    # fetch the dataframe headers
+    headers = df.columns.values.tolist()
+    # ensure the file is also added to this planet data
+    thisdata["File"] = dataFolderPath+"/"
+    # create the dataframe row
+    df_row = dict_to_df(thisdata, headers=headers)
+    # check if this entry is already there
+    entry = df.index[df["Name"] == thisdata["Name"]].tolist()
+    if entry:
+        # insert new value at old index
+        df.loc[entry[0]] = df_row.loc[0]
+        # remove any duplicates
+        df.drop(entry[1:])
+    else:
+        # else, append to the end of the dataframe
+        df = pd.concat((df, df_row))
+    # and save the dataframe
+    df.to_csv(dfname, index=False)
+
+# fetch all the details for all the exoplanets
 def generate_details(scraper, ref, fileStore="", stale_time=7):
     ''' Convert a dictionary of links into a dictionary of exoplanet information.
         scraper: an instance of the Scraper class to be used to fetch information.
@@ -171,6 +246,8 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
                 scraper.navigate(link)
             # fetch them
             thisplanet = fetch_exoplanet_images(scraper, thisplanet, data_loc)
+        # save to our dataframe
+        saveToCSV(scraper.filedir+"/exoplanet_table", thisplanet, data_loc)
         # save the details <<<--- Probably modify this if it ends up being too slow
         scraper.saveJSON(data_loc+"/details.json", thisplanet)
         # wait for a small amount of time
@@ -182,37 +259,40 @@ def main():
     # create the scraper instance
     scraper = Scraper()
 
-    # initialise the scraper storage location
-    scraper.localStorage("source/raw_data")
+    # if we have any errors
+    try:
+        # initialise the scraper storage location
+        scraper.localStorage("source/raw_data")
 
-    # navigate to the exoplanet page
-    scraper.navigate("https://exoplanets.nasa.gov/discovery/exoplanet-catalog/")
+        # navigate to the exoplanet page
+        scraper.navigate("https://exoplanets.nasa.gov/discovery/exoplanet-catalog/")
 
-    # expand the exoplanets table to the maximum
-    per_page = scraper.waitUntilFound("select", "id", "per_page")
-    # fetch the selection box
-    options, select_func = scraper.selectbox(per_page)
-    # select the max
-    select_func(max(options))
-    # and click
-    per_page.click()
-    # wait for it to change
-    wait(1)
-    # scroll down slightly
-    scraper.scroll(0.1)
-    
-    # search for a locally stored links dictionary
-    refs = scraper.loadJSON("exoplanet_links.json", 7)
-    # otherwise, fetch manually
-    refs = refs if refs else fetch_exoplanet_links(scraper)
-    # store the links again
-    scraper.saveJSON("exoplanet_links.json", refs)
-    
-    # generate the details for each planet, and pass in the local storage location
-    generate_details(scraper, refs, "exoplanet_details", 7)
-    
-    # and close the scraping session
-    scraper.close()
+        # expand the exoplanets table to the maximum
+        per_page = scraper.waitUntilFound("select", "id", "per_page")
+        # fetch the selection box
+        options, select_func = scraper.selectbox(per_page)
+        # select the max
+        select_func(max(options))
+        # and click
+        per_page.click()
+        # wait for it to change
+        wait(1)
+        # scroll down slightly
+        scraper.scroll(0.1)
+        
+        # search for a locally stored links dictionary
+        refs = scraper.loadJSON("exoplanet_links.json", 7)
+        # otherwise, fetch manually
+        refs = refs if refs else fetch_exoplanet_links(scraper)
+        # store the links again
+        scraper.saveJSON("exoplanet_links.json", refs)
+        
+        # generate the details for each planet, and pass in the local storage location
+        generate_details(scraper, refs, "exoplanet_details", 7)
+    # ensure we close the screaper
+    finally:    
+        # and close the scraping session
+        scraper.close()
 
 # only execute if this is the top level code
 if __name__ == "__main__":

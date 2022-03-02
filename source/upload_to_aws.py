@@ -1,6 +1,7 @@
 # fetch required modules
+from time import sleep as wait
 from tqdm import trange
-import boto3, os, uuid
+import boto3, os, time
 
 wdir = os.getcwd()
 
@@ -23,28 +24,61 @@ def flatten(lis):
     # and return
     return sorted(out)
 
-def upload_to_aws(fileName, bucket, obj_Name=None, check_for_duplicate=True):
+def upload_to_aws(fileName, bucket, obj_Name=None, check_for_duplicate=True, awsFiles=None, stale_time=7):
     obj_Name = os.path.basename(fileName) if not obj_Name else obj_Name
-    s3 = boto3.client("s3")
     # check for duplicates if desired
     if check_for_duplicate:
-        # if the object exists
-        if obj_Name in [e['Key'] for p in s3.get_paginator("list_objects_v2").paginate(Bucket=bucket) for e in p['Contents']]:
+        # get a list of files if not given
+        if not awsFiles:
+            awsFiles = getAwsFiles(bucket)
+        # if the dosen't need to be (re)uploaded
+        if awsNotStale(obj_Name, bucket, awsFiles, stale_time):
             # stop the function
             return False
+    # upload
+    s3 = boto3.client("s3")
     s3.upload_file(fileName, bucket, obj_Name)
 
 # upload files to aws, keeping the directory structure
-def multiupload(files, bucket, remove_dir):
-    # fetch all the files already uploaded
-    objs = [e['Key'] for p in boto3.client("s3").get_paginator("list_objects_v2").paginate(Bucket=bucket) for e in p['Contents']]
+def multiupload(files, bucket, remove_dir, awsFiles=None, stale_time=7):
+    if not awsFiles:
+        awsFiles = getAwsFiles(bucket)
     # ensure we don't start with a file marker
     for x in trange(len(files)):
         file = files[x]
         fname = file.replace(remove_dir, "")
-        # upload it if it's not already been uploaded
-        if fname not in objs:
-            upload_to_aws(file, bucket, fname, False)
+        upload_to_aws(file, bucket, fname, True, awsFiles, stale_time)
+
+# check if a file a) exists and b) is not stale on aws. returns false if the file needs to be (re)uploaded
+def awsNotStale(filename, bucket, awsFiles=None, stale_time=7):
+    # get file reference
+    if not awsFiles:
+        awsFiles = getAwsFiles(bucket)
+    # decompose references
+    fnames, fdetails = awsFiles
+    # if the file dosen't exist
+    if filename not in fnames:
+        return False
+    # fetch modification time
+    fidx = fnames.index(filename)
+    thisfile = fdetails[fidx]
+    mtime = thisfile["LastModified"]
+    # check if it's larger than our stale time
+    if (time.time() - mtime.timestamp()) > stale_time*86400:
+        return False
+    # otherwise, the file exists, and is not stale
+    return True
+
+# fetch all files in the s3 bucket
+def getAwsFiles(bucket):
+    # start client
+    s3 = boto3.client("s3")
+    # get files
+    files = [e for p in s3.get_paginator("list_objects_v2").paginate(Bucket=bucket) for e in p["Contents"]]
+    # get filenames
+    fileKeys = [file["Key"] for file in files]
+    # return
+    return fileKeys, files
 
 def main():
     # fetch all the files to upload from within the data folder
