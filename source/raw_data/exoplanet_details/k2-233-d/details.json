@@ -1,0 +1,30 @@
+{
+    "Description": "K2-233 d is a super Earth exoplanet that orbits a K-type star. Its mass is 21.14 Earths, it takes 24.4 days to complete one orbit of its star, and is 0.15224 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "< 0.1999",
+    "Id": "k2-233-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6290/k2-233-d/",
+    "Mass": "21.14 Earths",
+    "Name": "k2-233-d",
+    "Orbital Period": "24.4 days",
+    "Orbital Radius": "0.15224 AU",
+    "Planet Radius": "0.21 x Jupiter",
+    "Planet Type": "Super Earth",
+    "Uuid": "e5675b38-ebfa-4387-819a-82c33ade63a0",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-233-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-233-d/images/1.png"
+        },
+        "2": {
+            "Description": "K2-233-d",
+            "Path": "exoplanet_details/k2-233-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-233_d"
+    }
+}

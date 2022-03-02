@@ -1,0 +1,30 @@
+{
+    "Description": "K2-21 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 4.04 Earths, it takes 9.3 days to complete one orbit of its star, and is 0.076 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.1",
+    "Id": "k2-21-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5211/k2-21-b/",
+    "Mass": "4.04 Earths",
+    "Name": "k2-21-b",
+    "Orbital Period": "9.3 days",
+    "Orbital Radius": "0.076 AU",
+    "Planet Radius": "1.84 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "a5952b1c-d760-4166-a808-be08f2629cdc",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-21-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-21-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-21-b",
+            "Path": "exoplanet_details/k2-21-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-21_b"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Description": "K2-178 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 12.4 Earths and it takes 8.7 days to complete one orbit of its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-178-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6197/k2-178-b/",
+    "Mass": "12.4 Earths",
+    "Name": "k2-178-b",
+    "Orbital Period": "8.7 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.317 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "ae4ad7aa-cffc-41cc-b9f3-79ee4c353070",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-178-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-178-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-178-b",
+            "Path": "exoplanet_details/k2-178-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-178_b"
+    }
+}

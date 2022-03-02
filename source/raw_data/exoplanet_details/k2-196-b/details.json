@@ -1,0 +1,30 @@
+{
+    "Description": "K2-196 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 12.6 Earths and it takes 48.3 days to complete one orbit of its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-196-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6224/k2-196-b/",
+    "Mass": "12.6 Earths",
+    "Name": "k2-196-b",
+    "Orbital Period": "48.3 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.321 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "038c62df-6a8b-4671-896b-37455335c70e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-196-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-196-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-196-b",
+            "Path": "exoplanet_details/k2-196-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-196_b"
+    }
+}

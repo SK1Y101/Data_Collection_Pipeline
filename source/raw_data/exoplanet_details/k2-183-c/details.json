@@ -1,0 +1,30 @@
+{
+    "Description": "K2-183 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.6 Earths, it takes 10.8 days to complete one orbit of its star, and is 0.0932 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-183-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6203/k2-183-c/",
+    "Mass": "8.6 Earths",
+    "Name": "k2-183-c",
+    "Orbital Period": "10.8 days",
+    "Orbital Radius": "0.0932 AU",
+    "Planet Radius": "0.256 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "d0403805-3780-4271-9977-d4a43ad5baf2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-183-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-183-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-183-c",
+            "Path": "exoplanet_details/k2-183-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-183_c"
+    }
+}

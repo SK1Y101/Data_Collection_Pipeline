@@ -1,0 +1,30 @@
+{
+    "Description": "K2-228 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.92 Earths, it takes 2.7 days to complete one orbit of its star, and is 0.0338 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-228-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6181/k2-228-b/",
+    "Mass": "1.92 Earths",
+    "Name": "k2-228-b",
+    "Orbital Period": "2.7 days",
+    "Orbital Radius": "0.0338 AU",
+    "Planet Radius": "1.21 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "21cbce6f-0b60-4b6b-9518-26ead639d7f7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-228-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-228-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-228-b",
+            "Path": "exoplanet_details/k2-228-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-228_b"
+    }
+}

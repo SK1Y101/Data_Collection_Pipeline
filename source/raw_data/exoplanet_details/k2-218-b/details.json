@@ -1,0 +1,30 @@
+{
+    "Description": "K2-218 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.13 Earths and it takes 8.7 days to complete one orbit of its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-218-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6248/k2-218-b/",
+    "Mass": "7.13 Earths",
+    "Name": "k2-218-b",
+    "Orbital Period": "8.7 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.229 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "a5fa1acc-ba43-4d80-9edd-708058e796fd",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-218-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-218-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-218-b",
+            "Path": "exoplanet_details/k2-218-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-218_b"
+    }
+}

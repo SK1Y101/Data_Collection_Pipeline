@@ -1,0 +1,30 @@
+{
+    "Description": "K2-237 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.363 Jupiters, it takes 2.2 days to complete one orbit of its star, and is 0.03558 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.04",
+    "Id": "k2-237-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6347/k2-237-b/",
+    "Mass": "1.363 Jupiters",
+    "Name": "k2-237-b",
+    "Orbital Period": "2.2 days",
+    "Orbital Radius": "0.03558 AU",
+    "Planet Radius": "1.445 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d0631764-fd1f-4cf7-829f-9e1f33a4d236",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-237-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-237-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-237-b",
+            "Path": "exoplanet_details/k2-237-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-237_b"
+    }
+}

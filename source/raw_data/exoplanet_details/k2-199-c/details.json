@@ -1,0 +1,30 @@
+{
+    "Description": "K2-199 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.15 Earths, it takes 7.4 days to complete one orbit of its star, and is 0.0668 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-199-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6228/k2-199-c/",
+    "Mass": "8.15 Earths",
+    "Name": "k2-199-c",
+    "Orbital Period": "7.4 days",
+    "Orbital Radius": "0.0668 AU",
+    "Planet Radius": "0.248 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "a08b4536-28e6-4865-b8fc-0beea28a0e52",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-199-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-199-c/images/1.png"
+        },
+        "2": {
+            "Description": "K2-199-c",
+            "Path": "exoplanet_details/k2-199-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-199_c"
+    }
+}

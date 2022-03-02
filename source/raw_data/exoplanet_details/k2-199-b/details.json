@@ -1,0 +1,30 @@
+{
+    "Description": "K2-199 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.16 Earths, it takes 3.2 days to complete one orbit of its star, and is 0.0385 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "Id": "k2-199-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6227/k2-199-b/",
+    "Mass": "4.16 Earths",
+    "Name": "k2-199-b",
+    "Orbital Period": "3.2 days",
+    "Orbital Radius": "0.0385 AU",
+    "Planet Radius": "1.87 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "c3557ffb-fd95-41b1-834a-a5d51797da9f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-199-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-199-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-199-b",
+            "Path": "exoplanet_details/k2-199-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-199_b"
+    }
+}
