@@ -146,10 +146,6 @@ def saveToCSV(dfname, thisdata, dataFolderPath):
             # if a valid value is found
             if head in data:
                 thisdata = data[head]
-                # ensure our commas won't interfere
-                if "," in thisdata:
-                    if '"' not in thisdata:
-                        thisdata = '"'+thisdata+'"'
                 df[head] = [thisdata]
             else:
                 # initialize as empty
