@@ -217,4 +217,9 @@ def main():
 # only execute if this is the top level code
 if __name__ == "__main__":
     # execute
-    main()
+    try:
+        main()
+    finally:
+    #    upload when completed, or if an error occured because I'm too lazy to select multipl eprograms
+        import upload_to_aws
+        upload_to_aws.main()
