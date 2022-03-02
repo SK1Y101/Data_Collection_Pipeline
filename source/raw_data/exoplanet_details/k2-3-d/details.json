@@ -1,0 +1,30 @@
+{
+    "Description": "K2-3 d is a super Earth exoplanet that orbits an M-type star. Its mass is 2.80007 Earths, it takes 44.6 days to complete one orbit of its star, and is 0.2097 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.0",
+    "Id": "k2-3-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5832/k2-3-d/",
+    "Mass": "2.80007 Earths",
+    "Name": "k2-3-d",
+    "Orbital Period": "44.6 days",
+    "Orbital Radius": "0.2097 AU",
+    "Planet Radius": "1.53 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "226d7b65-4d64-40cb-b7d6-187dd0556776",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-3-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-3-d/images/1.png"
+        },
+        "2": {
+            "Description": "K2-3-d",
+            "Path": "exoplanet_details/k2-3-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-3_d"
+    }
+}

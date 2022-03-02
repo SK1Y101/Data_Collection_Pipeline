@@ -1,0 +1,30 @@
+{
+    "Description": "K2-330 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 8.1 Earths and it takes 13.8 days to complete one orbit of its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "Id": "k2-330-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7971/k2-330-b/",
+    "Mass": "8.1 Earths",
+    "Name": "k2-330-b",
+    "Orbital Period": "13.8 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.247 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "951aac68-3444-4b6d-856f-f4fe0cb6030f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-330-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-330-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-330-b",
+            "Path": "exoplanet_details/k2-330-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-330_b"
+    }
+}

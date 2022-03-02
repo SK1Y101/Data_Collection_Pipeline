@@ -1,0 +1,30 @@
+{
+    "Description": "K2-326 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.82 Earths, it takes 1.3 days to complete one orbit of its star, and is 0.0198 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "Id": "k2-326-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7693/k2-326-b/",
+    "Mass": "5.82 Earths",
+    "Name": "k2-326-b",
+    "Orbital Period": "1.3 days",
+    "Orbital Radius": "0.0198 AU",
+    "Planet Radius": "0.203 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "035e421f-84c7-4346-ba68-b75f416626e1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-326-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-326-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-326-b",
+            "Path": "exoplanet_details/k2-326-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-326_b"
+    }
+}

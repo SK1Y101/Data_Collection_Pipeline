@@ -1,0 +1,30 @@
+{
+    "Description": "K2-331 b is a super Earth exoplanet that orbits a G-type star. Its mass is 3.86 Earths and it takes 9.4 days to complete one orbit of its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "Id": "k2-331-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7966/k2-331-b/",
+    "Mass": "3.86 Earths",
+    "Name": "k2-331-b",
+    "Orbital Period": "9.4 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.79 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "cbdae0ce-d175-4ef2-9af7-a30679ce8af8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/k2-331-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/k2-331-b/images/1.png"
+        },
+        "2": {
+            "Description": "K2-331-b",
+            "Path": "exoplanet_details/k2-331-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/K2-331_b"
+    }
+}
