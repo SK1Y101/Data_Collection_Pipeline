@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-117 c is a gas giant exoplanet that orbits an F-type star. Its mass is 1.84 Jupiters, it takes 50.8 days to complete one orbit of its star, and is 0.2804 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.03",
+    "File": "exoplanet_details/kepler-117-c/",
+    "Id": "kepler-117-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1441/kepler-117-c/",
+    "Mass": "1.84 Jupiters",
+    "Name": "kepler-117-c",
+    "Orbital Period": "50.8 days",
+    "Orbital Radius": "0.2804 AU",
+    "Planet Radius": "1.101 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "fe6c76ff-1ada-4d08-98c6-eb713cf6f1a5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-117-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-117-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-117-c",
+            "Path": "exoplanet_details/kepler-117-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-117_c"
+    }
+}

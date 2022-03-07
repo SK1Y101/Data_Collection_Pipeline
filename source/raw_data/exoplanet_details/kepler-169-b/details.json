@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-169 b is a super Earth exoplanet that orbits a K-type star. Its mass is 1.51 Earths, it takes 3.3 days to complete one orbit of its star, and is 0.04 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-169-b/",
+    "Id": "kepler-169-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1770/kepler-169-b/",
+    "Mass": "1.51 Earths",
+    "Name": "kepler-169-b",
+    "Orbital Period": "3.3 days",
+    "Orbital Radius": "0.04 AU",
+    "Planet Radius": "1.13 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "1e3878b5-91e9-4634-a076-80c4f9ee4150",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-169-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-169-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-169-b",
+            "Path": "exoplanet_details/kepler-169-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-169_b"
+    }
+}

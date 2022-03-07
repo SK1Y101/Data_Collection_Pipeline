@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-166 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.77 Earths, it takes 7.7 days to complete one orbit of its star, and is 0.072 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-166-b/",
+    "Id": "kepler-166-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/621/kepler-166-b/",
+    "Mass": "5.77 Earths",
+    "Name": "kepler-166-b",
+    "Orbital Period": "7.7 days",
+    "Orbital Radius": "0.072 AU",
+    "Planet Radius": "0.203 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "200cffd9-ea3c-4eae-999a-967f29a91219",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-166-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-166-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-166-b",
+            "Path": "exoplanet_details/kepler-166-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-166_b"
+    }
+}

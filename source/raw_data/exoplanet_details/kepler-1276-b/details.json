@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1276 b is a super Earth exoplanet that orbits an F-type star. Its mass is 1.81 Earths, it takes 12.6 days to complete one orbit of its star, and is 0.1072 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1276-b/",
+    "Id": "kepler-1276-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4411/kepler-1276-b/",
+    "Mass": "1.81 Earths",
+    "Name": "kepler-1276-b",
+    "Orbital Period": "12.6 days",
+    "Orbital Radius": "0.1072 AU",
+    "Planet Radius": "1.19 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "590b5b5e-9bd0-4f25-9e79-1f2033b268e4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1276-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1276-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1276-b",
+            "Path": "exoplanet_details/kepler-1276-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1276_b"
+    }
+}

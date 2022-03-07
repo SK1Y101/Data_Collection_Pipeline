@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-152 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 6.3 Earths, it takes 88.3 days to complete one orbit of its star, and is 0.356 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-152-c/",
+    "Id": "kepler-152-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1663/kepler-152-c/",
+    "Mass": "6.3 Earths",
+    "Name": "kepler-152-c",
+    "Orbital Period": "88.3 days",
+    "Orbital Radius": "0.356 AU",
+    "Planet Radius": "0.213 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "1d08c18b-6e35-4262-be1c-6edd25c16516",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-152-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-152-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-152-c",
+            "Path": "exoplanet_details/kepler-152-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-152_c"
+    }
+}

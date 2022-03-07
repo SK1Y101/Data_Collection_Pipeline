@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-166 d is a super Earth exoplanet that orbits a G-type star. Its mass is 3.64 Earths, it takes 1.6 days to complete one orbit of its star, and is 0.0246 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-166-d/",
+    "Id": "kepler-166-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5715/kepler-166-d/",
+    "Mass": "3.64 Earths",
+    "Name": "kepler-166-d",
+    "Orbital Period": "1.6 days",
+    "Orbital Radius": "0.0246 AU",
+    "Planet Radius": "1.73 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "f31809bb-d583-4c42-9b24-ad590f7ca7e6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-166-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-166-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-166-d",
+            "Path": "exoplanet_details/kepler-166-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-166_d"
+    }
+}

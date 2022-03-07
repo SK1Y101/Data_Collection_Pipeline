@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-172 e is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.05 Earths, it takes 35.1 days to complete one orbit of its star, and is 0.211 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-172-e/",
+    "Id": "kepler-172-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1859/kepler-172-e/",
+    "Mass": "8.05 Earths",
+    "Name": "kepler-172-e",
+    "Orbital Period": "35.1 days",
+    "Orbital Radius": "0.211 AU",
+    "Planet Radius": "0.246 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "65696486-cde9-4378-82be-1e504d5d44f5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-172-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-172-e/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-172-e",
+            "Path": "exoplanet_details/kepler-172-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-172_e"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1690 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.3 Earths, it takes 234.6 days to complete one orbit of its star, and is 0.7097 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1690-b/",
+    "Id": "kepler-1690-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7730/kepler-1690-b/",
+    "Mass": "8.3 Earths",
+    "Name": "kepler-1690-b",
+    "Orbital Period": "234.6 days",
+    "Orbital Radius": "0.7097 AU",
+    "Planet Radius": "0.251 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "2a181fa2-19c6-499e-8132-27632ae027ab",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1690-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1690-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1690-b",
+            "Path": "exoplanet_details/kepler-1690-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1690_b"
+    }
+}

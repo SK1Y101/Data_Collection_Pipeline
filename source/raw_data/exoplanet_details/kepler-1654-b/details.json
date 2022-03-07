@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1654 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.5 Jupiters, it takes 2.9 years to complete one orbit of its star, and is 2.026 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.26",
+    "File": "exoplanet_details/kepler-1654-b/",
+    "Id": "kepler-1654-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6275/kepler-1654-b/",
+    "Mass": "0.5 Jupiters",
+    "Name": "kepler-1654-b",
+    "Orbital Period": "2.9 years",
+    "Orbital Radius": "2.026 AU",
+    "Planet Radius": "0.819 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "fc35d4e3-cc78-40e2-9594-7152ae6a3dab",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1654-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1654-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1654-b",
+            "Path": "exoplanet_details/kepler-1654-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1654_b"
+    }
+}

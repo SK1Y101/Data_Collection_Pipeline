@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1514 c is a super Earth exoplanet that orbits an F-type star. Its mass is 1.74 Earths, it takes 10.5 days to complete one orbit of its star, and is 0.0997 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.32",
+    "File": "exoplanet_details/kepler-1514-c/",
+    "Id": "kepler-1514-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7738/kepler-1514-c/",
+    "Mass": "1.74 Earths",
+    "Name": "kepler-1514-c",
+    "Orbital Period": "10.5 days",
+    "Orbital Radius": "0.0997 AU",
+    "Planet Radius": "1.176 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "2aa8c2c7-978d-430a-bdbb-7805a45b4a9f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1514-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1514-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1514-c",
+            "Path": "exoplanet_details/kepler-1514-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1514_c"
+    }
+}

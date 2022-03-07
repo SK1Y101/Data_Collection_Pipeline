@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1628 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 33.8 Earths, it takes 76.4 days to complete one orbit of its star, and is 0.2952 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1628-b/",
+    "Id": "kepler-1628-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2274/kepler-1628-b/",
+    "Mass": "33.8 Earths",
+    "Name": "kepler-1628-b",
+    "Orbital Period": "76.4 days",
+    "Orbital Radius": "0.2952 AU",
+    "Planet Radius": "0.574 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "5eedf903-f0bf-42b6-b41f-3c293a881c32",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1628-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1628-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1628-b",
+            "Path": "exoplanet_details/kepler-1628-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1628_b"
+    }
+}

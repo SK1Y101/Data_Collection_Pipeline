@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-148 d is a gas giant exoplanet that orbits a K-type star. Its mass is 0.177 Jupiters, it takes 51.8 days to complete one orbit of its star, and is 0.2607 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-148-d/",
+    "Id": "kepler-148-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5922/kepler-148-d/",
+    "Mass": "0.177 Jupiters",
+    "Name": "kepler-148-d",
+    "Orbital Period": "51.8 days",
+    "Orbital Radius": "0.2607 AU",
+    "Planet Radius": "0.774 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "8572cb68-9fd8-49de-b062-9148c5d99e02",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-148-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-148-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-148-d",
+            "Path": "exoplanet_details/kepler-148-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-148_d"
+    }
+}

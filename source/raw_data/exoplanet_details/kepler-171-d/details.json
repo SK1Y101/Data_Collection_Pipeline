@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-171 d is a super Earth exoplanet that orbits a G-type star. Its mass is 4.23 Earths, it takes 39.6 days to complete one orbit of its star, and is 0.223 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-171-d/",
+    "Id": "kepler-171-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1856/kepler-171-d/",
+    "Mass": "4.23 Earths",
+    "Name": "kepler-171-d",
+    "Orbital Period": "39.6 days",
+    "Orbital Radius": "0.223 AU",
+    "Planet Radius": "1.89 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "fd5f821d-8ce6-4ddf-963d-c2926494d98c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-171-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-171-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-171-d",
+            "Path": "exoplanet_details/kepler-171-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-171_d"
+    }
+}

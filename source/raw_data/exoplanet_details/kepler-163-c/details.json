@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-163 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.73 Earths, it takes 21.3 days to complete one orbit of its star, and is 0.152 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-163-c/",
+    "Id": "kepler-163-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1761/kepler-163-c/",
+    "Mass": "5.73 Earths",
+    "Name": "kepler-163-c",
+    "Orbital Period": "21.3 days",
+    "Orbital Radius": "0.152 AU",
+    "Planet Radius": "0.202 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "b2ed683f-5385-46b2-88a6-54e6a3fe8ff1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-163-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-163-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-163-c",
+            "Path": "exoplanet_details/kepler-163-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-163_c"
+    }
+}

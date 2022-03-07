@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1688 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.13 Earths, it takes 5.6 days to complete one orbit of its star, and is 0.0577 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1688-b/",
+    "Id": "kepler-1688-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7728/kepler-1688-b/",
+    "Mass": "2.13 Earths",
+    "Name": "kepler-1688-b",
+    "Orbital Period": "5.6 days",
+    "Orbital Radius": "0.0577 AU",
+    "Planet Radius": "1.262 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "cd53f25a-1c86-4d84-9f98-5821b72156c5",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1688-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1688-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1688-b",
+            "Path": "exoplanet_details/kepler-1688-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1688_b"
+    }
+}

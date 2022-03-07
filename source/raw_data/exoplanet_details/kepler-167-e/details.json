@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-167 e is a gas giant exoplanet that orbits a K-type star. Its mass is 0.231 Jupiters, it takes 2.9 years to complete one orbit of its star, and is 1.89 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.06",
+    "File": "exoplanet_details/kepler-167-e/",
+    "Id": "kepler-167-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4406/kepler-167-e/",
+    "Mass": "0.231 Jupiters",
+    "Name": "kepler-167-e",
+    "Orbital Period": "2.9 years",
+    "Orbital Radius": "1.89 AU",
+    "Planet Radius": "0.906 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "9d8c0b2e-30e4-4b66-a337-f3d25c11f827",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-167-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-167-e/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-167-e",
+            "Path": "exoplanet_details/kepler-167-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-167_e"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1315 c is a super Earth exoplanet that orbits a K-type star. Its mass is 4.06 Earths, it takes 6.6 days to complete one orbit of its star, and is 0.064 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1315-c/",
+    "Id": "kepler-1315-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8260/kepler-1315-c/",
+    "Mass": "4.06 Earths",
+    "Name": "kepler-1315-c",
+    "Orbital Period": "6.6 days",
+    "Orbital Radius": "0.064 AU",
+    "Planet Radius": "1.844 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "4d535308-605c-44e0-9f50-4b76edb7a07c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1315-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1315-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1315-c",
+            "Path": "exoplanet_details/kepler-1315-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1315_c"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1734 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 9.74 Earths, it takes 6.8 days to complete one orbit of its star, and is 0.0714 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1734-b/",
+    "Id": "kepler-1734-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8309/kepler-1734-b/",
+    "Mass": "9.74 Earths",
+    "Name": "kepler-1734-b",
+    "Orbital Period": "6.8 days",
+    "Orbital Radius": "0.0714 AU",
+    "Planet Radius": "0.276 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "1e609f0f-09ca-4bd9-84c7-0118b67f561f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1734-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1734-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1734-b",
+            "Path": "exoplanet_details/kepler-1734-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1734_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "",
+    "Detection Method": "Transit",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.01",
+    "File": "exoplanet_details/kepler-16b/",
+    "Id": "kepler-16b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1814/kepler-16b/",
+    "Mass": "0.333 Jupiters",
+    "Name": "kepler-16b",
+    "Orbital Period": "228.8 days",
+    "Orbital Radius": "0.7048 AU",
+    "Planet Radius": "0.754 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7abe3aa0-8073-45fb-a5c1-7a59b68473e2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-16b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-16b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-16b",
+            "Path": "exoplanet_details/kepler-16b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/system/Kepler-16"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1737 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 25.1 Earths, it takes 64.6 days to complete one orbit of its star, and is 0.297 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1737-b/",
+    "Id": "kepler-1737-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8183/kepler-1737-b/",
+    "Mass": "25.1 Earths",
+    "Name": "kepler-1737-b",
+    "Orbital Period": "64.6 days",
+    "Orbital Radius": "0.297 AU",
+    "Planet Radius": "0.481 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "945ea600-e4e0-4adc-bbbf-4e57d3122721",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1737-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1737-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1737-b",
+            "Path": "exoplanet_details/kepler-1737-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1737_b"
+    }
+}

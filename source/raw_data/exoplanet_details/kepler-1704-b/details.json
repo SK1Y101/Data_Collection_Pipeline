@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1704 b is a gas giant exoplanet that orbits a G-type star. Its mass is 4.15 Jupiters, it takes 2.7 years to complete one orbit of its star, and is 2.026 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.92",
+    "File": "exoplanet_details/kepler-1704-b/",
+    "Id": "kepler-1704-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7928/kepler-1704-b/",
+    "Mass": "4.15 Jupiters",
+    "Name": "kepler-1704-b",
+    "Orbital Period": "2.7 years",
+    "Orbital Radius": "2.026 AU",
+    "Planet Radius": "1.065 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ce3bbf05-fa1f-4a95-bc87-8fe90bc7c386",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1704-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1704-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1704-b",
+            "Path": "exoplanet_details/kepler-1704-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1704_b"
+    }
+}

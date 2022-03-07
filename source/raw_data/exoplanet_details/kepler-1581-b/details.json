@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1581 b is a terrestrial exoplanet that orbits an F-type star. Its mass is 0.437 Earths, it takes 6.3 days to complete one orbit of its star, and is 0.0674 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1581-b/",
+    "Id": "kepler-1581-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2456/kepler-1581-b/",
+    "Mass": "0.437 Earths",
+    "Name": "kepler-1581-b",
+    "Orbital Period": "6.3 days",
+    "Orbital Radius": "0.0674 AU",
+    "Planet Radius": "0.8 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "1c1bbd79-b8e0-4563-81de-b30215fb388c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1581-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1581-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1581-b",
+            "Path": "exoplanet_details/kepler-1581-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1581_b"
+    }
+}

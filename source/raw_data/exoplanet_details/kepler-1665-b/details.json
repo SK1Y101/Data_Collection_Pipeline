@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1665 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.44 Earths, it takes 12 days to complete one orbit of its star, and is 0.1006 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1665-b/",
+    "Id": "kepler-1665-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7697/kepler-1665-b/",
+    "Mass": "8.44 Earths",
+    "Name": "kepler-1665-b",
+    "Orbital Period": "12 days",
+    "Orbital Radius": "0.1006 AU",
+    "Planet Radius": "0.253 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "144c1888-16d4-4001-be37-f7840f3cc890",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1665-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1665-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1665-b",
+            "Path": "exoplanet_details/kepler-1665-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1665_b"
+    }
+}

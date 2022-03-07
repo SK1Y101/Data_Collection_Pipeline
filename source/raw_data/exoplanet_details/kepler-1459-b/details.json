@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1459 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.42 Earths, it takes 62.9 days to complete one orbit of its star, and is 0.2829 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1459-b/",
+    "Id": "kepler-1459-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2327/kepler-1459-b/",
+    "Mass": "2.42 Earths",
+    "Name": "kepler-1459-b",
+    "Orbital Period": "62.9 days",
+    "Orbital Radius": "0.2829 AU",
+    "Planet Radius": "1.36 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "7bceedcc-7b21-4c96-84ac-faf0afd15bf6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1459-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1459-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1459-b",
+            "Path": "exoplanet_details/kepler-1459-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1459_b"
+    }
+}

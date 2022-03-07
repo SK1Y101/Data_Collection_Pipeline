@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1289 b is a super Earth exoplanet that orbits an F-type star. Its mass is 2.92 Earths, it takes 8 days to complete one orbit of its star, and is 0.0785 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1289-b/",
+    "Id": "kepler-1289-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/4424/kepler-1289-b/",
+    "Mass": "2.92 Earths",
+    "Name": "kepler-1289-b",
+    "Orbital Period": "8 days",
+    "Orbital Radius": "0.0785 AU",
+    "Planet Radius": "1.52 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "85b7e0ed-76d5-4870-8358-7f8496b31926",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1289-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1289-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1289-b",
+            "Path": "exoplanet_details/kepler-1289-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1289_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-122 d is a Neptune-like exoplanet that orbits an F-type star. Its mass is 5.48 Earths, it takes 21.6 days to complete one orbit of its star, and is 0.155 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-122-d/",
+    "Id": "kepler-122-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5935/kepler-122-d/",
+    "Mass": "5.48 Earths",
+    "Name": "kepler-122-d",
+    "Orbital Period": "21.6 days",
+    "Orbital Radius": "0.155 AU",
+    "Planet Radius": "2.2 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "b181db22-384b-402d-8516-67b47bf49696",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-122-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-122-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-122-d",
+            "Path": "exoplanet_details/kepler-122-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-122_d"
+    }
+}

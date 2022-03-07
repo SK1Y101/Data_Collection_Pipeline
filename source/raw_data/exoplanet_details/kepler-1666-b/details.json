@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1666 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 8.66 Earths, it takes 25.8 days to complete one orbit of its star, and is 0.1761 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1666-b/",
+    "Id": "kepler-1666-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7700/kepler-1666-b/",
+    "Mass": "8.66 Earths",
+    "Name": "kepler-1666-b",
+    "Orbital Period": "25.8 days",
+    "Orbital Radius": "0.1761 AU",
+    "Planet Radius": "0.257 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "3746b1c1-c9f6-4d79-93dc-800157208162",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1666-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1666-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1666-b",
+            "Path": "exoplanet_details/kepler-1666-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1666_b"
+    }
+}

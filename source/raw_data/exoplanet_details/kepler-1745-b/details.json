@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1745 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.38 Earths, it takes 3 days to complete one orbit of its star, and is 0.0408 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1745-b/",
+    "Id": "kepler-1745-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8312/kepler-1745-b/",
+    "Mass": "4.38 Earths",
+    "Name": "kepler-1745-b",
+    "Orbital Period": "3 days",
+    "Orbital Radius": "0.0408 AU",
+    "Planet Radius": "1.929 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "6f82fec9-e0ee-4862-95f8-c42d8756b705",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1745-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1745-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1745-b",
+            "Path": "exoplanet_details/kepler-1745-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1745_b"
+    }
+}

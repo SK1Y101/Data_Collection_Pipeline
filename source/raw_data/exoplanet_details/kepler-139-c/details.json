@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-139 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 11.4 Earths, it takes 157.1 days to complete one orbit of its star, and is 0.586 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-139-c/",
+    "Id": "kepler-139-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1559/kepler-139-c/",
+    "Mass": "11.4 Earths",
+    "Name": "kepler-139-c",
+    "Orbital Period": "157.1 days",
+    "Orbital Radius": "0.586 AU",
+    "Planet Radius": "0.302 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "dbab7112-3cf6-4425-b09d-28dc8f19716e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-139-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-139-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-139-c",
+            "Path": "exoplanet_details/kepler-139-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-139_c"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1530 c is a super Earth exoplanet that orbits a G-type star. Its mass is 3.36 Earths, it takes 5.3 days to complete one orbit of its star, and is 0.06 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1530-c/",
+    "Id": "kepler-1530-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2402/kepler-1530-c/",
+    "Mass": "3.36 Earths",
+    "Name": "kepler-1530-c",
+    "Orbital Period": "5.3 days",
+    "Orbital Radius": "0.06 AU",
+    "Planet Radius": "1.65 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "e6a44cb6-24d7-4d1d-8d62-0dd06068ed58",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1530-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1530-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1530-c",
+            "Path": "exoplanet_details/kepler-1530-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1530_c"
+    }
+}

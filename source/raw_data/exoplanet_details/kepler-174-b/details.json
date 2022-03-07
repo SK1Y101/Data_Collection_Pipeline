@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-174 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.5 Earths, it takes 14 days to complete one orbit of its star, and is 0.1 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-174-b/",
+    "Id": "kepler-174-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/626/kepler-174-b/",
+    "Mass": "4.5 Earths",
+    "Name": "kepler-174-b",
+    "Orbital Period": "14 days",
+    "Orbital Radius": "0.1 AU",
+    "Planet Radius": "1.96 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "bebe4677-c66f-4a83-8ff9-e8a38c6c7162",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-174-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-174-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-174-b",
+            "Path": "exoplanet_details/kepler-174-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-174_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1617 b is a super Earth exoplanet that orbits an F-type star. Its mass is 1.87 Earths, it takes 27.5 days to complete one orbit of its star, and is 0.181 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1617-b/",
+    "Id": "kepler-1617-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2263/kepler-1617-b/",
+    "Mass": "1.87 Earths",
+    "Name": "kepler-1617-b",
+    "Orbital Period": "27.5 days",
+    "Orbital Radius": "0.181 AU",
+    "Planet Radius": "1.2 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "a39cc14e-ac40-4db3-9d7c-0a92194e0069",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1617-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1617-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1617-b",
+            "Path": "exoplanet_details/kepler-1617-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1617_b"
+    }
+}

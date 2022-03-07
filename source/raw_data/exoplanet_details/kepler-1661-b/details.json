@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1661 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 17 Earths, it takes 175.1 days to complete one orbit of its star, and is 0.633 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.06",
+    "File": "exoplanet_details/kepler-1661-b/",
+    "Id": "kepler-1661-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7598/kepler-1661-b/",
+    "Mass": "17 Earths",
+    "Name": "kepler-1661-b",
+    "Orbital Period": "175.1 days",
+    "Orbital Radius": "0.633 AU",
+    "Planet Radius": "0.345 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "dd23a4e7-b0b4-4553-bc81-fc701786e1a3",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1661-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1661-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1661-b",
+            "Path": "exoplanet_details/kepler-1661-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1661_b"
+    }
+}

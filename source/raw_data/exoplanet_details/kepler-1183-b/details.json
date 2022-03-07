@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1183 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.35 Earths, it takes 28.5 days to complete one orbit of its star, and is 0.1793 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1183-b/",
+    "Id": "kepler-1183-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/5080/kepler-1183-b/",
+    "Mass": "8.35 Earths",
+    "Name": "kepler-1183-b",
+    "Orbital Period": "28.5 days",
+    "Orbital Radius": "0.1793 AU",
+    "Planet Radius": "0.252 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "1eff7854-2809-4f14-9986-d9dd0223d44b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1183-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1183-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1183-b",
+            "Path": "exoplanet_details/kepler-1183-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1183_b"
+    }
+}

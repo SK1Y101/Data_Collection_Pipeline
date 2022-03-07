@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-123 c is a super Earth exoplanet that orbits an F-type star. Its mass is 2.79 Earths, it takes 26.7 days to complete one orbit of its star, and is 0.181 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-123-c/",
+    "Id": "kepler-123-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1453/kepler-123-c/",
+    "Mass": "2.79 Earths",
+    "Name": "kepler-123-c",
+    "Orbital Period": "26.7 days",
+    "Orbital Radius": "0.181 AU",
+    "Planet Radius": "1.48 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "02982b7b-9299-479b-9801-16e59b5cadea",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-123-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-123-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-123-c",
+            "Path": "exoplanet_details/kepler-123-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-123_c"
+    }
+}

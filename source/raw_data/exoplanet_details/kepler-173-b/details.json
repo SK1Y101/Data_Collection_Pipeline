@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-173 b is a super Earth exoplanet that orbits an F-type star. Its mass is 2.21 Earths, it takes 4.3 days to complete one orbit of its star, and is 0.048 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-173-b/",
+    "Id": "kepler-173-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1860/kepler-173-b/",
+    "Mass": "2.21 Earths",
+    "Name": "kepler-173-b",
+    "Orbital Period": "4.3 days",
+    "Orbital Radius": "0.048 AU",
+    "Planet Radius": "1.29 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "acb34156-07e1-4e36-9cf0-00281ce2d405",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-173-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-173-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-173-b",
+            "Path": "exoplanet_details/kepler-173-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-173_b"
+    }
+}

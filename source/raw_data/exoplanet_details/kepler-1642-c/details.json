@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1642 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.56 Earths, it takes 6.7 days to complete one orbit of its star, and is 0.0678 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1642-c/",
+    "Id": "kepler-1642-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2290/kepler-1642-c/",
+    "Mass": "7.56 Earths",
+    "Name": "kepler-1642-c",
+    "Orbital Period": "6.7 days",
+    "Orbital Radius": "0.0678 AU",
+    "Planet Radius": "0.237 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "3851325b-6efe-4486-940a-d37c699d9b29",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1642-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1642-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1642-c",
+            "Path": "exoplanet_details/kepler-1642-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1642_c"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1542 b is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.363 Earths, it takes 4 days to complete one orbit of its star, and is 0.0479 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1542-b/",
+    "Id": "kepler-1542-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2426/kepler-1542-b/",
+    "Mass": "0.363 Earths",
+    "Name": "kepler-1542-b",
+    "Orbital Period": "4 days",
+    "Orbital Radius": "0.0479 AU",
+    "Planet Radius": "0.76 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "51fa1acc-9238-4eb4-a02f-743973442555",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1542-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1542-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1542-b",
+            "Path": "exoplanet_details/kepler-1542-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1542_b"
+    }
+}

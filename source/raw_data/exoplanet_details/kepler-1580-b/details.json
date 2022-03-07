@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1580 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 5.1 Earths, it takes 56.6 days to complete one orbit of its star, and is 0.323 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1580-b/",
+    "Id": "kepler-1580-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2455/kepler-1580-b/",
+    "Mass": "5.1 Earths",
+    "Name": "kepler-1580-b",
+    "Orbital Period": "56.6 days",
+    "Orbital Radius": "0.323 AU",
+    "Planet Radius": "2.11 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "36c55f7f-fb1b-4bbf-8338-095ade6b548d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1580-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1580-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1580-b",
+            "Path": "exoplanet_details/kepler-1580-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1580_b"
+    }
+}

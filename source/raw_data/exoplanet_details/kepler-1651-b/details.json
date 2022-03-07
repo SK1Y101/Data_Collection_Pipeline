@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1651 b is a super Earth exoplanet that orbits an M-type star. Its mass is 4.04 Earths, it takes 9.9 days to complete one orbit of its star, and is 0.0692 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.13",
+    "File": "exoplanet_details/kepler-1651-b/",
+    "Id": "kepler-1651-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3507/kepler-1651-b/",
+    "Mass": "4.04 Earths",
+    "Name": "kepler-1651-b",
+    "Orbital Period": "9.9 days",
+    "Orbital Radius": "0.0692 AU",
+    "Planet Radius": "1.84 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "9d23a0b7-06dc-47aa-9c90-8eab20a80093",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1651-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1651-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1651-b",
+            "Path": "exoplanet_details/kepler-1651-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1651_b"
+    }
+}

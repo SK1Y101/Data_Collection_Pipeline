@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1365 c is a terrestrial exoplanet that orbits a G-type star. Its mass is 0.437 Earths, it takes 4.8 days to complete one orbit of its star, and is 0.0545 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1365-c/",
+    "Id": "kepler-1365-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2746/kepler-1365-c/",
+    "Mass": "0.437 Earths",
+    "Name": "kepler-1365-c",
+    "Orbital Period": "4.8 days",
+    "Orbital Radius": "0.0545 AU",
+    "Planet Radius": "0.8 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "e1948658-99bb-4448-810d-1ff98fc980a4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1365-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1365-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1365-c",
+            "Path": "exoplanet_details/kepler-1365-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1365_c"
+    }
+}

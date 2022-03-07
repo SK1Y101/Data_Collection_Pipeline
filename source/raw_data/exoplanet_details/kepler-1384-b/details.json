@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1384 b is a super Earth exoplanet that orbits a K-type star. Its mass is 4.42 Earths, it takes 15.4 days to complete one orbit of its star, and is 0.1126 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1384-b/",
+    "Id": "kepler-1384-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/2799/kepler-1384-b/",
+    "Mass": "4.42 Earths",
+    "Name": "kepler-1384-b",
+    "Orbital Period": "15.4 days",
+    "Orbital Radius": "0.1126 AU",
+    "Planet Radius": "1.94 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "3e1e2fd6-7633-4f01-bf5e-04d57e04c805",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1384-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1384-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1384-b",
+            "Path": "exoplanet_details/kepler-1384-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1384_b"
+    }
+}

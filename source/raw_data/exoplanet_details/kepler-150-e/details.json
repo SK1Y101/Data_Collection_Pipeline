@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-150 e is a Neptune-like exoplanet that orbits a G-type star. Its mass is 9.91 Earths, it takes 30.8 days to complete one orbit of its star, and is 0.189 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-150-e/",
+    "Id": "kepler-150-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1660/kepler-150-e/",
+    "Mass": "9.91 Earths",
+    "Name": "kepler-150-e",
+    "Orbital Period": "30.8 days",
+    "Orbital Radius": "0.189 AU",
+    "Planet Radius": "0.278 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "f2e7bc2f-fdc1-4c84-948b-5f04f5157448",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-150-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-150-e/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-150-e",
+            "Path": "exoplanet_details/kepler-150-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-150_e"
+    }
+}

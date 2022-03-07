@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-127 d is a Neptune-like exoplanet that orbits an F-type star. Its mass is 7.46 Earths, it takes 48.6 days to complete one orbit of its star, and is 0.28 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.03",
+    "File": "exoplanet_details/kepler-127-d/",
+    "Id": "kepler-127-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1539/kepler-127-d/",
+    "Mass": "7.46 Earths",
+    "Name": "kepler-127-d",
+    "Orbital Period": "48.6 days",
+    "Orbital Radius": "0.28 AU",
+    "Planet Radius": "0.236 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "2e05a562-d498-4c9f-bd7e-5472f5b86855",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-127-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-127-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-127-d",
+            "Path": "exoplanet_details/kepler-127-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-127_d"
+    }
+}

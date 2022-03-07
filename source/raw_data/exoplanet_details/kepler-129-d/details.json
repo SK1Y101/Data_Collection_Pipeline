@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-129 d is a gas giant exoplanet that orbits a G-type star. Its mass is 8.3 Jupiters, it takes 7.2 years to complete one orbit of its star, and is 4 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.15",
+    "File": "exoplanet_details/kepler-129-d/",
+    "Id": "kepler-129-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7896/kepler-129-d/",
+    "Mass": "8.3 Jupiters",
+    "Name": "kepler-129-d",
+    "Orbital Period": "7.2 years",
+    "Orbital Radius": "4.0 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "225c8924-1ae3-4cc0-a4c8-9be7921fb88f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-129-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-129-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-129-d",
+            "Path": "exoplanet_details/kepler-129-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-129_d"
+    }
+}

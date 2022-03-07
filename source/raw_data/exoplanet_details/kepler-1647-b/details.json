@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1647 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.51968 Jupiters, it takes 3 years to complete one orbit of its star, and is 2.7205 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.06",
+    "File": "exoplanet_details/kepler-1647-b/",
+    "Id": "kepler-1647-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3269/kepler-1647-b/",
+    "Mass": "1.51968 Jupiters",
+    "Name": "kepler-1647-b",
+    "Orbital Period": "3 years",
+    "Orbital Radius": "2.7205 AU",
+    "Planet Radius": "1.059 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "4c232344-741d-4cdf-9a4e-282cdc9402de",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1647-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1647-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1647-b",
+            "Path": "exoplanet_details/kepler-1647-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1647_b"
+    }
+}

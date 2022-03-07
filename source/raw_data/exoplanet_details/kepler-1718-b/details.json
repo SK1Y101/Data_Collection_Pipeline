@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1718 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 7.12 Earths, it takes 135.2 days to complete one orbit of its star, and is 0.4878 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1718-b/",
+    "Id": "kepler-1718-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8149/kepler-1718-b/",
+    "Mass": "7.12 Earths",
+    "Name": "kepler-1718-b",
+    "Orbital Period": "135.2 days",
+    "Orbital Radius": "0.4878 AU",
+    "Planet Radius": "0.229 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "1c69292d-170d-4117-b56a-6e0b23735373",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1718-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1718-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1718-b",
+            "Path": "exoplanet_details/kepler-1718-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1718_b"
+    }
+}

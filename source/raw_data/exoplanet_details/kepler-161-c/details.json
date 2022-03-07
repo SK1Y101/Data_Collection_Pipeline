@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-161 c is a super Earth exoplanet that orbits a K-type star. Its mass is 11.8 Earths, it takes 7.1 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-161-c/",
+    "Id": "kepler-161-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1758/kepler-161-c/",
+    "Mass": "11.8 Earths",
+    "Name": "kepler-161-c",
+    "Orbital Period": "7.1 days",
+    "Orbital Radius": "0.068 AU",
+    "Planet Radius": "2.05 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "b004876c-66ed-42e8-82ca-63b006baad3f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-161-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-161-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-161-c",
+            "Path": "exoplanet_details/kepler-161-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-161_c"
+    }
+}

@@ -179,7 +179,7 @@ def saveToCSV(dfname, thisdata, dataFolderPath):
                    # Database details
                    "File",
                    "Uuid",
-                   "Link"]
+                   "Link",]
         # create the dataframe object
         df = pd.DataFrame(columns=headers)
     else:
@@ -292,10 +292,12 @@ def main():
 
 # only execute if this is the top level code
 if __name__ == "__main__":
+    upload = False
     # execute
     try:
         main()
     finally:
     #    upload when completed, or if an error occured because I'm too lazy to select multipl eprograms
-        import upload_to_aws
-        upload_to_aws.main()
+        if upload:
+            import upload_to_aws
+            upload_to_aws.main()
