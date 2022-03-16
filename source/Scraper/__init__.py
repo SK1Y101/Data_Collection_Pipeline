@@ -7,6 +7,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
 
 # drivers for selenium
 from webdriver_manager.firefox import GeckoDriverManager
@@ -22,29 +23,29 @@ wait = time.sleep
 ## base scraper class
 class Scraper:
     # initialisation 
-    def __init__(self, ip="0.0.0.0", port="4444", forceRemote=False):
+    def __init__(self, address=None, headless=None):
         # try to use the local webdriver
-        self.__fetchDriver__(ip, port, forceRemote)
+        self.__fetchDriver__(address=address, headless=headless)
         self.driver.maximize_window()
         self.actions = ActionChains(self.driver)
         self.filedir = ""
     
     # fetch the selenium driver according to priority
-    def __fetchDriver__(self, ip="0.0.0.0", port="4444", forceRemote=False):
-        # if we are forcing remote, try to connect to that first
-        if forceRemote:
-            try:
-                self.driver = webdriver.Remote(command_executor="http://{}:{}}".format(ip, port), options=webdriver.FirefoxOptions())
-            # fallback to local attempt
-            except:
-                self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
-        # otherwise, attempt to launch locally first
+    def __fetchDriver__(self, address=None, headless=None):
+        # fetch the options for firefox
+        options = webdriver.FirefoxOptions()
+        # set to headless if desired
+        if headless:
+            options.headless = True
+        
+        # if an address was given, connect
+        if address:
+            # start the remote webdriver
+            self.driver = webdriver.Remote(command_executor="http://{}".format(address), options=options)
+            print("Connected to remote WebDriver.")
+        # otherwise, local driver
         else:
-            try:
-                self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
-            # fallback to remote attempt
-            except:
-                self.driver = webdriver.Remote(command_executor="http://{}:{}}".format(ip, port), options=webdriver.FirefoxOptions())
+            self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
     
     # find multiple elements that match an xpath thingy
     def findAll(self, tagName="*", attribute=None, value=None, source=None):

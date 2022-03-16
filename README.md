@@ -85,3 +85,5 @@ I know that I should appreciate docker, its an awesome way of abstracting a lot 
 Apparently setting up docker should take 2 days. It took 2 weeks, and I'm pretty sure I've now seen every possible error message possible with the selenium/firefox/python/docker combination.
 
 Now that it works, we can run the scraper remotely. Just fire up the standalone firefox instance, point the scraper at the remote IP, and watch everything trun. It's kinda cool when it all comes together.
+
+Now, to ensure that works, we need to be able to pass arguments to our python script (Specifically, the ip, port, and headless mode). We can quite simply achieve this, just change the CMD to an ENTRYPOINT in our Docker file, and pass the environment variables when we run the container!

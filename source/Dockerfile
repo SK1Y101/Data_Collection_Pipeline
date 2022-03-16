@@ -14,4 +14,4 @@ RUN apt-get install -y firefox-esr
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
 # run the scraper script
-CMD ["python3", "scrape_for_exoplanets.py"]
+ENTRYPOINT ["python3", "scrape_for_exoplanets.py"]

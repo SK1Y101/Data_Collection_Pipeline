@@ -1,6 +1,5 @@
 # import required modules
-import sys
-import time, uuid, pathlib
+import time, uuid, pathlib, argparse
 from tqdm import trange
 import pandas as pd
 
@@ -250,11 +249,11 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         # wait for a small amount of time
 
 # main program loop
-def main(ip_address):
+def main(address=None, headless=None):
     ''' Main program loop, Will scrape for exoplanet information. '''
     # Try using it on the initial website!
     # create the scraper instance
-    scraper = Scraper(ip_address)
+    scraper = Scraper(address=address, headless=headless)
 
     # if we have any errors
     try:
@@ -291,16 +290,20 @@ def main(ip_address):
         # and close the scraping session
         scraper.close()
 
+# fetch any passed arguments
+parser = argparse.ArgumentParser(description="Scrape for exoplanets!")
+parser.add_argument("--address", help="The Ip and port of the remote webdriver to connect to.")
+parser.add_argument("--headless", help="Whether the scraper should start in headless mode", action="store_true")
+parser.add_argument("--upload", help="Upload data to AWS when finished", action="store_true")
+
 # only execute if this is the top level code
 if __name__ == "__main__":
-    upload = False
     # execute
     try:
-        # fetch the passed in ip to search
-        ip = sys.argv[1] if len(sys.argv) > 1 else "0.0.0.0"
-        main(ip)
+        args = parser.parse_args()
+        main(address=args.address, headless=args.headless)
     finally:
     #    upload when completed, or if an error occured because I'm too lazy to select multipl eprograms
-        if upload:
+        if args.upload:
             import upload_to_aws
             upload_to_aws.main()
