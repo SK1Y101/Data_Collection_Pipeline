@@ -1,0 +1,31 @@
+{
+    "Description": "2MASS J19383260+4603591 b is a gas giant exoplanet that orbits a B-type star. Its mass is 1.9 Jupiters, it takes 416 days to complete one orbit of its star, and is 0.92 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Eclipse Timing Variations",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/2mass-j193832604603591-b/",
+    "Id": "2mass-j193832604603591-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7108/2mass-j193832604603591-b/",
+    "Mass": "1.9 Jupiters",
+    "Name": "2mass-j193832604603591-b",
+    "Orbital Period": "416 days",
+    "Orbital Radius": "0.92 AU",
+    "Planet Radius": "1.2 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "64ade86d-3bce-4356-8cd6-cad043fb56f2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/2mass-j193832604603591-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/2mass-j193832604603591-b/images/1.png"
+        },
+        "2": {
+            "Description": "2mass-j193832604603591-b",
+            "Path": "exoplanet_details/2mass-j193832604603591-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/2MASS_J19383260+4603591_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1784 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.24 Earths, it takes 13.6 days to complete one orbit of its star, and is 0.1072 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1784-b/",
+    "Id": "kepler-1784-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8133/kepler-1784-b/",
+    "Mass": "8.24 Earths",
+    "Name": "kepler-1784-b",
+    "Orbital Period": "13.6 days",
+    "Orbital Radius": "0.1072 AU",
+    "Planet Radius": "0.25 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "22e9771a-4338-4697-b5ec-d42375dc6ceb",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1784-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1784-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1784-b",
+            "Path": "exoplanet_details/kepler-1784-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1784_b"
+    }
+}

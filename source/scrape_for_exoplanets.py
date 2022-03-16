@@ -1,4 +1,5 @@
 # import required modules
+import sys
 import time, uuid, pathlib
 from tqdm import trange
 import pandas as pd
@@ -249,11 +250,11 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         # wait for a small amount of time
 
 # main program loop
-def main():
+def main(ip_address):
     ''' Main program loop, Will scrape for exoplanet information. '''
     # Try using it on the initial website!
     # create the scraper instance
-    scraper = Scraper()
+    scraper = Scraper(ip_address)
 
     # if we have any errors
     try:
@@ -295,7 +296,9 @@ if __name__ == "__main__":
     upload = False
     # execute
     try:
-        main()
+        # fetch the passed in ip to search
+        ip = sys.argv[1] if len(sys.argv) > 1 else "0.0.0.0"
+        main(ip)
     finally:
     #    upload when completed, or if an error occured because I'm too lazy to select multipl eprograms
         if upload:

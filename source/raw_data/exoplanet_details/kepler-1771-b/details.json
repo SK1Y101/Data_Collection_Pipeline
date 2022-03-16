@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1771 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 15.5 Earths, it takes 88.6 days to complete one orbit of its star, and is 0.3815 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1771-b/",
+    "Id": "kepler-1771-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8291/kepler-1771-b/",
+    "Mass": "15.5 Earths",
+    "Name": "kepler-1771-b",
+    "Orbital Period": "88.6 days",
+    "Orbital Radius": "0.3815 AU",
+    "Planet Radius": "0.362 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "420d5a6e-2fe7-43fb-9180-044020feb16e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1771-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1771-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1771-b",
+            "Path": "exoplanet_details/kepler-1771-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1771_b"
+    }
+}

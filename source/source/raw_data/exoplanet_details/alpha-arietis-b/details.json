@@ -1,0 +1,31 @@
+{
+    "Description": "Alpha Arietis b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.8 Jupiters, it takes 380.8 days to complete one orbit of its star, and is 1.2 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.25",
+    "File": "exoplanet_details/alpha-arietis-b/",
+    "Id": "alpha-arietis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7038/alpha-arietis-b/",
+    "Mass": "1.8 Jupiters",
+    "Name": "alpha-arietis-b",
+    "Orbital Period": "380.8 days",
+    "Orbital Radius": "1.2 AU",
+    "Planet Radius": "1.2 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "5c5a2c99-26ee-4c9a-b4f4-f926904224e3",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/alpha-arietis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/alpha-arietis-b/images/1.png"
+        },
+        "2": {
+            "Description": "Alpha-arietis-b",
+            "Path": "exoplanet_details/alpha-arietis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/alf_Ari_b"
+    }
+}

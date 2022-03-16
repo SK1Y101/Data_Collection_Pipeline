@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1759 b is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.676 Earths, it takes 3.7 days to complete one orbit of its star, and is 0.0429 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1759-b/",
+    "Id": "kepler-1759-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8147/kepler-1759-b/",
+    "Mass": "0.676 Earths",
+    "Name": "kepler-1759-b",
+    "Orbital Period": "3.7 days",
+    "Orbital Radius": "0.0429 AU",
+    "Planet Radius": "0.904 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "0b09a93d-32c9-431d-bd10-9e9c270791be",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1759-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1759-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1759-b",
+            "Path": "exoplanet_details/kepler-1759-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1759_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1768 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 5.62 Earths, it takes 15.1 days to complete one orbit of its star, and is 0.1286 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1768-b/",
+    "Id": "kepler-1768-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8242/kepler-1768-b/",
+    "Mass": "5.62 Earths",
+    "Name": "kepler-1768-b",
+    "Orbital Period": "15.1 days",
+    "Orbital Radius": "0.1286 AU",
+    "Planet Radius": "2.233 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "998724e1-a20e-4b85-9725-6428ef0c89f2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1768-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1768-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1768-b",
+            "Path": "exoplanet_details/kepler-1768-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1768_b"
+    }
+}

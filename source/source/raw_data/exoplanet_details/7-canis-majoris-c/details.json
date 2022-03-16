@@ -1,0 +1,31 @@
+{
+    "Description": "7 Canis Majoris c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.87 Jupiters, it takes 2.7 years to complete one orbit of its star, and is 2.153 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.08",
+    "File": "exoplanet_details/7-canis-majoris-c/",
+    "Id": "7-canis-majoris-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7505/7-canis-majoris-c/",
+    "Mass": "0.87 Jupiters",
+    "Name": "7-canis-majoris-c",
+    "Orbital Period": "2.7 years",
+    "Orbital Radius": "2.153 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "5db966a3-77bc-4557-b5d2-25e03f315258",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/7-canis-majoris-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/7-canis-majoris-c/images/1.png"
+        },
+        "2": {
+            "Description": "7-canis-majoris-c",
+            "Path": "exoplanet_details/7-canis-majoris-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/7_CMa_c"
+    }
+}

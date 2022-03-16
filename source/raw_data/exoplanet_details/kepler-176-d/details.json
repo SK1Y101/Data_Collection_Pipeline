@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-176 d is a super Earth exoplanet that orbits a K-type star. Its mass is 15.2 Earths, it takes 25.8 days to complete one orbit of its star, and is 0.163 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-176-d/",
+    "Id": "kepler-176-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1867/kepler-176-d/",
+    "Mass": "15.2 Earths",
+    "Name": "kepler-176-d",
+    "Orbital Period": "25.8 days",
+    "Orbital Radius": "0.163 AU",
+    "Planet Radius": "0.224 x Jupiter",
+    "Planet Type": "Super Earth",
+    "Uuid": "42529b02-9521-46b6-8bef-bd5b88ad07a4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-176-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-176-d/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-176-d",
+            "Path": "exoplanet_details/kepler-176-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-176_d"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1769 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 18.2 Earths, it takes 89.2 days to complete one orbit of its star, and is 0.3987 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1769-b/",
+    "Id": "kepler-1769-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8072/kepler-1769-b/",
+    "Mass": "18.2 Earths",
+    "Name": "kepler-1769-b",
+    "Orbital Period": "89.2 days",
+    "Orbital Radius": "0.3987 AU",
+    "Planet Radius": "0.398 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "c3b7c375-0ae1-4bd3-9e10-237ae8c513c7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1769-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1769-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1769-b",
+            "Path": "exoplanet_details/kepler-1769-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1769_b"
+    }
+}

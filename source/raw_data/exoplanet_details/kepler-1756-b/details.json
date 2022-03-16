@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1756 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.77 Earths, it takes 2.4 days to complete one orbit of its star, and is 0.0319 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1756-b/",
+    "Id": "kepler-1756-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8316/kepler-1756-b/",
+    "Mass": "2.77 Earths",
+    "Name": "kepler-1756-b",
+    "Orbital Period": "2.4 days",
+    "Orbital Radius": "0.0319 AU",
+    "Planet Radius": "1.472 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "c027f3bb-e43b-4cd3-9271-5804c3f191ae",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1756-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1756-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1756-b",
+            "Path": "exoplanet_details/kepler-1756-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1756_b"
+    }
+}

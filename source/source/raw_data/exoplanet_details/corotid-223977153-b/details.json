@@ -1,0 +1,31 @@
+{
+    "Description": "CoRoTID 223977153 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.15 Jupiters, it takes 6.7 days to complete one orbit of its star, and is 0.071 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/corotid-223977153-b/",
+    "Id": "corotid-223977153-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7334/corotid-223977153-b/",
+    "Mass": "0.15 Jupiters",
+    "Name": "corotid-223977153-b",
+    "Orbital Period": "6.7 days",
+    "Orbital Radius": "0.071 AU",
+    "Planet Radius": "0.57 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "56c379f8-87da-4b96-a664-4c6b3987064d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/corotid-223977153-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/corotid-223977153-b/images/1.png"
+        },
+        "2": {
+            "Description": "Corotid-223977153-b",
+            "Path": "exoplanet_details/corotid-223977153-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/CoRoTID_223977153_b"
+    }
+}

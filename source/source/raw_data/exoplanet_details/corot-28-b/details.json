@@ -1,0 +1,31 @@
+{
+    "Description": "CoRoT-28 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.484 Jupiters, it takes 5.2 days to complete one orbit of its star, and is 0.0603 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.05",
+    "File": "exoplanet_details/corot-28-b/",
+    "Id": "corot-28-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1339/corot-28-b/",
+    "Mass": "0.484 Jupiters",
+    "Name": "corot-28-b",
+    "Orbital Period": "5.2 days",
+    "Orbital Radius": "0.0603 AU",
+    "Planet Radius": "0.955 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "aebc8014-1510-47fc-95be-b595a600913d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/corot-28-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/corot-28-b/images/1.png"
+        },
+        "2": {
+            "Description": "Corot-28-b",
+            "Path": "exoplanet_details/corot-28-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/CoRoT-28_b"
+    }
+}

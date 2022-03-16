@@ -1,0 +1,31 @@
+{
+    "Description": "EPIC 212297394 c is a Neptune-like exoplanet that orbits a K-type star. Its mass is 5.77 Earths and it takes 5.2 days to complete one orbit of its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/epic-212297394-c/",
+    "Id": "epic-212297394-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7981/epic-212297394-c/",
+    "Mass": "5.77 Earths",
+    "Name": "epic-212297394-c",
+    "Orbital Period": "5.2 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.203 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "f4b8dfaf-b128-4a58-98e5-24c7d1ecf5e0",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-212297394-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-212297394-c/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-212297394-c",
+            "Path": "exoplanet_details/epic-212297394-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_212297394_c"
+    }
+}

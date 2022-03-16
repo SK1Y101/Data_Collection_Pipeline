@@ -1,0 +1,31 @@
+{
+    "Description": "91 Aquarii b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.2 Jupiters, it takes 181.4 days to complete one orbit of its star, and is 0.7 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.03",
+    "File": "exoplanet_details/91-aquarii-b/",
+    "Id": "91-aquarii-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7013/91-aquarii-b/",
+    "Mass": "3.2 Jupiters",
+    "Name": "91-aquarii-b",
+    "Orbital Period": "181.4 days",
+    "Orbital Radius": "0.7 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "49404dbb-9ca6-41ee-875b-7c1bf465c99e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/91-aquarii-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/91-aquarii-b/images/1.png"
+        },
+        "2": {
+            "Description": "91-aquarii-b",
+            "Path": "exoplanet_details/91-aquarii-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/91_Aqr_b"
+    }
+}

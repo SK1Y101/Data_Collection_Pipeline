@@ -1,0 +1,31 @@
+{
+    "Description": "16 Cygni B b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.78 Jupiters, it takes 2.2 years to complete one orbit of its star, and is 1.66 AU from its star. Its discovery was announced in 1996.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "1996",
+    "Eccentricity": "0.68",
+    "File": "exoplanet_details/16-cygni-b-b/",
+    "Id": "16-cygni-b-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6992/16-cygni-b-b/",
+    "Mass": "1.78 Jupiters",
+    "Name": "16-cygni-b-b",
+    "Orbital Period": "2.2 years",
+    "Orbital Radius": "1.66 AU",
+    "Planet Radius": "1.2 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "758d6e43-fa10-44c0-8122-0d41a44ae960",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/16-cygni-b-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/16-cygni-b-b/images/1.png"
+        },
+        "2": {
+            "Description": "16-cygni-b-b",
+            "Path": "exoplanet_details/16-cygni-b-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/16_Cyg_B_b"
+    }
+}

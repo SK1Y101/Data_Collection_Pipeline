@@ -1,0 +1,31 @@
+{
+    "Description": "EPIC 206317286 b is a terrestrial exoplanet that orbits a K-type star. Its mass is 0.84 Earths and it takes 1.6 days to complete one orbit of its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/epic-206317286-b/",
+    "Id": "epic-206317286-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7401/epic-206317286-b/",
+    "Mass": "0.84 Earths",
+    "Name": "epic-206317286-b",
+    "Orbital Period": "1.6 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "0.96 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "5107b899-b1fe-4458-8204-18945044a335",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-206317286-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-206317286-b/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-206317286-b",
+            "Path": "exoplanet_details/epic-206317286-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_206317286_b"
+    }
+}

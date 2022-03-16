@@ -6,8 +6,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
-from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.support import expected_conditions as EC
+
+# drivers for selenium
+from webdriver_manager.firefox import GeckoDriverManager
 
 # Standard python
 import time, os, json
@@ -20,9 +22,15 @@ wait = time.sleep
 ## base scraper class
 class Scraper:
     # initialisation 
-    def __init__(self):
-        # fetch the webdriver
-        self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+    def __init__(self, ip="0.0.0.0"):
+        # try to use the local webdriver
+        try:
+            execpath = GeckoDriverManager().install()
+            self.driver = webdriver.Firefox(executable_path=execpath)
+        # otherwise, assume we're in a docker and use the remote
+        except:
+            firefox_options = webdriver.FirefoxOptions()
+            self.driver = webdriver.Remote(command_executor="http://{}:4444".format(ip), options=firefox_options)
         self.driver.maximize_window()
         self.actions = ActionChains(self.driver)
         self.filedir = ""

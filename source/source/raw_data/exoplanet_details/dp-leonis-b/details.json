@@ -1,0 +1,31 @@
+{
+    "Description": "DP Leonis b is a gas giant exoplanet that orbits a B-type star. Its mass is 6.28 Jupiters, it takes 28 years to complete one orbit of its star, and is 8.19 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Eclipse Timing Variations",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.39",
+    "File": "exoplanet_details/dp-leonis-b/",
+    "Id": "dp-leonis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7017/dp-leonis-b/",
+    "Mass": "6.28 Jupiters",
+    "Name": "dp-leonis-b",
+    "Orbital Period": "28 years",
+    "Orbital Radius": "8.19 AU",
+    "Planet Radius": "1.14 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3d3fcb4e-bdcf-44fd-b664-5a42d4fe754d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/dp-leonis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/dp-leonis-b/images/1.png"
+        },
+        "2": {
+            "Description": "Dp-leonis-b",
+            "Path": "exoplanet_details/dp-leonis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/DP_Leo_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "DE Canun Venaticorum b is a gas giant exoplanet that orbits an M-type star. Its mass is 12.0293 Jupiters, it takes 11.2 years to complete one orbit of its star, and is 5.75 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Eclipse Timing Variations",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/de-canun-venaticorum-b/",
+    "Id": "de-canun-venaticorum-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7433/de-canun-venaticorum-b/",
+    "Mass": "12.0293 Jupiters",
+    "Name": "de-canun-venaticorum-b",
+    "Orbital Period": "11.2 years",
+    "Orbital Radius": "5.75 AU",
+    "Planet Radius": "1.1 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "110fa303-6adc-4fe5-adbb-75afe3b2320c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/de-canun-venaticorum-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/de-canun-venaticorum-b/images/1.png"
+        },
+        "2": {
+            "Description": "De-canun-venaticorum-b",
+            "Path": "exoplanet_details/de-canun-venaticorum-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/DE_CVn_b"
+    }
+}

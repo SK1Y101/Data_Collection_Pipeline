@@ -1,0 +1,31 @@
+{
+    "Description": "8 Ursae Minoris b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.31 Jupiters, it takes 93.4 days to complete one orbit of its star, and is 0.49 AU from its star. Its discovery was announced in 2015.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2015",
+    "Eccentricity": "0.06",
+    "File": "exoplanet_details/8-ursae-minoris-b/",
+    "Id": "8-ursae-minoris-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7100/8-ursae-minoris-b/",
+    "Mass": "1.31 Jupiters",
+    "Name": "8-ursae-minoris-b",
+    "Orbital Period": "93.4 days",
+    "Orbital Radius": "0.49 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "55100cfa-02bf-4d20-9400-e3d68811d976",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/8-ursae-minoris-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/8-ursae-minoris-b/images/1.png"
+        },
+        "2": {
+            "Description": "8-ursae-minoris-b",
+            "Path": "exoplanet_details/8-ursae-minoris-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/8_UMi_b"
+    }
+}

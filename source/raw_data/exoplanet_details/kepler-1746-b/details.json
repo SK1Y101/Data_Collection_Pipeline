@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-1746 b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.186 Jupiters, it takes 321.2 days to complete one orbit of its star, and is 0.9453 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-1746-b/",
+    "Id": "kepler-1746-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8322/kepler-1746-b/",
+    "Mass": "0.186 Jupiters",
+    "Name": "kepler-1746-b",
+    "Orbital Period": "321.2 days",
+    "Orbital Radius": "0.9453 AU",
+    "Planet Radius": "0.797 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "87f050c7-921b-4eb6-a0cb-cf8e0f12395d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-1746-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-1746-b/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-1746-b",
+            "Path": "exoplanet_details/kepler-1746-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-1746_b"
+    }
+}

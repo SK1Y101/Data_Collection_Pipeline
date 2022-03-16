@@ -1,0 +1,31 @@
+{
+    "Description": "CoRoT-10 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.75 Jupiters, it takes 13.2 days to complete one orbit of its star, and is 0.1055 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.53",
+    "File": "exoplanet_details/corot-10-b/",
+    "Id": "corot-10-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1327/corot-10-b/",
+    "Mass": "2.75 Jupiters",
+    "Name": "corot-10-b",
+    "Orbital Period": "13.2 days",
+    "Orbital Radius": "0.1055 AU",
+    "Planet Radius": "0.97 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "e04f4490-e6f3-4fc2-8423-7edcbc2ff2e2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/corot-10-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/corot-10-b/images/1.png"
+        },
+        "2": {
+            "Description": "Corot-10-b",
+            "Path": "exoplanet_details/corot-10-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/CoRoT-10_b"
+    }
+}

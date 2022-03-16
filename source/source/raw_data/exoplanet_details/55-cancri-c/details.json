@@ -1,0 +1,31 @@
+{
+    "Description": "55 Cancri c is a gas giant exoplanet that orbits a K-type star. Its mass is 0.1714 Jupiters, it takes 44.4 days to complete one orbit of its star, and is 0.2373 AU from its star. Its discovery was announced in 2004.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2004",
+    "Eccentricity": "0.03",
+    "File": "exoplanet_details/55-cancri-c/",
+    "Id": "55-cancri-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7003/55-cancri-c/",
+    "Mass": "0.1714 Jupiters",
+    "Name": "55-cancri-c",
+    "Orbital Period": "44.4 days",
+    "Orbital Radius": "0.2373 AU",
+    "Planet Radius": "0.76 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3ec706e3-ff1d-4231-88f3-62a9c0cbd1fd",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/55-cancri-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/55-cancri-c/images/1.png"
+        },
+        "2": {
+            "Description": "55-cancri-c",
+            "Path": "exoplanet_details/55-cancri-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/55_Cnc_c"
+    }
+}

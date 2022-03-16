@@ -1,0 +1,31 @@
+{
+    "Description": "24 Sextantis b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.99 Jupiters, it takes 452.8 days to complete one orbit of its star, and is 1.333 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.09",
+    "File": "exoplanet_details/24-sextantis-b/",
+    "Id": "24-sextantis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6994/24-sextantis-b/",
+    "Mass": "1.99 Jupiters",
+    "Name": "24-sextantis-b",
+    "Orbital Period": "452.8 days",
+    "Orbital Radius": "1.333 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "58638ed2-1968-42d8-a8f6-a8304354a1a7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/24-sextantis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/24-sextantis-b/images/1.png"
+        },
+        "2": {
+            "Description": "24-sextantis-b",
+            "Path": "exoplanet_details/24-sextantis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/24_Sex_b"
+    }
+}

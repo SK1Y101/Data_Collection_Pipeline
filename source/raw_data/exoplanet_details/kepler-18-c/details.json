@@ -1,0 +1,31 @@
+{
+    "Description": "Kepler-18 c is a Neptune-like exoplanet that orbits a G-type star. Its mass is 17.3 Earths, it takes 7.6 days to complete one orbit of its star, and is 0.0752 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/kepler-18-c/",
+    "Id": "kepler-18-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1591/kepler-18-c/",
+    "Mass": "17.3 Earths",
+    "Name": "kepler-18-c",
+    "Orbital Period": "7.6 days",
+    "Orbital Radius": "0.0752 AU",
+    "Planet Radius": "0.49 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "c1523465-026e-4705-b044-5c71f74d50d9",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/kepler-18-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/kepler-18-c/images/1.png"
+        },
+        "2": {
+            "Description": "Kepler-18-c",
+            "Path": "exoplanet_details/kepler-18-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/Kepler-18_c"
+    }
+}

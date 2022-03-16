@@ -1,0 +1,31 @@
+{
+    "Description": "",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/au-microscopii-b/",
+    "Id": "au-microscopii-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7635/au-microscopii-b/",
+    "Mass": "17 Earths",
+    "Name": "au-microscopii-b",
+    "Orbital Period": "8.5 days",
+    "Orbital Radius": "0.0645 AU",
+    "Planet Radius": "0.363 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "90b1f23c-3261-40a7-a9a6-76cc005b7d79",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/au-microscopii-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/au-microscopii-b/images/1.png"
+        },
+        "2": {
+            "Description": "Au-microscopii-b",
+            "Path": "exoplanet_details/au-microscopii-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/AU_Mic_b"
+    }
+}

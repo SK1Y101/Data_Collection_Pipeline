@@ -1,0 +1,31 @@
+{
+    "Description": "42 Draconis b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.88 Jupiters, it takes 479.1 days to complete one orbit of its star, and is 1.19 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.38",
+    "File": "exoplanet_details/42-draconis-b/",
+    "Id": "42-draconis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6997/42-draconis-b/",
+    "Mass": "3.88 Jupiters",
+    "Name": "42-draconis-b",
+    "Orbital Period": "479.1 days",
+    "Orbital Radius": "1.19 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ef771608-85ff-4e88-9a8f-d96b0a35e592",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/42-draconis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/42-draconis-b/images/1.png"
+        },
+        "2": {
+            "Description": "42-draconis-b",
+            "Path": "exoplanet_details/42-draconis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/42_Dra_b"
+    }
+}
