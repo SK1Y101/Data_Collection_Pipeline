@@ -22,18 +22,29 @@ wait = time.sleep
 ## base scraper class
 class Scraper:
     # initialisation 
-    def __init__(self, ip="0.0.0.0"):
+    def __init__(self, ip="0.0.0.0", port="4444", forceRemote=False):
         # try to use the local webdriver
-        try:
-            execpath = GeckoDriverManager().install()
-            self.driver = webdriver.Firefox(executable_path=execpath)
-        # otherwise, assume we're in a docker and use the remote
-        except:
-            firefox_options = webdriver.FirefoxOptions()
-            self.driver = webdriver.Remote(command_executor="http://{}:4444".format(ip), options=firefox_options)
+        self.__fetchDriver__(ip, port, forceRemote)
         self.driver.maximize_window()
         self.actions = ActionChains(self.driver)
         self.filedir = ""
+    
+    # fetch the selenium driver according to priority
+    def __fetchDriver__(self, ip="0.0.0.0", port="4444", forceRemote=False):
+        # if we are forcing remote, try to connect to that first
+        if forceRemote:
+            try:
+                self.driver = webdriver.Remote(command_executor="http://{}:{}}".format(ip, port), options=webdriver.FirefoxOptions())
+            # fallback to local attempt
+            except:
+                self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+        # otherwise, attempt to launch locally first
+        else:
+            try:
+                self.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+            # fallback to remote attempt
+            except:
+                self.driver = webdriver.Remote(command_executor="http://{}:{}}".format(ip, port), options=webdriver.FirefoxOptions())
     
     # find multiple elements that match an xpath thingy
     def findAll(self, tagName="*", attribute=None, value=None, source=None):
