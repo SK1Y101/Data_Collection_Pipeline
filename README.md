@@ -77,13 +77,30 @@ Luckily, amazon web service has s3, a scalable storage system that we can intera
 With all of the previous parts together, now all we need to do is fire up the scraper and leave it to run for a little bit. a quick estimation gives around 10 hours for all 4940 exoplanets currently known, but with a speedier internet connection that'll come down.
 
 ## Milestone 7
-Technologies: Docker, selenium grid
+Technologies: Docker, selenium grid, EC2
 
 We've got a perfectly functional scraper. Lets break it in ways we didn't even know exist.
 
-I know that I should appreciate docker, its an awesome way of abstracting a lot of code away from specific operating systems by containerising the application, it was a massive slog to get setup.
-Apparently setting up docker should take 2 days. It took 2 weeks, and I'm pretty sure I've now seen every possible error message possible with the selenium/firefox/python/docker combination.
+### Running the scraper from a container
+
+I know that I should appreciate docker, its an awesome way of abstracting a lot of code away from specific operating systems by containerising the application, but it was a massive slog to get setup. Apparently setting up a docker image for this project should take 2 days.
+
+It took 3 weeks.
+
+And I'm pretty sure I've now seen every possible error message possible with the selenium/firefox/python/docker combination.
 
 Now that it works, we can run the scraper remotely. Just fire up the standalone firefox instance, point the scraper at the remote IP, and watch everything trun. It's kinda cool when it all comes together.
 
 Now, to ensure that works, we need to be able to pass arguments to our python script (Specifically, the ip, port, and headless mode). We can quite simply achieve this, just change the CMD to an ENTRYPOINT in our Docker file, and pass the environment variables when we run the container!
+
+The variables are `--address targetIp:targetPort`, which is the location of the selenium standalone instance for remote webscraping, `--headless`, which if included will enable headless webscraping, and `--upload`, which if included will upload all files to an AWS S3 bucket once the scraper is finished.
+
+### Running the scraper in the cloud
+
+Have you heard of EC2?
+
+Me neither!
+
+Lets get the scraper working in it.
+
+## Milestone 8
