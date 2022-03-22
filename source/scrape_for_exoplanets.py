@@ -249,11 +249,12 @@ def generate_details(scraper, ref, fileStore="", stale_time=7):
         # wait for a small amount of time
 
 # main program loop
-def main(address=None, headless=None):
+def main(address=None, headless=None, debug=None):
     ''' Main program loop, Will scrape for exoplanet information. '''
     # Try using it on the initial website!
     # create the scraper instance
-    scraper = Scraper(address=address, headless=headless)
+    scraper = Scraper(address=address, headless=headless, debugFlag=debug)
+    print("Main code execution")
 
     # if we have any errors
     try:
@@ -295,13 +296,18 @@ parser = argparse.ArgumentParser(description="Scrape for exoplanets!")
 parser.add_argument("--address", help="The Ip and port of the remote webdriver to connect to.")
 parser.add_argument("--headless", help="Whether the scraper should start in headless mode", action="store_true")
 parser.add_argument("--upload", help="Upload data to AWS when finished", action="store_true")
+parser.add_argument("--debug", help="Show many (many) console outputs whenever the script does anything", action="store_true")
 
 # only execute if this is the top level code
 if __name__ == "__main__":
     # execute
     try:
         args = parser.parse_args()
-        main(address=args.address, headless=args.headless)
+        argdict = vars(args)
+        # if arguments were given, show them to the user
+        if list(argdict).count(False) < 3:
+            print("Starting scraper with arguments:",*["{}: {}".format(x,y) for x,y in argdict.items() if y])
+        main(address=args.address, headless=args.headless, debug=args.debug)
     finally:
     #    upload when completed, or if an error occured because I'm too lazy to select multipl eprograms
         if args.upload:
