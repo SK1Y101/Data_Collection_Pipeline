@@ -104,3 +104,5 @@ Me neither!
 Lets get the scraper working in it.
 
 ## Milestone 8
+
+### Monitoring the Scraper
