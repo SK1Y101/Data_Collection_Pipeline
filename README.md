@@ -105,4 +105,17 @@ Lets get the scraper working in it.
 
 ## Milestone 8
 
+Technologies: Docker, Prometheus, Grafana
+
+We have a cloud based scraper, lets see how its doing
+
+### Monitoring the Computer
+
+We need to setup a prometheus docker instance to monitor the EC2 metrics, so we can see what's happeneing
+
+To do this, we're using the Node Exporter library, which will be able to see things such as CPU usage and network movement (I think?)
+
 ### Monitoring the Scraper
+
+We can see what the computer is doing with prometheus, we can see what the scraper is doing with selenium, let's combine them so we can see how the scraper is doing in prometheus!
+
