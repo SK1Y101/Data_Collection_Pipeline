@@ -37,7 +37,7 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v2
         with:
-          context: ./
+          context: ./source/
           file: ./source/Dockerfile
           builder: ${{ steps.buildx.outputs.name }}
           push: true
