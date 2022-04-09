@@ -42,5 +42,3 @@ jobs:
           builder: ${{ steps.buildx.outputs.name }}
           push: true
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/exoplanet-scraping:latest
-          cache-from: type=registry,ref=${{ secrets.DOCKER_HUB_USERNAME }}/exoplanet-scraping:buildcache
-          cache-to: type=registry,ref=${{ secrets.DOCKER_HUB_USERNAME }}/exoplanet-scraping:buildcache,mode=max
