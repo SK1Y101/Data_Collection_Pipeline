@@ -1,6 +1,9 @@
 # python image
 FROM python:3.8
 
+# copy the docker daemon
+COPY daemon.json /etc/docker/daemon.json
+
 # copy the scripts to run
 COPY scrape_for_exoplanets.py \
      upload_to_aws.py \
