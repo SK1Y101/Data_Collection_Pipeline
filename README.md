@@ -121,11 +121,7 @@ We can see what the computer is doing with prometheus, we can see what the scrap
 
 ### Dashboard
 
-ToDo: GRAFANA
-
 We have a Grafana dashboard for the EC2 Instance, now We just need one for the scraper and we're golden!
-
-### Dashboard
 
 ## Milestone 9
 
