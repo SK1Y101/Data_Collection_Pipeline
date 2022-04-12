@@ -1,0 +1,31 @@
+{
+    "Description": "HD 120084 b is a gas giant exoplanet that orbits a K-type star. Its mass is 4.5 Jupiters, it takes 5.7 years to complete one orbit of its star, and is 4.3 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.66",
+    "File": "exoplanet_details/hd-120084-b/",
+    "Id": "hd-120084-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6756/hd-120084-b/",
+    "Mass": "4.5 Jupiters",
+    "Name": "hd-120084-b",
+    "Orbital Period": "5.7 years",
+    "Orbital Radius": "4.3 AU",
+    "Planet Radius": "1.15 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b856df39-bf5f-4c6e-abba-274685c922ed",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-120084-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-120084-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-120084-b",
+            "Path": "exoplanet_details/hd-120084-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_120084_b"
+    }
+}

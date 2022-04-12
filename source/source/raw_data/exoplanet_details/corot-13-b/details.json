@@ -1,0 +1,31 @@
+{
+    "Description": "CoRoT-13 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.308 Jupiters, it takes 4 days to complete one orbit of its star, and is 0.051 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/corot-13-b/",
+    "Id": "corot-13-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1329/corot-13-b/",
+    "Mass": "1.308 Jupiters",
+    "Name": "corot-13-b",
+    "Orbital Period": "4 days",
+    "Orbital Radius": "0.051 AU",
+    "Planet Radius": "0.885 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "b837ef46-1f2e-4ad6-86b5-e32ce939c35a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/corot-13-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/corot-13-b/images/1.png"
+        },
+        "2": {
+            "Description": "Corot-13-b",
+            "Path": "exoplanet_details/corot-13-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/CoRoT-13_b"
+    }
+}

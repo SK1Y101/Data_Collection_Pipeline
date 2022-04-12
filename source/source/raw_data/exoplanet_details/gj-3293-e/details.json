@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 3293 e is a super Earth exoplanet that orbits an M-type star. Its mass is 3.28 Earths, it takes 13.3 days to complete one orbit of its star, and is 0.08208 AU from its star. Its discovery was announced in 2017.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2017",
+    "Eccentricity": "0.21",
+    "File": "exoplanet_details/gj-3293-e/",
+    "Id": "gj-3293-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7214/gj-3293-e/",
+    "Mass": "3.28 Earths",
+    "Name": "gj-3293-e",
+    "Orbital Period": "13.3 days",
+    "Orbital Radius": "0.08208 AU",
+    "Planet Radius": "1.63 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "1921f108-5c60-4701-88ab-a287858588ff",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-3293-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-3293-e/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-3293-e",
+            "Path": "exoplanet_details/gj-3293-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_3293_e"
+    }
+}

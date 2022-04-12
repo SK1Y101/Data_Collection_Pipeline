@@ -1,0 +1,31 @@
+{
+    "Description": "EPIC 205950854 c is a super Earth exoplanet that orbits a G-type star. Its mass is 2.27 Earths and it takes 8.1 days to complete one orbit of its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/epic-205950854-c/",
+    "Id": "epic-205950854-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7396/epic-205950854-c/",
+    "Mass": "2.27 Earths",
+    "Name": "epic-205950854-c",
+    "Orbital Period": "8.1 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.31 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "090c0f58-5762-48d4-986d-c46a0df5677e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-205950854-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-205950854-c/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-205950854-c",
+            "Path": "exoplanet_details/epic-205950854-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_205950854_c"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "HD 134987 c is a gas giant exoplanet that orbits a G-type star. Its mass is 0.82 Jupiters, it takes 13.7 years to complete one orbit of its star, and is 5.8 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.12",
+    "File": "exoplanet_details/hd-134987-c/",
+    "Id": "hd-134987-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6922/hd-134987-c/",
+    "Mass": "0.82 Jupiters",
+    "Name": "hd-134987-c",
+    "Orbital Period": "13.7 years",
+    "Orbital Radius": "5.8 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3f0b703d-db7e-4723-b57c-ad7df00f4f71",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-134987-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-134987-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-134987-c",
+            "Path": "exoplanet_details/hd-134987-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_134987_c"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.09",
+    "File": "exoplanet_details/gj-15-a-b/",
+    "Id": "gj-15-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7498/gj-15-a-b/",
+    "Mass": "3.03 Earths",
+    "Name": "gj-15-a-b",
+    "Orbital Period": "11.4 days",
+    "Orbital Radius": "0.072 AU",
+    "Planet Radius": "1.55 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "59f8939d-b1db-43a9-8914-7cd65ca905b1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-15-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-15-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-15-a-b",
+            "Path": "exoplanet_details/gj-15-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_15_A_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 328 b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.3 Jupiters, it takes 11.2 years to complete one orbit of its star, and is 4.5 AU from its star. Its discovery was announced in 2013.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2013",
+    "Eccentricity": "0.37",
+    "File": "exoplanet_details/gj-328-b/",
+    "Id": "gj-328-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6532/gj-328-b/",
+    "Mass": "2.3 Jupiters",
+    "Name": "gj-328-b",
+    "Orbital Period": "11.2 years",
+    "Orbital Radius": "4.5 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "498ab042-5d4b-4904-907c-0089c404791c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-328-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-328-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-328-b",
+            "Path": "exoplanet_details/gj-328-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_328_b"
+    }
+}

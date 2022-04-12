@@ -1,0 +1,31 @@
+{
+    "Description": "EPIC 201615463 c is a super Earth exoplanet that orbits a G-type star. Its mass is 1.98 Earths and it takes 3.8 days to complete one orbit of its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/epic-201615463-c/",
+    "Id": "epic-201615463-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7392/epic-201615463-c/",
+    "Mass": "1.98 Earths",
+    "Name": "epic-201615463-c",
+    "Orbital Period": "3.8 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.22 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "55fa5fdf-96e4-43bd-bf22-a0e42b8fba51",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-201615463-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-201615463-c/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-201615463-c",
+            "Path": "exoplanet_details/epic-201615463-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_201615463_c"
+    }
+}

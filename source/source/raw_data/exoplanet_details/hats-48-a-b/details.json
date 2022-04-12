@@ -1,0 +1,31 @@
+{
+    "Description": "HATS-48 A b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.243 Jupiters, it takes 3.1 days to complete one orbit of its star, and is 0.03769 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "< 0.162",
+    "File": "exoplanet_details/hats-48-a-b/",
+    "Id": "hats-48-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7595/hats-48-a-b/",
+    "Mass": "0.243 Jupiters",
+    "Name": "hats-48-a-b",
+    "Orbital Period": "3.1 days",
+    "Orbital Radius": "0.03769 AU",
+    "Planet Radius": "0.8 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f930ae5a-080a-4f63-8cd6-07deca5d57ae",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-48-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-48-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-48-a-b",
+            "Path": "exoplanet_details/hats-48-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-48_A_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "HATS-34 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.941 Jupiters, it takes 2.1 days to complete one orbit of its star, and is 0.03166 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "< 0.108",
+    "File": "exoplanet_details/hats-34-b/",
+    "Id": "hats-34-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3426/hats-34-b/",
+    "Mass": "0.941 Jupiters",
+    "Name": "hats-34-b",
+    "Orbital Period": "2.1 days",
+    "Orbital Radius": "0.03166 AU",
+    "Planet Radius": "1.43 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "9efb3b73-5be2-4982-9bde-07c9a388cbb8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-34-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-34-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-34-b",
+            "Path": "exoplanet_details/hats-34-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-34_b"
+    }
+}

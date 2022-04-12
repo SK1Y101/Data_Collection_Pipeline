@@ -1,0 +1,31 @@
+{
+    "Description": "CT Chamaleontis b is a gas giant exoplanet that orbits a K-type star. Its mass is 17 Jupiters, it takes Infinity years to complete one orbit of its star, and is 440 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/ct-chamaleontis-b/",
+    "Id": "ct-chamaleontis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7015/ct-chamaleontis-b/",
+    "Mass": "17 Jupiters",
+    "Name": "ct-chamaleontis-b",
+    "Orbital Period": "Infinity years",
+    "Orbital Radius": "440.0 AU",
+    "Planet Radius": "2.2 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "e39d74d6-09fe-4168-a764-2d7515445045",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/ct-chamaleontis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/ct-chamaleontis-b/images/1.png"
+        },
+        "2": {
+            "Description": "Ct-chamaleontis-b",
+            "Path": "exoplanet_details/ct-chamaleontis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/CT_Cha_b"
+    }
+}

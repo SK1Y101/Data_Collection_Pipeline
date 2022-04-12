@@ -1,0 +1,31 @@
+{
+    "Description": "24 Bootis b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.91 Jupiters, it takes 30.4 days to complete one orbit of its star, and is 0.19 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.04",
+    "File": "exoplanet_details/24-bootis-b/",
+    "Id": "24-bootis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7274/24-bootis-b/",
+    "Mass": "0.91 Jupiters",
+    "Name": "24-bootis-b",
+    "Orbital Period": "30.4 days",
+    "Orbital Radius": "0.19 AU",
+    "Planet Radius": "1.24 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "c00c974e-6658-4bec-a229-76d033320767",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/24-bootis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/24-bootis-b/images/1.png"
+        },
+        "2": {
+            "Description": "24-bootis-b",
+            "Path": "exoplanet_details/24-bootis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/24_Boo_b"
+    }
+}

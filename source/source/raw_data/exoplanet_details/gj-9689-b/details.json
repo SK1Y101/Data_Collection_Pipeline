@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 9689 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 9.65 Earths, it takes 18.3 days to complete one orbit of its star, and is 0.1139 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.29",
+    "File": "exoplanet_details/gj-9689-b/",
+    "Id": "gj-9689-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8017/gj-9689-b/",
+    "Mass": "9.65 Earths",
+    "Name": "gj-9689-b",
+    "Orbital Period": "18.3 days",
+    "Orbital Radius": "0.1139 AU",
+    "Planet Radius": "0.274 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "c9d0c899-1281-47ba-8f97-7a5992646196",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-9689-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-9689-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-9689-b",
+            "Path": "exoplanet_details/gj-9689-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_9689_b"
+    }
+}

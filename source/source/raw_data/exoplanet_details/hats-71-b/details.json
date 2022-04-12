@@ -1,0 +1,31 @@
+{
+    "Description": "HATS-71 b is a gas giant exoplanet that orbits an M-type star. Its mass is 0.37 Jupiters, it takes 3.8 days to complete one orbit of its star, and is 0.03745 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/hats-71-b/",
+    "Id": "hats-71-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7753/hats-71-b/",
+    "Mass": "0.37 Jupiters",
+    "Name": "hats-71-b",
+    "Orbital Period": "3.8 days",
+    "Orbital Radius": "0.03745 AU",
+    "Planet Radius": "1.024 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "2705d8df-296a-42a7-9e79-e9b5e5869098",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-71-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-71-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-71-b",
+            "Path": "exoplanet_details/hats-71-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-71_b"
+    }
+}

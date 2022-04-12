@@ -1,0 +1,31 @@
+{
+    "Description": "HD 102272 b is a gas giant exoplanet that orbits a K-type star. Its mass is 4.94 Jupiters, it takes 127.6 days to complete one orbit of its star, and is 0.51 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.05",
+    "File": "exoplanet_details/hd-102272-b/",
+    "Id": "hd-102272-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6719/hd-102272-b/",
+    "Mass": "4.94 Jupiters",
+    "Name": "hd-102272-b",
+    "Orbital Period": "127.6 days",
+    "Orbital Radius": "0.51 AU",
+    "Planet Radius": "1.15 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "ef6f4314-68ec-414e-a652-3ae0ebb2bed7",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-102272-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-102272-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-102272-b",
+            "Path": "exoplanet_details/hd-102272-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_102272_b"
+    }
+}

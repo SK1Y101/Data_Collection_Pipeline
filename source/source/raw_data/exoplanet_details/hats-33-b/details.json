@@ -1,0 +1,31 @@
+{
+    "Description": "HATS-33 b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.192 Jupiters, it takes 2.5 days to complete one orbit of its star, and is 0.03727 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "< 0.08",
+    "File": "exoplanet_details/hats-33-b/",
+    "Id": "hats-33-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3425/hats-33-b/",
+    "Mass": "1.192 Jupiters",
+    "Name": "hats-33-b",
+    "Orbital Period": "2.5 days",
+    "Orbital Radius": "0.03727 AU",
+    "Planet Radius": "1.23 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "94126b7f-f9ac-464a-84c6-1c6fa3f73cf9",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-33-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-33-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-33-b",
+            "Path": "exoplanet_details/hats-33-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-33_b"
+    }
+}

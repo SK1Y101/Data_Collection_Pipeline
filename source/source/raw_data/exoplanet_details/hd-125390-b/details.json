@@ -1,0 +1,31 @@
+{
+    "Description": "HD 125390 b is a gas giant exoplanet that orbits a K-type star. Its mass is 22.16 Jupiters, it takes 4.8 years to complete one orbit of its star, and is 3.16 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.59",
+    "File": "exoplanet_details/hd-125390-b/",
+    "Id": "hd-125390-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7526/hd-125390-b/",
+    "Mass": "22.16 Jupiters",
+    "Name": "hd-125390-b",
+    "Orbital Period": "4.8 years",
+    "Orbital Radius": "3.16 AU",
+    "Planet Radius": "1.07 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "88b4c298-a4b4-4108-9aa5-9daff4fee918",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-125390-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-125390-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-125390-b",
+            "Path": "exoplanet_details/hd-125390-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_125390_b"
+    }
+}

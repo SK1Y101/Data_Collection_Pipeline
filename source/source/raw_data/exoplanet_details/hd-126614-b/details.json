@@ -1,0 +1,31 @@
+{
+    "Description": "HD 126614 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.41 Jupiters, it takes 3.4 years to complete one orbit of its star, and is 2.37 AU from its star. Its discovery was announced in 2009.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2009",
+    "Eccentricity": "0.41",
+    "File": "exoplanet_details/hd-126614-b/",
+    "Id": "hd-126614-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6762/hd-126614-b/",
+    "Mass": "0.41 Jupiters",
+    "Name": "hd-126614-b",
+    "Orbital Period": "3.4 years",
+    "Orbital Radius": "2.37 AU",
+    "Planet Radius": "1.27 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "71f9168a-f5b7-40cc-b9c2-12fa7e6adac0",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-126614-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-126614-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-126614-b",
+            "Path": "exoplanet_details/hd-126614-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_126614_b"
+    }
+}

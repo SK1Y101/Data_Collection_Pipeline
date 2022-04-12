@@ -1,0 +1,31 @@
+{
+    "Description": "HD 11977 b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.54 Jupiters, it takes 1.9 years to complete one orbit of its star, and is 1.93 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.4",
+    "File": "exoplanet_details/hd-11977-b/",
+    "Id": "hd-11977-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6574/hd-11977-b/",
+    "Mass": "6.54 Jupiters",
+    "Name": "hd-11977-b",
+    "Orbital Period": "1.9 years",
+    "Orbital Radius": "1.93 AU",
+    "Planet Radius": "1.13 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "e07aa235-643a-4b19-81a2-021942b367a3",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-11977-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-11977-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-11977-b",
+            "Path": "exoplanet_details/hd-11977-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_11977_b"
+    }
+}

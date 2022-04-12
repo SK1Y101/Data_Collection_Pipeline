@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 674 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 11.09 Earths, it takes 4.7 days to complete one orbit of its star, and is 0.039 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.2",
+    "File": "exoplanet_details/gj-674-b/",
+    "Id": "gj-674-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6545/gj-674-b/",
+    "Mass": "11.09 Earths",
+    "Name": "gj-674-b",
+    "Orbital Period": "4.7 days",
+    "Orbital Radius": "0.039 AU",
+    "Planet Radius": "0.297 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "f0c382b3-9aed-4fbe-93b4-b0c2e2e12c3c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-674-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-674-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-674-b",
+            "Path": "exoplanet_details/gj-674-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_674_b"
+    }
+}

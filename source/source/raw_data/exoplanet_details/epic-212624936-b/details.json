@@ -1,0 +1,31 @@
+{
+    "Description": "EPIC 212624936 b is a super Earth exoplanet that orbits a G-type star. Its mass is 1.87 Earths and it takes 0.6 days to complete one orbit of its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/epic-212624936-b/",
+    "Id": "epic-212624936-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8019/epic-212624936-b/",
+    "Mass": "1.87 Earths",
+    "Name": "epic-212624936-b",
+    "Orbital Period": "0.6 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.2 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "ec47201a-4045-4a1c-a9d7-13944807326c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-212624936-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-212624936-b/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-212624936-b",
+            "Path": "exoplanet_details/epic-212624936-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_212624936_b"
+    }
+}

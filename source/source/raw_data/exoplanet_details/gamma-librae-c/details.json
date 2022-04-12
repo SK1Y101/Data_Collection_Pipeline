@@ -1,0 +1,31 @@
+{
+    "Description": "Gamma Librae c is a gas giant exoplanet that orbits a K-type star. Its mass is 4.58 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 2.17 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.06",
+    "File": "exoplanet_details/gamma-librae-c/",
+    "Id": "gamma-librae-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7273/gamma-librae-c/",
+    "Mass": "4.58 Jupiters",
+    "Name": "gamma-librae-c",
+    "Orbital Period": "2.6 years",
+    "Orbital Radius": "2.17 AU",
+    "Planet Radius": "1.15 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "cd4d6cd6-27dc-4992-a8f7-571e0c1881c6",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gamma-librae-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gamma-librae-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gamma-librae-c",
+            "Path": "exoplanet_details/gamma-librae-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/gam_Lib_c"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "HATS-56 b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.602 Jupiters, it takes 4.3 days to complete one orbit of its star, and is 0.06043 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "< 0.019",
+    "File": "exoplanet_details/hats-56-b/",
+    "Id": "hats-56-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7458/hats-56-b/",
+    "Mass": "0.602 Jupiters",
+    "Name": "hats-56-b",
+    "Orbital Period": "4.3 days",
+    "Orbital Radius": "0.06043 AU",
+    "Planet Radius": "1.688 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "6f9bf1a9-2d75-4b34-b41d-10884f8d4660",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-56-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-56-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-56-b",
+            "Path": "exoplanet_details/hats-56-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-56_b"
+    }
+}

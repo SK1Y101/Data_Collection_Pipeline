@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 143 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 22.7 Earths, it takes 35.6 days to complete one orbit of its star, and is 0.1915 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.19",
+    "File": "exoplanet_details/gj-143-b/",
+    "Id": "gj-143-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7337/gj-143-b/",
+    "Mass": "22.7 Earths",
+    "Name": "gj-143-b",
+    "Orbital Period": "35.6 days",
+    "Orbital Radius": "0.1915 AU",
+    "Planet Radius": "0.233 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "19814425-b6c7-47da-af32-009151908380",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-143-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-143-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-143-b",
+            "Path": "exoplanet_details/gj-143-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_143_b"
+    }
+}

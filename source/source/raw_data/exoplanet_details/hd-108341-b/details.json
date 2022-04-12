@@ -1,0 +1,31 @@
+{
+    "Description": "HD 108341 b is a gas giant exoplanet that orbits a K-type star. Its mass is 3.5 Jupiters, it takes 3.1 years to complete one orbit of its star, and is 2 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.85",
+    "File": "exoplanet_details/hd-108341-b/",
+    "Id": "hd-108341-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6734/hd-108341-b/",
+    "Mass": "3.5 Jupiters",
+    "Name": "hd-108341-b",
+    "Orbital Period": "3.1 years",
+    "Orbital Radius": "2.0 AU",
+    "Planet Radius": "1.17 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d7266fcc-bb28-47cc-8028-10734513ded1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-108341-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-108341-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-108341-b",
+            "Path": "exoplanet_details/hd-108341-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_108341_b"
+    }
+}

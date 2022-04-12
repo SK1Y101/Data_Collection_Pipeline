@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 676 A b is a gas giant exoplanet that orbits a K-type star. Its mass is 6.7 Jupiters, it takes 2.9 years to complete one orbit of its star, and is 1.82 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.33",
+    "File": "exoplanet_details/gj-676-a-b/",
+    "Id": "gj-676-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6546/gj-676-a-b/",
+    "Mass": "6.7 Jupiters",
+    "Name": "gj-676-a-b",
+    "Orbital Period": "2.9 years",
+    "Orbital Radius": "1.82 AU",
+    "Planet Radius": "1.13 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "11f0d7ba-24a2-4f17-8bde-c5086a62a441",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-676-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-676-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-676-a-b",
+            "Path": "exoplanet_details/gj-676-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_676_A_b"
+    }
+}

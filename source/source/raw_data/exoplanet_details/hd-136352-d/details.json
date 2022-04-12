@@ -1,0 +1,31 @@
+{
+    "Description": "HD 136352 d is a Neptune-like exoplanet that orbits a G-type star. Its mass is 8.82 Earths, it takes 107.2 days to complete one orbit of its star, and is 0.425 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/hd-136352-d/",
+    "Id": "hd-136352-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7322/hd-136352-d/",
+    "Mass": "8.82 Earths",
+    "Name": "hd-136352-d",
+    "Orbital Period": "107.2 days",
+    "Orbital Radius": "0.425 AU",
+    "Planet Radius": "0.229 x Jupiter",
+    "Planet Type": "Neptune-like",
+    "Uuid": "8f81e57f-a18e-4ffd-8d9f-6c1fdf521936",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-136352-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-136352-d/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-136352-d",
+            "Path": "exoplanet_details/hd-136352-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_136352_d"
+    }
+}

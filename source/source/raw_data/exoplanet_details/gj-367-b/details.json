@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 367 b is a terrestrial exoplanet that orbits an M-type star. Its mass is 0.546 Earths, it takes 0.3 days to complete one orbit of its star, and is 0.0071 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/gj-367-b/",
+    "Id": "gj-367-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8049/gj-367-b/",
+    "Mass": "0.546 Earths",
+    "Name": "gj-367-b",
+    "Orbital Period": "0.3 days",
+    "Orbital Radius": "0.0071 AU",
+    "Planet Radius": "0.718 x Earth",
+    "Planet Type": "Terrestrial",
+    "Uuid": "18e7f7ac-1587-4dee-bc16-d231c4e2b259",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-367-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-367-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-367-b",
+            "Path": "exoplanet_details/gj-367-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_367_b"
+    }
+}

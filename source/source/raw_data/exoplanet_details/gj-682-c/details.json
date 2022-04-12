@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 682 c is a Neptune-like exoplanet that orbits an M-type star. Its mass is 8.7 Earths, it takes 57.3 days to complete one orbit of its star, and is 0.176 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.1",
+    "File": "exoplanet_details/gj-682-c/",
+    "Id": "gj-682-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7496/gj-682-c/",
+    "Mass": "8.7 Earths",
+    "Name": "gj-682-c",
+    "Orbital Period": "57.3 days",
+    "Orbital Radius": "0.176 AU",
+    "Planet Radius": "0.258 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "8e9824e9-ce98-4404-99d7-e8451efb8814",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-682-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-682-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-682-c",
+            "Path": "exoplanet_details/gj-682-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_682_c"
+    }
+}

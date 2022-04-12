@@ -1,0 +1,31 @@
+{
+    "Description": "EPIC 206042996 b is a super Earth exoplanet that orbits a K-type star. Its mass is 3.53 Earths and it takes 5.3 days to complete one orbit of its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/epic-206042996-b/",
+    "Id": "epic-206042996-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7399/epic-206042996-b/",
+    "Mass": "3.53 Earths",
+    "Name": "epic-206042996-b",
+    "Orbital Period": "5.3 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.7 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "d5d70576-a6ba-4273-bd05-b3305c2caa23",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-206042996-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-206042996-b/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-206042996-b",
+            "Path": "exoplanet_details/epic-206042996-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_206042996_b"
+    }
+}

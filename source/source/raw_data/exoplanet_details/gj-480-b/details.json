@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 480 b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 13.2 Earths, it takes 9.6 days to complete one orbit of its star, and is 0.068 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.1",
+    "File": "exoplanet_details/gj-480-b/",
+    "Id": "gj-480-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7673/gj-480-b/",
+    "Mass": "13.2 Earths",
+    "Name": "gj-480-b",
+    "Orbital Period": "9.6 days",
+    "Orbital Radius": "0.068 AU",
+    "Planet Radius": "0.33 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "e5db9b2a-1a00-435d-a52b-42598a59fa38",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-480-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-480-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-480-b",
+            "Path": "exoplanet_details/gj-480-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_480_b"
+    }
+}

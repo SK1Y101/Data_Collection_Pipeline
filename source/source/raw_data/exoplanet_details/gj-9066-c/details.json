@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 9066 c is a gas giant exoplanet that orbits an M-type star. Its mass is 0.22528 Jupiters, it takes 2.1 years to complete one orbit of its star, and is 0.87 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "0.33",
+    "File": "exoplanet_details/gj-9066-c/",
+    "Id": "gj-9066-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7746/gj-9066-c/",
+    "Mass": "0.22528 Jupiters",
+    "Name": "gj-9066-c",
+    "Orbital Period": "2.1 years",
+    "Orbital Radius": "0.87 AU",
+    "Planet Radius": "0.892 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "56b6c0d2-b02a-4372-a400-62194d5fc765",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-9066-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-9066-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-9066-c",
+            "Path": "exoplanet_details/gj-9066-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_9066_c"
+    }
+}

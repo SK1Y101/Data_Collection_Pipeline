@@ -1,0 +1,31 @@
+{
+    "Description": "6 Lyncis b is a gas giant exoplanet that orbits a K-type star. Its mass is 2.01 Jupiters, it takes 2.6 years to complete one orbit of its star, and is 2.11 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.07",
+    "File": "exoplanet_details/6-lyncis-b/",
+    "Id": "6-lyncis-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6986/6-lyncis-b/",
+    "Mass": "2.01 Jupiters",
+    "Name": "6-lyncis-b",
+    "Orbital Period": "2.6 years",
+    "Orbital Radius": "2.11 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "cf94ec31-a6cb-42ce-b960-6d92ff827155",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/6-lyncis-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/6-lyncis-b/images/1.png"
+        },
+        "2": {
+            "Description": "6-lyncis-b",
+            "Path": "exoplanet_details/6-lyncis-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/6_Lyn_b"
+    }
+}

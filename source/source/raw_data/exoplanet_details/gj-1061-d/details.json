@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 1061 d is a super Earth exoplanet that orbits an M-type star. Its mass is 1.64 Earths, it takes 13 days to complete one orbit of its star, and is 0.054 AU from its star. Its discovery was announced in 2020.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2020",
+    "Eccentricity": "< 0.53",
+    "File": "exoplanet_details/gj-1061-d/",
+    "Id": "gj-1061-d",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7593/gj-1061-d/",
+    "Mass": "1.64 Earths",
+    "Name": "gj-1061-d",
+    "Orbital Period": "13 days",
+    "Orbital Radius": "0.054 AU",
+    "Planet Radius": "1.16 x Earth (estimate)",
+    "Planet Type": "Super Earth",
+    "Uuid": "5586c5c7-c38c-4a97-a67f-0a3b9a71563e",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-1061-d/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-1061-d/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-1061-d",
+            "Path": "exoplanet_details/gj-1061-d/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_1061_d"
+    }
+}

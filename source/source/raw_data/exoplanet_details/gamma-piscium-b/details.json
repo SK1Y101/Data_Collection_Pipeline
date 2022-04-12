@@ -1,0 +1,31 @@
+{
+    "Description": "Gamma Piscium b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.34 Jupiters, it takes 1.5 years to complete one orbit of its star, and is 1.32 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.2",
+    "File": "exoplanet_details/gamma-piscium-b/",
+    "Id": "gamma-piscium-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/8369/gamma-piscium-b/",
+    "Mass": "1.34 Jupiters",
+    "Name": "gamma-piscium-b",
+    "Orbital Period": "1.5 years",
+    "Orbital Radius": "1.32 AU",
+    "Planet Radius": "1.22 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "4a51d95a-4ab3-450f-aa16-db17cacc1757",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gamma-piscium-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gamma-piscium-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gamma-piscium-b",
+            "Path": "exoplanet_details/gamma-piscium-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/gam_Psc_b"
+    }
+}

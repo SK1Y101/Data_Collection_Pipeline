@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 1148 b is a gas giant exoplanet that orbits an M-type star. Its mass is 0.30425 Jupiters, it takes 41.4 days to complete one orbit of its star, and is 0.166 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.38",
+    "File": "exoplanet_details/gj-1148-b/",
+    "Id": "gj-1148-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6861/gj-1148-b/",
+    "Mass": "0.30425 Jupiters",
+    "Name": "gj-1148-b",
+    "Orbital Period": "41.4 days",
+    "Orbital Radius": "0.166 AU",
+    "Planet Radius": "1.07 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "87ed5f70-a5a3-4c2d-ad5d-0e5202284e5f",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-1148-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-1148-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-1148-b",
+            "Path": "exoplanet_details/gj-1148-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_1148_b"
+    }
+}

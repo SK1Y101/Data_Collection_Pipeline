@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 720 A b is a Neptune-like exoplanet that orbits an M-type star. Its mass is 13.64 Earths, it takes 19.5 days to complete one orbit of its star, and is 0.119 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.12",
+    "File": "exoplanet_details/gj-720-a-b/",
+    "Id": "gj-720-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7903/gj-720-a-b/",
+    "Mass": "13.64 Earths",
+    "Name": "gj-720-a-b",
+    "Orbital Period": "19.5 days",
+    "Orbital Radius": "0.119 AU",
+    "Planet Radius": "0.336 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "8d510769-cb81-473d-ad5b-e40504eeb079",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-720-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-720-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-720-a-b",
+            "Path": "exoplanet_details/gj-720-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_720_A_b"
+    }
+}

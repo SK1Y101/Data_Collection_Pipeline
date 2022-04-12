@@ -1,0 +1,31 @@
+{
+    "Description": "HD 110113 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 4.55 Earths, it takes 2.5 days to complete one orbit of its star, and is 0.035 AU from its star. Its discovery was announced in 2021.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2021",
+    "Eccentricity": "0.09",
+    "File": "exoplanet_details/hd-110113-b/",
+    "Id": "hd-110113-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7814/hd-110113-b/",
+    "Mass": "4.55 Earths",
+    "Name": "hd-110113-b",
+    "Orbital Period": "2.5 days",
+    "Orbital Radius": "0.035 AU",
+    "Planet Radius": "2.05 x Earth",
+    "Planet Type": "Neptune-like",
+    "Uuid": "8c37139d-20c0-4202-a5a3-6434403bcf9a",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-110113-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-110113-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-110113-b",
+            "Path": "exoplanet_details/hd-110113-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_110113_b"
+    }
+}

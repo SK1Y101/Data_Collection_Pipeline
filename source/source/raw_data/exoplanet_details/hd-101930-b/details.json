@@ -1,0 +1,31 @@
+{
+    "Description": "HD 101930 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.25 Jupiters, it takes 70.5 days to complete one orbit of its star, and is 0.3 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.11",
+    "File": "exoplanet_details/hd-101930-b/",
+    "Id": "hd-101930-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6716/hd-101930-b/",
+    "Mass": "0.25 Jupiters",
+    "Name": "hd-101930-b",
+    "Orbital Period": "70.5 days",
+    "Orbital Radius": "0.3 AU",
+    "Planet Radius": "0.949 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "d93094b8-a805-4d0a-908e-650d182e26fc",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-101930-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-101930-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-101930-b",
+            "Path": "exoplanet_details/hd-101930-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_101930_b"
+    }
+}

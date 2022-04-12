@@ -1,0 +1,31 @@
+{
+    "Description": "HATS-67 b is a gas giant exoplanet that orbits an F-type star. Its mass is 1.45 Jupiters, it takes 1.6 days to complete one orbit of its star, and is 0.03032 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.06",
+    "File": "exoplanet_details/hats-67-b/",
+    "Id": "hats-67-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6457/hats-67-b/",
+    "Mass": "1.45 Jupiters",
+    "Name": "hats-67-b",
+    "Orbital Period": "1.6 days",
+    "Orbital Radius": "0.03032 AU",
+    "Planet Radius": "1.685 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3bbee917-968e-46a3-aa31-6e25535d90db",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-67-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-67-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-67-b",
+            "Path": "exoplanet_details/hats-67-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-67_b"
+    }
+}

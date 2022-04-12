@@ -1,0 +1,31 @@
+{
+    "Description": "HD 133131 A b is a gas giant exoplanet that orbits a G-type star. Its mass is 1.42 Jupiters, it takes 1.8 years to complete one orbit of its star, and is 1.44 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2016",
+    "Eccentricity": "0.33",
+    "File": "exoplanet_details/hd-133131-a-b/",
+    "Id": "hd-133131-a-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7226/hd-133131-a-b/",
+    "Mass": "1.42 Jupiters",
+    "Name": "hd-133131-a-b",
+    "Orbital Period": "1.8 years",
+    "Orbital Radius": "1.44 AU",
+    "Planet Radius": "1.21 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "5ee23267-490a-49df-916c-22d98b689cd4",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-133131-a-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-133131-a-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-133131-a-b",
+            "Path": "exoplanet_details/hd-133131-a-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_133131_A_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "HAT-P-46 b is a gas giant exoplanet that orbits an F-type star. Its mass is 0.493 Jupiters, it takes 4.5 days to complete one orbit of its star, and is 0.0577 AU from its star. Its discovery was announced in 2014.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2014",
+    "Eccentricity": "0.12",
+    "File": "exoplanet_details/hat-p-46-b/",
+    "Id": "hat-p-46-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/1263/hat-p-46-b/",
+    "Mass": "0.493 Jupiters",
+    "Name": "hat-p-46-b",
+    "Orbital Period": "4.5 days",
+    "Orbital Radius": "0.0577 AU",
+    "Planet Radius": "1.284 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7b69f02b-b423-41db-b95c-df3d6e7ac41c",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-46-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-46-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-46-b",
+            "Path": "exoplanet_details/hat-p-46-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-46_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "BD-13 2130 b is a gas giant exoplanet that orbits a K-type star. Its mass is 9.78 Jupiters, it takes 2 years to complete one orbit of its star, and is 1.66 AU from its star. Its discovery was announced in 2007.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2007",
+    "Eccentricity": "0.21",
+    "File": "exoplanet_details/bd-13-2130-b/",
+    "Id": "bd-13-2130-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7068/bd-13-2130-b/",
+    "Mass": "9.78 Jupiters",
+    "Name": "bd-13-2130-b",
+    "Orbital Period": "2 years",
+    "Orbital Radius": "1.66 AU",
+    "Planet Radius": "1.11 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7dc500d2-bbb9-41d6-9544-6194c50d4e7b",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/bd-13-2130-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/bd-13-2130-b/images/1.png"
+        },
+        "2": {
+            "Description": "Bd-13-2130-b",
+            "Path": "exoplanet_details/bd-13-2130-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/BD-13_2130_b"
+    }
+}

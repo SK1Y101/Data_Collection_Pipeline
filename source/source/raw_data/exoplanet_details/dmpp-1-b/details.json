@@ -1,0 +1,31 @@
+{
+    "Description": "DMPP-1 b is a Neptune-like exoplanet that orbits an F-type star. Its mass is 24.27 Earths, it takes 18.6 days to complete one orbit of its star, and is 0.1462 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "< 0.083",
+    "File": "exoplanet_details/dmpp-1-b/",
+    "Id": "dmpp-1-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7548/dmpp-1-b/",
+    "Mass": "24.27 Earths",
+    "Name": "dmpp-1-b",
+    "Orbital Period": "18.6 days",
+    "Orbital Radius": "0.1462 AU",
+    "Planet Radius": "0.472 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "7a7e0927-a927-47f1-9972-0dd853b80267",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/dmpp-1-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/dmpp-1-b/images/1.png"
+        },
+        "2": {
+            "Description": "Dmpp-1-b",
+            "Path": "exoplanet_details/dmpp-1-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/DMPP-1_b"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Description": "HATS-69 b is a gas giant exoplanet that orbits a K-type star. Its mass is 0.577 Jupiters, it takes 2.2 days to complete one orbit of its star, and is 0.03211 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.52",
+    "File": "exoplanet_details/hats-69-b/",
+    "Id": "hats-69-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6459/hats-69-b/",
+    "Mass": "0.577 Jupiters",
+    "Name": "hats-69-b",
+    "Orbital Period": "2.2 days",
+    "Orbital Radius": "0.03211 AU",
+    "Planet Radius": "0.945 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "21be1886-7e0b-47d6-ac6d-8f44c3acd984",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hats-69-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hats-69-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hats-69-b",
+            "Path": "exoplanet_details/hats-69-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HATS-69_b"
+    }
+}

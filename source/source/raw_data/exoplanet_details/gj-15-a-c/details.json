@@ -1,0 +1,31 @@
+{
+    "Description": "",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.27",
+    "File": "exoplanet_details/gj-15-a-c/",
+    "Id": "gj-15-a-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7499/gj-15-a-c/",
+    "Mass": "36 Earths",
+    "Name": "gj-15-a-c",
+    "Orbital Period": "20.8 years",
+    "Orbital Radius": "5.4 AU",
+    "Planet Radius": "0.595 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "5dcce9e6-bcb4-48a0-adcf-c9c28accbfab",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-15-a-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-15-a-c/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-15-a-c",
+            "Path": "exoplanet_details/gj-15-a-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_15_A_c"
+    }
+}

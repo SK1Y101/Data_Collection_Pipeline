@@ -1,0 +1,31 @@
+{
+    "Description": "HD 11506 c is a gas giant exoplanet that orbits an F-type star. Its mass is 0.408 Jupiters, it takes 223.4 days to complete one orbit of its star, and is 0.774 AU from its star. Its discovery was announced in 2008.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2008",
+    "Eccentricity": "0.19",
+    "File": "exoplanet_details/hd-11506-c/",
+    "Id": "hd-11506-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6573/hd-11506-c/",
+    "Mass": "0.408 Jupiters",
+    "Name": "hd-11506-c",
+    "Orbital Period": "223.4 days",
+    "Orbital Radius": "0.774 AU",
+    "Planet Radius": "1.27 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "3ac4073e-570e-4d69-ae44-d33fd02eea96",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-11506-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-11506-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-11506-c",
+            "Path": "exoplanet_details/hd-11506-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_11506_c"
+    }
+}

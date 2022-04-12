@@ -1,0 +1,31 @@
+{
+    "Description": "HAT-P-65 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.527 Jupiters, it takes 2.6 days to complete one orbit of its star, and is 0.03951 AU from its star. Its discovery was announced in 2016.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2016",
+    "Eccentricity": "< 0.304",
+    "File": "exoplanet_details/hat-p-65-b/",
+    "Id": "hat-p-65-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/3390/hat-p-65-b/",
+    "Mass": "0.527 Jupiters",
+    "Name": "hat-p-65-b",
+    "Orbital Period": "2.6 days",
+    "Orbital Radius": "0.03951 AU",
+    "Planet Radius": "1.89 x Jupiter",
+    "Planet Type": "Gas Giant",
+    "Uuid": "0a488db3-7579-4be6-94fb-b330483ca3e1",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-65-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-65-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-65-b",
+            "Path": "exoplanet_details/hat-p-65-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-65_b"
+    }
+}

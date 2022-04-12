@@ -1,0 +1,31 @@
+{
+    "Description": "Beta Pictoris c is a gas giant exoplanet that orbits an A-type star. Its mass is 9 Jupiters, it takes 3.3 years to complete one orbit of its star, and is 2.7 AU from its star. Its discovery was announced in 2019.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.24",
+    "File": "exoplanet_details/beta-pictoris-c/",
+    "Id": "beta-pictoris-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7461/beta-pictoris-c/",
+    "Mass": "9 Jupiters",
+    "Name": "beta-pictoris-c",
+    "Orbital Period": "3.3 years",
+    "Orbital Radius": "2.7 AU",
+    "Planet Radius": "1.12 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "00566de3-3a21-4f4a-ac38-5be72aca6b5d",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/beta-pictoris-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/beta-pictoris-c/images/1.png"
+        },
+        "2": {
+            "Description": "Beta-pictoris-c",
+            "Path": "exoplanet_details/beta-pictoris-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/bet_Pic_c"
+    }
+}

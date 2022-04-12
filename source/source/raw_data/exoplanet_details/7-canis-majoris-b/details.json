@@ -1,0 +1,31 @@
+{
+    "Description": "7 Canis Majoris b is a gas giant exoplanet that orbits a K-type star. Its mass is 1.85 Jupiters, it takes 2 years to complete one orbit of its star, and is 1.758 AU from its star. Its discovery was announced in 2011.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2011",
+    "Eccentricity": "0.06",
+    "File": "exoplanet_details/7-canis-majoris-b/",
+    "Id": "7-canis-majoris-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6987/7-canis-majoris-b/",
+    "Mass": "1.85 Jupiters",
+    "Name": "7-canis-majoris-b",
+    "Orbital Period": "2 years",
+    "Orbital Radius": "1.758 AU",
+    "Planet Radius": "1.2 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "7c54a337-049f-42cf-b598-a500e4e97e07",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/7-canis-majoris-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/7-canis-majoris-b/images/1.png"
+        },
+        "2": {
+            "Description": "7-canis-majoris-b",
+            "Path": "exoplanet_details/7-canis-majoris-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/7_CMa_b"
+    }
+}

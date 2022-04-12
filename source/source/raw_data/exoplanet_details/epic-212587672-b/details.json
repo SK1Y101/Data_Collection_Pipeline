@@ -1,0 +1,31 @@
+{
+    "Description": "EPIC 212587672 b is a super Earth exoplanet that orbits an F-type star. Its mass is 2.13 Earths and it takes 15.3 days to complete one orbit of its star. Its discovery was announced in 2019.",
+    "Detection Method": "Transit",
+    "Discovery Date": "2019",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/epic-212587672-b/",
+    "Id": "epic-212587672-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7405/epic-212587672-b/",
+    "Mass": "2.13 Earths",
+    "Name": "epic-212587672-b",
+    "Orbital Period": "15.3 days",
+    "Orbital Radius": "Unknown",
+    "Planet Radius": "1.26 x Earth",
+    "Planet Type": "Super Earth",
+    "Uuid": "235f1e72-dc43-47a8-b2a3-5b4d6728bb17",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/epic-212587672-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/epic-212587672-b/images/1.png"
+        },
+        "2": {
+            "Description": "Epic-212587672-b",
+            "Path": "exoplanet_details/epic-212587672-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/EPIC_212587672_b"
+    }
+}

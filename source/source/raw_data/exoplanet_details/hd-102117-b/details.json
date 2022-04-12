@@ -1,0 +1,31 @@
+{
+    "Description": "HD 102117 b is a gas giant exoplanet that orbits a G-type star. Its mass is 0.17 Jupiters, it takes 20.8 days to complete one orbit of its star, and is 0.15 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.12",
+    "File": "exoplanet_details/hd-102117-b/",
+    "Id": "hd-102117-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6717/hd-102117-b/",
+    "Mass": "0.17 Jupiters",
+    "Name": "hd-102117-b",
+    "Orbital Period": "20.8 days",
+    "Orbital Radius": "0.15 AU",
+    "Planet Radius": "0.756 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "09583ec3-2613-470d-b27a-bbd10c7863e8",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-102117-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-102117-b/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-102117-b",
+            "Path": "exoplanet_details/hd-102117-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_102117_b"
+    }
+}

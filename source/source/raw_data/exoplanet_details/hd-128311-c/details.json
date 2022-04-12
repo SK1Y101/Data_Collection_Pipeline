@@ -1,0 +1,31 @@
+{
+    "Description": "HD 128311 c is a gas giant exoplanet that orbits a K-type star. Its mass is 3.789 Jupiters, it takes 2.5 years to complete one orbit of its star, and is 1.74 AU from its star. Its discovery was announced in 2005.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2005",
+    "Eccentricity": "0.16",
+    "File": "exoplanet_details/hd-128311-c/",
+    "Id": "hd-128311-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6764/hd-128311-c/",
+    "Mass": "3.789 Jupiters",
+    "Name": "hd-128311-c",
+    "Orbital Period": "2.5 years",
+    "Orbital Radius": "1.74 AU",
+    "Planet Radius": "1.16 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "f48d0fa1-d3b3-48e4-96c0-48c1b2f0b4ec",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hd-128311-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hd-128311-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hd-128311-c",
+            "Path": "exoplanet_details/hd-128311-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HD_128311_c"
+    }
+}

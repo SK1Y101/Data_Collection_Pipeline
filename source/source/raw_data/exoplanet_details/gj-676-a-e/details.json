@@ -1,0 +1,31 @@
+{
+    "Description": "GJ 676 A e is a Neptune-like exoplanet that orbits a K-type star. Its mass is 8.1 Earths, it takes 35.4 days to complete one orbit of its star, and is 0.187 AU from its star. Its discovery was announced in 2012.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2012",
+    "Eccentricity": "0.13",
+    "File": "exoplanet_details/gj-676-a-e/",
+    "Id": "gj-676-a-e",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6548/gj-676-a-e/",
+    "Mass": "8.1 Earths",
+    "Name": "gj-676-a-e",
+    "Orbital Period": "35.4 days",
+    "Orbital Radius": "0.187 AU",
+    "Planet Radius": "0.247 x Jupiter (estimate)",
+    "Planet Type": "Neptune-like",
+    "Uuid": "6a33f349-8230-4bc4-ac8b-741e06fbc5f2",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/gj-676-a-e/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/gj-676-a-e/images/1.png"
+        },
+        "2": {
+            "Description": "Gj-676-a-e",
+            "Path": "exoplanet_details/gj-676-a-e/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/GJ_676_A_e"
+    }
+}

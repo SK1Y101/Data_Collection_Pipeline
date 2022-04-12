@@ -1,0 +1,31 @@
+{
+    "Description": "HAT-P-11 c is a gas giant exoplanet that orbits a K-type star. Its mass is 2.3 Jupiters, it takes 9.3 years to complete one orbit of its star, and is 4.13 AU from its star. Its discovery was announced in 2018.",
+    "Detection Method": "Radial Velocity",
+    "Discovery Date": "2018",
+    "Eccentricity": "0.6",
+    "File": "exoplanet_details/hat-p-11-c/",
+    "Id": "hat-p-11-c",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/6312/hat-p-11-c/",
+    "Mass": "2.3 Jupiters",
+    "Name": "hat-p-11-c",
+    "Orbital Period": "9.3 years",
+    "Orbital Radius": "4.13 AU",
+    "Planet Radius": "1.19 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "442e22f4-76c6-4237-b852-3a550d8674cd",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/hat-p-11-c/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/hat-p-11-c/images/1.png"
+        },
+        "2": {
+            "Description": "Hat-p-11-c",
+            "Path": "exoplanet_details/hat-p-11-c/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/HAT-P-11_c"
+    }
+}

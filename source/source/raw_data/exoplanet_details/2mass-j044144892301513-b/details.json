@@ -1,0 +1,31 @@
+{
+    "Description": "2MASS J04414489+2301513 b is a gas giant exoplanet that orbits an M-type star. Its mass is 7.5 Jupiters, it takes 411 years to complete one orbit of its star, and is 15 AU from its star. Its discovery was announced in 2010.",
+    "Detection Method": "Direct Imaging",
+    "Discovery Date": "2010",
+    "Eccentricity": "0.0",
+    "File": "exoplanet_details/2mass-j044144892301513-b/",
+    "Id": "2mass-j044144892301513-b",
+    "Link": "https://exoplanets.nasa.gov//exoplanet-catalog/7064/2mass-j044144892301513-b/",
+    "Mass": "7.5 Jupiters",
+    "Name": "2mass-j044144892301513-b",
+    "Orbital Period": "411 years",
+    "Orbital Radius": "15.0 AU",
+    "Planet Radius": "1.13 x Jupiter (estimate)",
+    "Planet Type": "Gas Giant",
+    "Uuid": "14d80bc7-4b66-4067-9f42-b4d8672eb415",
+    "images": {
+        "0": {
+            "Description": "Comparison with jupiter",
+            "Path": "exoplanet_details/2mass-j044144892301513-b/images/0.png"
+        },
+        "1": {
+            "Description": "Comparison with earth",
+            "Path": "exoplanet_details/2mass-j044144892301513-b/images/1.png"
+        },
+        "2": {
+            "Description": "2mass-j044144892301513-b",
+            "Path": "exoplanet_details/2mass-j044144892301513-b/images/2.png"
+        },
+        "Link": "https://eyes.nasa.gov/apps/exo/#/planet/2MASS_J04414489+2301513_b"
+    }
+}
